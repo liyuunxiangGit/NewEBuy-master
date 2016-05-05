@@ -1,0 +1,500 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0449207E192A1CAE00FAAB3C /* SNiPhoneCityViewDT.m in Sources */ = {isa = PBXBuildFile; fileRef = 0449207D192A1CAE00FAAB3C /* SNiPhoneCityViewDT.m */; };
+		04492081192A228F00FAAB3C /* SNiPhoneDistrictViewDT.m in Sources */ = {isa = PBXBuildFile; fileRef = 04492080192A228F00FAAB3C /* SNiPhoneDistrictViewDT.m */; };
+		04492084192A273200FAAB3C /* SNiPhoneTownViewDT.m in Sources */ = {isa = PBXBuildFile; fileRef = 04492083192A273200FAAB3C /* SNiPhoneTownViewDT.m */; };
+		04952884191693F800916032 /* CommonDataTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 04952881191693F800916032 /* CommonDataTask.m */; };
+		04952885191693F800916032 /* SNHttpClient.m in Sources */ = {isa = PBXBuildFile; fileRef = 04952883191693F800916032 /* SNHttpClient.m */; };
+		0495289F1918053800916032 /* SNiPhoneProvinceViewDT.m in Sources */ = {isa = PBXBuildFile; fileRef = 0495289E1918053800916032 /* SNiPhoneProvinceViewDT.m */; };
+		049528A21918057C00916032 /* AddressInfoDTO.m in Sources */ = {isa = PBXBuildFile; fileRef = 049528A11918057C00916032 /* AddressInfoDTO.m */; };
+		049528A51918067000916032 /* CommonDTO.m in Sources */ = {isa = PBXBuildFile; fileRef = 049528A41918067000916032 /* CommonDTO.m */; };
+		04D552FB19116C9600ACE774 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04D552FA19116C9600ACE774 /* Foundation.framework */; };
+		04D5530919116C9600ACE774 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04D5530819116C9600ACE774 /* XCTest.framework */; };
+		04D5530A19116C9600ACE774 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04D552FA19116C9600ACE774 /* Foundation.framework */; };
+		04D5530C19116C9600ACE774 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04D5530B19116C9600ACE774 /* UIKit.framework */; };
+		04D5530F19116C9600ACE774 /* libSNMobileHttpClient.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 04D552F719116C9600ACE774 /* libSNMobileHttpClient.a */; };
+		04D5531519116C9600ACE774 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 04D5531319116C9600ACE774 /* InfoPlist.strings */; };
+		04D5531719116C9600ACE774 /* SNMobileHttpClientTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D5531619116C9600ACE774 /* SNMobileHttpClientTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		04D5530D19116C9600ACE774 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 04D552EF19116C9600ACE774 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 04D552F619116C9600ACE774;
+			remoteInfo = SNMobileHttpClient;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		04D552F519116C9600ACE774 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/$(PRODUCT_NAME)";
+			dstSubfolderSpec = 16;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		0449207C192A1CAE00FAAB3C /* SNiPhoneCityViewDT.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SNiPhoneCityViewDT.h; sourceTree = "<group>"; };
+		0449207D192A1CAE00FAAB3C /* SNiPhoneCityViewDT.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SNiPhoneCityViewDT.m; sourceTree = "<group>"; };
+		0449207F192A228F00FAAB3C /* SNiPhoneDistrictViewDT.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SNiPhoneDistrictViewDT.h; sourceTree = "<group>"; };
+		04492080192A228F00FAAB3C /* SNiPhoneDistrictViewDT.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SNiPhoneDistrictViewDT.m; sourceTree = "<group>"; };
+		04492082192A273200FAAB3C /* SNiPhoneTownViewDT.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SNiPhoneTownViewDT.h; sourceTree = "<group>"; };
+		04492083192A273200FAAB3C /* SNiPhoneTownViewDT.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SNiPhoneTownViewDT.m; sourceTree = "<group>"; };
+		0495287F1916936500916032 /* Pods-SNMobileHttpClient.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = "Pods-SNMobileHttpClient.xcconfig"; sourceTree = "<group>"; };
+		04952880191693F800916032 /* CommonDataTask.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CommonDataTask.h; sourceTree = "<group>"; };
+		04952881191693F800916032 /* CommonDataTask.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CommonDataTask.m; sourceTree = "<group>"; };
+		04952882191693F800916032 /* SNHttpClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SNHttpClient.h; sourceTree = "<group>"; };
+		04952883191693F800916032 /* SNHttpClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SNHttpClient.m; sourceTree = "<group>"; };
+		0495289D1918053800916032 /* SNiPhoneProvinceViewDT.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SNiPhoneProvinceViewDT.h; sourceTree = "<group>"; };
+		0495289E1918053800916032 /* SNiPhoneProvinceViewDT.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SNiPhoneProvinceViewDT.m; sourceTree = "<group>"; };
+		049528A01918057C00916032 /* AddressInfoDTO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddressInfoDTO.h; sourceTree = "<group>"; };
+		049528A11918057C00916032 /* AddressInfoDTO.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddressInfoDTO.m; sourceTree = "<group>"; };
+		049528A31918067000916032 /* CommonDTO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CommonDTO.h; sourceTree = "<group>"; };
+		049528A41918067000916032 /* CommonDTO.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CommonDTO.m; sourceTree = "<group>"; };
+		04D552F719116C9600ACE774 /* libSNMobileHttpClient.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libSNMobileHttpClient.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		04D552FA19116C9600ACE774 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		04D552FE19116C9600ACE774 /* SNMobileHttpClient-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SNMobileHttpClient-Prefix.pch"; sourceTree = "<group>"; };
+		04D5530719116C9600ACE774 /* SNMobileHttpClientTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SNMobileHttpClientTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		04D5530819116C9600ACE774 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		04D5530B19116C9600ACE774 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		04D5531219116C9600ACE774 /* SNMobileHttpClientTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SNMobileHttpClientTests-Info.plist"; sourceTree = "<group>"; };
+		04D5531419116C9600ACE774 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		04D5531619116C9600ACE774 /* SNMobileHttpClientTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SNMobileHttpClientTests.m; sourceTree = "<group>"; };
+		04F926801925275F00594DAC /* SNHttpConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SNHttpConfig.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		04D552F419116C9600ACE774 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04D552FB19116C9600ACE774 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04D5530419116C9600ACE774 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04D5530919116C9600ACE774 /* XCTest.framework in Frameworks */,
+				04D5530F19116C9600ACE774 /* libSNMobileHttpClient.a in Frameworks */,
+				04D5530C19116C9600ACE774 /* UIKit.framework in Frameworks */,
+				04D5530A19116C9600ACE774 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		04952886191693FD00916032 /* DTO */ = {
+			isa = PBXGroup;
+			children = (
+				049528A01918057C00916032 /* AddressInfoDTO.h */,
+				049528A11918057C00916032 /* AddressInfoDTO.m */,
+			);
+			name = DTO;
+			sourceTree = "<group>";
+		};
+		049528871916940300916032 /* HttpClent */ = {
+			isa = PBXGroup;
+			children = (
+				0495289D1918053800916032 /* SNiPhoneProvinceViewDT.h */,
+				0495289E1918053800916032 /* SNiPhoneProvinceViewDT.m */,
+				0449207C192A1CAE00FAAB3C /* SNiPhoneCityViewDT.h */,
+				0449207D192A1CAE00FAAB3C /* SNiPhoneCityViewDT.m */,
+				0449207F192A228F00FAAB3C /* SNiPhoneDistrictViewDT.h */,
+				04492080192A228F00FAAB3C /* SNiPhoneDistrictViewDT.m */,
+				04492082192A273200FAAB3C /* SNiPhoneTownViewDT.h */,
+				04492083192A273200FAAB3C /* SNiPhoneTownViewDT.m */,
+			);
+			name = HttpClent;
+			sourceTree = "<group>";
+		};
+		049528881916940E00916032 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				04952880191693F800916032 /* CommonDataTask.h */,
+				04952881191693F800916032 /* CommonDataTask.m */,
+				04952882191693F800916032 /* SNHttpClient.h */,
+				04952883191693F800916032 /* SNHttpClient.m */,
+				049528A31918067000916032 /* CommonDTO.h */,
+				049528A41918067000916032 /* CommonDTO.m */,
+			);
+			name = Common;
+			sourceTree = "<group>";
+		};
+		0495289B1917FD6500916032 /* Config */ = {
+			isa = PBXGroup;
+			children = (
+				04F926801925275F00594DAC /* SNHttpConfig.h */,
+			);
+			name = Config;
+			sourceTree = "<group>";
+		};
+		04D552EE19116C9600ACE774 = {
+			isa = PBXGroup;
+			children = (
+				0495287F1916936500916032 /* Pods-SNMobileHttpClient.xcconfig */,
+				04D552FC19116C9600ACE774 /* SNMobileHttpClient */,
+				04D5531019116C9600ACE774 /* SNMobileHttpClientTests */,
+				04D552F919116C9600ACE774 /* Frameworks */,
+				04D552F819116C9600ACE774 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		04D552F819116C9600ACE774 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				04D552F719116C9600ACE774 /* libSNMobileHttpClient.a */,
+				04D5530719116C9600ACE774 /* SNMobileHttpClientTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		04D552F919116C9600ACE774 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				04D552FA19116C9600ACE774 /* Foundation.framework */,
+				04D5530819116C9600ACE774 /* XCTest.framework */,
+				04D5530B19116C9600ACE774 /* UIKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		04D552FC19116C9600ACE774 /* SNMobileHttpClient */ = {
+			isa = PBXGroup;
+			children = (
+				0495289B1917FD6500916032 /* Config */,
+				049528881916940E00916032 /* Common */,
+				049528871916940300916032 /* HttpClent */,
+				04952886191693FD00916032 /* DTO */,
+				04D552FD19116C9600ACE774 /* Supporting Files */,
+			);
+			path = SNMobileHttpClient;
+			sourceTree = "<group>";
+		};
+		04D552FD19116C9600ACE774 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				04D552FE19116C9600ACE774 /* SNMobileHttpClient-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		04D5531019116C9600ACE774 /* SNMobileHttpClientTests */ = {
+			isa = PBXGroup;
+			children = (
+				04D5531619116C9600ACE774 /* SNMobileHttpClientTests.m */,
+				04D5531119116C9600ACE774 /* Supporting Files */,
+			);
+			path = SNMobileHttpClientTests;
+			sourceTree = "<group>";
+		};
+		04D5531119116C9600ACE774 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				04D5531219116C9600ACE774 /* SNMobileHttpClientTests-Info.plist */,
+				04D5531319116C9600ACE774 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		04D552F619116C9600ACE774 /* SNMobileHttpClient */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04D5531A19116C9600ACE774 /* Build configuration list for PBXNativeTarget "SNMobileHttpClient" */;
+			buildPhases = (
+				04D552F319116C9600ACE774 /* Sources */,
+				04D552F419116C9600ACE774 /* Frameworks */,
+				04D552F519116C9600ACE774 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SNMobileHttpClient;
+			productName = SNMobileHttpClient;
+			productReference = 04D552F719116C9600ACE774 /* libSNMobileHttpClient.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		04D5530619116C9600ACE774 /* SNMobileHttpClientTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04D5531D19116C9600ACE774 /* Build configuration list for PBXNativeTarget "SNMobileHttpClientTests" */;
+			buildPhases = (
+				04D5530319116C9600ACE774 /* Sources */,
+				04D5530419116C9600ACE774 /* Frameworks */,
+				04D5530519116C9600ACE774 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				04D5530E19116C9600ACE774 /* PBXTargetDependency */,
+			);
+			name = SNMobileHttpClientTests;
+			productName = SNMobileHttpClientTests;
+			productReference = 04D5530719116C9600ACE774 /* SNMobileHttpClientTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		04D552EF19116C9600ACE774 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = suning;
+			};
+			buildConfigurationList = 04D552F219116C9600ACE774 /* Build configuration list for PBXProject "SNMobileHttpClient" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 04D552EE19116C9600ACE774;
+			productRefGroup = 04D552F819116C9600ACE774 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				04D552F619116C9600ACE774 /* SNMobileHttpClient */,
+				04D5530619116C9600ACE774 /* SNMobileHttpClientTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		04D5530519116C9600ACE774 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04D5531519116C9600ACE774 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		04D552F319116C9600ACE774 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				049528A51918067000916032 /* CommonDTO.m in Sources */,
+				04492081192A228F00FAAB3C /* SNiPhoneDistrictViewDT.m in Sources */,
+				0449207E192A1CAE00FAAB3C /* SNiPhoneCityViewDT.m in Sources */,
+				049528A21918057C00916032 /* AddressInfoDTO.m in Sources */,
+				04952885191693F800916032 /* SNHttpClient.m in Sources */,
+				04952884191693F800916032 /* CommonDataTask.m in Sources */,
+				04492084192A273200FAAB3C /* SNiPhoneTownViewDT.m in Sources */,
+				0495289F1918053800916032 /* SNiPhoneProvinceViewDT.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04D5530319116C9600ACE774 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04D5531719116C9600ACE774 /* SNMobileHttpClientTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		04D5530E19116C9600ACE774 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 04D552F619116C9600ACE774 /* SNMobileHttpClient */;
+			targetProxy = 04D5530D19116C9600ACE774 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		04D5531319116C9600ACE774 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				04D5531419116C9600ACE774 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		04D5531819116C9600ACE774 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		04D5531919116C9600ACE774 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		04D5531B19116C9600ACE774 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0495287F1916936500916032 /* Pods-SNMobileHttpClient.xcconfig */;
+			buildSettings = {
+				DSTROOT = /tmp/SNMobileHttpClient.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SNMobileHttpClient/SNMobileHttpClient-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		04D5531C19116C9600ACE774 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0495287F1916936500916032 /* Pods-SNMobileHttpClient.xcconfig */;
+			buildSettings = {
+				DSTROOT = /tmp/SNMobileHttpClient.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SNMobileHttpClient/SNMobileHttpClient-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		04D5531E19116C9600ACE774 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SNMobileHttpClient/SNMobileHttpClient-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "SNMobileHttpClientTests/SNMobileHttpClientTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		04D5531F19116C9600ACE774 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SNMobileHttpClient/SNMobileHttpClient-Prefix.pch";
+				INFOPLIST_FILE = "SNMobileHttpClientTests/SNMobileHttpClientTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		04D552F219116C9600ACE774 /* Build configuration list for PBXProject "SNMobileHttpClient" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04D5531819116C9600ACE774 /* Debug */,
+				04D5531919116C9600ACE774 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04D5531A19116C9600ACE774 /* Build configuration list for PBXNativeTarget "SNMobileHttpClient" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04D5531B19116C9600ACE774 /* Debug */,
+				04D5531C19116C9600ACE774 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04D5531D19116C9600ACE774 /* Build configuration list for PBXNativeTarget "SNMobileHttpClientTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04D5531E19116C9600ACE774 /* Debug */,
+				04D5531F19116C9600ACE774 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 04D552EF19116C9600ACE774 /* Project object */;
+}

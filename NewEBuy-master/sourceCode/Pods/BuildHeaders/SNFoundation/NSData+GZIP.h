@@ -1,0 +1,1 @@
+../../SNFoundation/SNFoundation/NSData+GZIP.h

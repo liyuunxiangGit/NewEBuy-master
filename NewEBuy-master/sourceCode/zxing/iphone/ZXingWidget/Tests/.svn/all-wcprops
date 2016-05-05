@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Tests
+END
+AddressBookAUResultParserTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Tests/AddressBookAUResultParserTests.m
+END
+EmailDoCoMoResultParserTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Tests/EmailDoCoMoResultParserTests.m
+END
+BookmarkDoCoMoTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Tests/BookmarkDoCoMoTests.m
+END
+ISBNResultParserTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Tests/ISBNResultParserTests.m
+END
+MeCardParserTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Tests/MeCardParserTests.m
+END
+EmailAddressResultParserTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Tests/EmailAddressResultParserTests.m
+END
+BizcardResultParserTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Tests/BizcardResultParserTests.m
+END
+VCardResultParserTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Tests/VCardResultParserTests.m
+END
+SMTPResultParserTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Tests/SMTPResultParserTests.m
+END

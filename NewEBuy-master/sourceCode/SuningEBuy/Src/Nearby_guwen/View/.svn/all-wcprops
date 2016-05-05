@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View
+END
+NBMagicImgButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBMagicImgButton.h
+END
+NBCommentTableCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBCommentTableCell.h
+END
+NBHomeMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBHomeMenu.h
+END
+NBMagicImgButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBMagicImgButton.m
+END
+NBYPostionView.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBYPostionView.h
+END
+NBCommentTableCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBCommentTableCell.m
+END
+NBHomeMenu.m
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBHomeMenu.m
+END
+NBYPostionView.m
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBYPostionView.m
+END
+NBShakeButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBShakeButton.h
+END
+NBNUnreadView.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBNUnreadView.h
+END
+NBShakeButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBShakeButton.m
+END
+NBNUnreadView.m
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBNUnreadView.m
+END
+NBDaShangView.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBDaShangView.h
+END
+NBARefreshTableView.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBARefreshTableView.h
+END
+NBBRefreshTableView.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBBRefreshTableView.h
+END
+NBDaShangView.m
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBDaShangView.m
+END
+NBARefreshTableView.m
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBARefreshTableView.m
+END
+NBBRefreshTableView.m
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBBRefreshTableView.m
+END
+NBLocationAddrsListView.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBLocationAddrsListView.h
+END
+NBYJuBaoView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBYJuBaoView.xib
+END
+NBStickGroupView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBStickGroupView.xib
+END
+NBLocationAddrsListView.m
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBLocationAddrsListView.m
+END
+NBNearbyTableCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBNearbyTableCell.xib
+END
+NBYJuBaoView.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBYJuBaoView.h
+END
+NBStickGroupView.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBStickGroupView.h
+END
+NBNearbyTableCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBNearbyTableCell.h
+END
+NBYJuBaoView.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBYJuBaoView.m
+END
+NBLocationAddrsTableCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBLocationAddrsTableCell.xib
+END
+NBStickGroupView.m
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBStickGroupView.m
+END
+NBNearbyTableCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBNearbyTableCell.m
+END
+NBYRadiusPortriatView.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBYRadiusPortriatView.h
+END
+NBCommentTableCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBCommentTableCell.xib
+END
+NBYRadiusPortriatView.m
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Src/Nearby_guwen/View/NBYRadiusPortriatView.m
+END

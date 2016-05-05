@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Common/UILabel
+END
+FXLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Common/UILabel/FXLabel.h
+END
+OHAttributedLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Common/UILabel/OHAttributedLabel.h
+END
+NSAttributedString+Attributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Common/UILabel/NSAttributedString+Attributes.h
+END
+FXLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Common/UILabel/FXLabel.m
+END
+StrikeThroughLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Common/UILabel/StrikeThroughLabel.h
+END
+TextLayoutLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Common/UILabel/TextLayoutLabel.h
+END
+OHAttributedLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Common/UILabel/OHAttributedLabel.m
+END
+NSAttributedString+Attributes.m
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Common/UILabel/NSAttributedString+Attributes.m
+END
+StrikeThroughLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Common/UILabel/StrikeThroughLabel.m
+END
+TextLayoutLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Common/UILabel/TextLayoutLabel.m
+END

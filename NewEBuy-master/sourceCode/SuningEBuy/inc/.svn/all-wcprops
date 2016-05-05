@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc
+END
+BMKShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKShape.h
+END
+BMKCircle.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKCircle.h
+END
+BMKOverlayGLBasicView.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKOverlayGLBasicView.h
+END
+BMKMultiPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKMultiPoint.h
+END
+BMKShareUrlSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKShareUrlSearchOption.h
+END
+BMKPoiSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKPoiSearchOption.h
+END
+BMKMapView.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKMapView.h
+END
+BMKActionPaopaoView.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKActionPaopaoView.h
+END
+BMKArclineView.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKArclineView.h
+END
+BMKCloudSearchInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKCloudSearchInfo.h
+END
+BMKLocationViewDisplayParam.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKLocationViewDisplayParam.h
+END
+BMKCloudPOIList.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKCloudPOIList.h
+END
+BMKShareURLSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKShareURLSearch.h
+END
+BMKOverlayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKOverlayView.h
+END
+BMKArcline.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKArcline.h
+END
+BMKPoiSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKPoiSearch.h
+END
+BMKCloudSearchComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKCloudSearchComponent.h
+END
+BMKBusLineSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKBusLineSearchOption.h
+END
+BMKOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKOverlay.h
+END
+BMKOfflineMapType.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKOfflineMapType.h
+END
+BMKPolygonView.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKPolygonView.h
+END
+BMKUtilsComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKUtilsComponent.h
+END
+BMKPointAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKPointAnnotation.h
+END
+BMKVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKVersion.h
+END
+BMKPolylineView.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKPolylineView.h
+END
+BMKRouteSearchType.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKRouteSearchType.h
+END
+BMKBusLineSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKBusLineSearch.h
+END
+BMKPolygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKPolygon.h
+END
+BMKSearchComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKSearchComponent.h
+END
+BMKOverlayPathView.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKOverlayPathView.h
+END
+BMKGroundOverlayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKGroundOverlayView.h
+END
+BMKPolyline.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKPolyline.h
+END
+BMKCloudSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKCloudSearch.h
+END
+BMKBaseComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKBaseComponent.h
+END
+BMapKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMapKit.h
+END
+BMKNavigation.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKNavigation.h
+END
+BMKMapComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKMapComponent.h
+END
+BMKGroundOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKGroundOverlay.h
+END
+BMKTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKTypes.h
+END
+BMKAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKAnnotationView.h
+END
+BMKSuggestionSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKSuggestionSearchOption.h
+END
+BMKGeocodeType.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKGeocodeType.h
+END
+BMKUserLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKUserLocation.h
+END
+BMKMapManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKMapManager.h
+END
+BMKGeneralDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKGeneralDelegate.h
+END
+BMKAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKAnnotation.h
+END
+BMKPinAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKPinAnnotationView.h
+END
+BMKRouteSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKRouteSearchOption.h
+END
+BMKSuggestionSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKSuggestionSearch.h
+END
+BMKPoiSearchType.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKPoiSearchType.h
+END
+BMKOfflineMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKOfflineMap.h
+END
+BMKMapStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKMapStatus.h
+END
+BMKGeocodeSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKGeocodeSearchOption.h
+END
+BMKRouteSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKRouteSearch.h
+END
+BMKLocationService.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKLocationService.h
+END
+BMKLocationComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKLocationComponent.h
+END
+BMKGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKGeometry.h
+END
+BMKGeocodeSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKGeocodeSearch.h
+END
+BMKCircleView.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/inc/BMKCircleView.h
+END

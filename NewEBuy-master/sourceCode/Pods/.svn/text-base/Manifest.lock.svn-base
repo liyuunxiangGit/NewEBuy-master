@@ -1,0 +1,111 @@
+PODS:
+  - AFNetworking (1.3.4)
+  - BBRSACryptor-sn (0.0.1):
+    - BBRSACryptor-sn/GTMBase64
+    - BBRSACryptor-sn/OpenSSL
+  - BBRSACryptor-sn/GTMBase64 (0.0.1)
+  - BBRSACryptor-sn/OpenSSL (0.0.1):
+    - BBRSACryptor-sn/OpenSSL/include
+  - BBRSACryptor-sn/OpenSSL/include (0.0.1):
+    - BBRSACryptor-sn/OpenSSL/include/openssl
+  - BBRSACryptor-sn/OpenSSL/include/openssl (0.0.1)
+  - BBTask-sn (1.0)
+  - BBVerticalAlignmentLabel-sn (0.0.1)
+  - CocoaLumberjack (1.9.2):
+    - CocoaLumberjack/Extensions
+  - CocoaLumberjack/Core (1.9.2)
+  - CocoaLumberjack/Extensions (1.9.2):
+    - CocoaLumberjack/Core
+  - FMDB (2.3):
+    - FMDB/standard
+  - FMDB/common (2.3)
+  - FMDB/standard (2.3):
+    - FMDB/common
+  - KeychainItemWrapper (1.2)
+  - libextobjc (0.4):
+    - libextobjc/EXTADT
+    - libextobjc/EXTConcreteProtocol
+    - libextobjc/EXTKeyPathCoding
+    - libextobjc/EXTNil
+    - libextobjc/EXTSafeCategory
+    - libextobjc/EXTScope
+    - libextobjc/EXTSelectorChecking
+    - libextobjc/EXTSynthesize
+    - libextobjc/NSInvocation+EXT
+    - libextobjc/NSMethodSignature+EXT
+    - libextobjc/RuntimeExtensions
+    - libextobjc/UmbrellaHeader
+  - libextobjc/EXTADT (0.4):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTConcreteProtocol (0.4):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTKeyPathCoding (0.4):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTNil (0.4):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTSafeCategory (0.4):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTScope (0.4):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTSelectorChecking (0.4):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTSynthesize (0.4):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/NSInvocation+EXT (0.4):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/NSMethodSignature+EXT (0.4):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/RuntimeExtensions (0.4)
+  - libextobjc/UmbrellaHeader (0.4)
+  - OpenUDID (1.0.0)
+  - QRCodeGenerator-sn (0.0.1):
+    - QRCodeGenerator-sn/qrcode
+  - QRCodeGenerator-sn/qrcode (0.0.1)
+  - SBJson (3.2)
+  - SDWebImage (3.7.1):
+    - SDWebImage/Core
+  - SDWebImage/Core (3.7.1)
+  - SNFoundation (0.0.3)
+  - TPKeyboardAvoiding-sn (1.2.4)
+  - UPPayPlugin-sn (2.1.4)
+  - ZBarSDK-sn (1.2):
+    - ZBarSDK-sn/zbar
+  - ZBarSDK-sn/zbar (1.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 1.3.4)
+  - BBRSACryptor-sn (~> 0.0.1)
+  - BBTask-sn (~> 1.0)
+  - BBVerticalAlignmentLabel-sn (~> 0.0.1)
+  - CocoaLumberjack (~> 1.9.2)
+  - FMDB (~> 2.3)
+  - KeychainItemWrapper (~> 1.2)
+  - libextobjc (~> 0.4)
+  - OpenUDID (~> 1.0.0)
+  - QRCodeGenerator-sn (~> 0.0.1)
+  - SBJson (~> 3.2)
+  - SDWebImage (~> 3.7.1)
+  - SNFoundation (~> 0.0.3)
+  - TPKeyboardAvoiding-sn (~> 1.2.4)
+  - UPPayPlugin-sn (~> 2.1.4)
+  - ZBarSDK-sn (~> 1.1)
+
+SPEC CHECKSUMS:
+  AFNetworking: 80c4e0652b08eb34e25b9c0ff3c82556fe5967b4
+  BBRSACryptor-sn: a2a4b5da937662491682956bf85fef83fe7597d7
+  BBTask-sn: 2b3592f4e4d5a6f1ca178ebcdf660cd84d122e70
+  BBVerticalAlignmentLabel-sn: 3f9a33105f34491c75f40c05d9d3ae52a0540abd
+  CocoaLumberjack: 205769c032b5fef85b92472046bcc8b7e7c8a817
+  FMDB: 31ec26773c7f7b7890a6038235a1f2bbd933a7cb
+  KeychainItemWrapper: 577e9e920185892873ded075b8ceb730bebdfd91
+  libextobjc: ba42e4111f433273a886cd54f0ddaddb7f62f82f
+  OpenUDID: 5a23b7477755efc2d7871b57aa79ba3089c40b74
+  QRCodeGenerator-sn: e36a4a732c451d4426d26d10c7e41078acd5ede9
+  SBJson: 72d7da8a5bf6c236e87194abb10ac573a8bccbef
+  SDWebImage: 116e88633b5b416ea0ca4b334a4ac59cf72dd38d
+  SNFoundation: 73b2e04583487d3494bcade6c597361a5b6cf252
+  TPKeyboardAvoiding-sn: 82e9808fe26f6be6fdc1a3a37c9d5876eff4fdfb
+  UPPayPlugin-sn: ab4a0a8d0887869d76984ca3c63c1d515e094de9
+  ZBarSDK-sn: f8b266764bd7d5ff227b0771da193fbe3a9af804
+
+COCOAPODS: 0.33.1

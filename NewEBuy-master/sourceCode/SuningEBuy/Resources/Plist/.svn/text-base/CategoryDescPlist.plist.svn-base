@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>手机充值/水费 电费 煤气费缴查</string>
+	<string>文艺/励志与成功/少儿/科技</string>
+	<string>手机通讯/手机配件/摄影摄像</string>
+	<string>电脑整机/办公设备/电脑外设</string>
+	<string>电视/影音/冰洗/空调</string>
+	<string>生活电器/厨房电器/个人护理</string>
+	<string>家纺家具/生活日用/成人用品</string>
+	<string>男装/女装/内衣/服饰配饰</string>
+	<string>鞋靴/家居鞋/时尚箱包</string>
+	<string>工艺礼品/钟表/珠宝/乐器</string>
+	<string>休闲零食/粮油米面/冲调饮品</string>
+	<string>运动鞋服/户外装备/养护改配</string>
+</array>
+</plist>

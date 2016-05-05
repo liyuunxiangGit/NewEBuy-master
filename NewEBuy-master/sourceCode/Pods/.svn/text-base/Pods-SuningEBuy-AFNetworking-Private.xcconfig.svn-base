@@ -1,0 +1,5 @@
+#include "Pods-SuningEBuy-AFNetworking.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/BuildHeaders" "${PODS_ROOT}/BuildHeaders/AFNetworking" "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/AFNetworking" "${PODS_ROOT}/Headers/BBRSACryptor-sn" "${PODS_ROOT}/Headers/BBRSACryptor-sn/openssl" "${PODS_ROOT}/Headers/BBTask-sn" "${PODS_ROOT}/Headers/BBVerticalAlignmentLabel-sn" "${PODS_ROOT}/Headers/CocoaLumberjack" "${PODS_ROOT}/Headers/FMDB" "${PODS_ROOT}/Headers/KeychainItemWrapper" "${PODS_ROOT}/Headers/OpenUDID" "${PODS_ROOT}/Headers/QRCodeGenerator-sn" "${PODS_ROOT}/Headers/SBJson" "${PODS_ROOT}/Headers/SDWebImage" "${PODS_ROOT}/Headers/SNFoundation" "${PODS_ROOT}/Headers/TPKeyboardAvoiding-sn" "${PODS_ROOT}/Headers/UPPayPlugin-sn" "${PODS_ROOT}/Headers/ZBarSDK-sn" "${PODS_ROOT}/Headers/ZBarSDK-sn/zbar" "${PODS_ROOT}/Headers/libextobjc"
+OTHER_LDFLAGS = -ObjC ${PODS_SUNINGEBUY_AFNETWORKING_OTHER_LDFLAGS}
+PODS_ROOT = ${SRCROOT}

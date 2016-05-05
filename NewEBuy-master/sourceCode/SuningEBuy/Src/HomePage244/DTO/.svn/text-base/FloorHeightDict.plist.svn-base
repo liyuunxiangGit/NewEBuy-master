@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app_01</key>
+	<string>100</string>
+	<key>app_02</key>
+	<string>75</string>
+	<key>app_03</key>
+	<string>155</string>
+	<key>app_04</key>
+	<string>210</string>
+	<key>app_05</key>
+	<string>85</string>
+	<key>app_06</key>
+	<string>85</string>
+	<key>app_07</key>
+	<string>135</string>
+	<key>app_08</key>
+	<string>165</string>
+	<key>app_09</key>
+	<string>165</string>
+	<key>app_10</key>
+	<string>165</string>
+	<key>app_11</key>
+	<string>195</string>
+	<key>app_12</key>
+	<string>90</string>
+	<key>app_13</key>
+	<string>150</string>
+	<key>app_14</key>
+	<string>355</string>
+	<key>app_15</key>
+	<string>205</string>
+	<key>app_16</key>
+	<string>200</string>
+	<key>app_17</key>
+	<string>165</string>
+	<key>app_18</key>
+	<string>250</string>
+	<key>app_19</key>
+	<string>195</string>
+	<key>app_20</key>
+	<string>205</string>
+	<key>app_21</key>
+	<string>205</string>
+	<key>app_22</key>
+	<string>250</string>
+	<key>app_100</key>
+	<string>44</string>
+</dict>
+</plist>

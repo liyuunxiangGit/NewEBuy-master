@@ -1,0 +1,434 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		04492093192A6D1100FAAB3C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04492092192A6D1100FAAB3C /* Foundation.framework */; };
+		044920A1192A6D1100FAAB3C /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 044920A0192A6D1100FAAB3C /* XCTest.framework */; };
+		044920A2192A6D1100FAAB3C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04492092192A6D1100FAAB3C /* Foundation.framework */; };
+		044920A4192A6D1100FAAB3C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 044920A3192A6D1100FAAB3C /* UIKit.framework */; };
+		044920A7192A6D1100FAAB3C /* libSNPlugin.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0449208F192A6D1100FAAB3C /* libSNPlugin.a */; };
+		044920AD192A6D1100FAAB3C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 044920AB192A6D1100FAAB3C /* InfoPlist.strings */; };
+		044920AF192A6D1100FAAB3C /* SNPluginTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 044920AE192A6D1100FAAB3C /* SNPluginTests.m */; };
+		044920BF192A714800FAAB3C /* SNAddressCachePlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 044920BE192A714800FAAB3C /* SNAddressCachePlugin.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		044920A5192A6D1100FAAB3C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 04492087192A6D1100FAAB3C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0449208E192A6D1100FAAB3C;
+			remoteInfo = SNPlugin;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		0449208D192A6D1100FAAB3C /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/$(PRODUCT_NAME)";
+			dstSubfolderSpec = 16;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		0449208F192A6D1100FAAB3C /* libSNPlugin.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libSNPlugin.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		04492092192A6D1100FAAB3C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		04492096192A6D1100FAAB3C /* SNPlugin-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SNPlugin-Prefix.pch"; sourceTree = "<group>"; };
+		0449209F192A6D1100FAAB3C /* SNPluginTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SNPluginTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		044920A0192A6D1100FAAB3C /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		044920A3192A6D1100FAAB3C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		044920AA192A6D1100FAAB3C /* SNPluginTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SNPluginTests-Info.plist"; sourceTree = "<group>"; };
+		044920AC192A6D1100FAAB3C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		044920AE192A6D1100FAAB3C /* SNPluginTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SNPluginTests.m; sourceTree = "<group>"; };
+		044920B8192A6D5F00FAAB3C /* SNPlugin.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = SNPlugin.xcconfig; sourceTree = "<group>"; };
+		044920BD192A714800FAAB3C /* SNAddressCachePlugin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SNAddressCachePlugin.h; sourceTree = "<group>"; };
+		044920BE192A714800FAAB3C /* SNAddressCachePlugin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SNAddressCachePlugin.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0449208C192A6D1100FAAB3C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04492093192A6D1100FAAB3C /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0449209C192A6D1100FAAB3C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				044920A1192A6D1100FAAB3C /* XCTest.framework in Frameworks */,
+				044920A4192A6D1100FAAB3C /* UIKit.framework in Frameworks */,
+				044920A2192A6D1100FAAB3C /* Foundation.framework in Frameworks */,
+				044920A7192A6D1100FAAB3C /* libSNPlugin.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		04492086192A6D1100FAAB3C = {
+			isa = PBXGroup;
+			children = (
+				044920B8192A6D5F00FAAB3C /* SNPlugin.xcconfig */,
+				04492094192A6D1100FAAB3C /* SNPlugin */,
+				044920A8192A6D1100FAAB3C /* SNPluginTests */,
+				04492091192A6D1100FAAB3C /* Frameworks */,
+				04492090192A6D1100FAAB3C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		04492090192A6D1100FAAB3C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0449208F192A6D1100FAAB3C /* libSNPlugin.a */,
+				0449209F192A6D1100FAAB3C /* SNPluginTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		04492091192A6D1100FAAB3C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				04492092192A6D1100FAAB3C /* Foundation.framework */,
+				044920A0192A6D1100FAAB3C /* XCTest.framework */,
+				044920A3192A6D1100FAAB3C /* UIKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		04492094192A6D1100FAAB3C /* SNPlugin */ = {
+			isa = PBXGroup;
+			children = (
+				044920B9192A6F7300FAAB3C /* AddressPlugin */,
+				04492095192A6D1100FAAB3C /* Supporting Files */,
+			);
+			path = SNPlugin;
+			sourceTree = "<group>";
+		};
+		04492095192A6D1100FAAB3C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				04492096192A6D1100FAAB3C /* SNPlugin-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		044920A8192A6D1100FAAB3C /* SNPluginTests */ = {
+			isa = PBXGroup;
+			children = (
+				044920AE192A6D1100FAAB3C /* SNPluginTests.m */,
+				044920A9192A6D1100FAAB3C /* Supporting Files */,
+			);
+			path = SNPluginTests;
+			sourceTree = "<group>";
+		};
+		044920A9192A6D1100FAAB3C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				044920AA192A6D1100FAAB3C /* SNPluginTests-Info.plist */,
+				044920AB192A6D1100FAAB3C /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		044920B9192A6F7300FAAB3C /* AddressPlugin */ = {
+			isa = PBXGroup;
+			children = (
+				044920BD192A714800FAAB3C /* SNAddressCachePlugin.h */,
+				044920BE192A714800FAAB3C /* SNAddressCachePlugin.m */,
+			);
+			name = AddressPlugin;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0449208E192A6D1100FAAB3C /* SNPlugin */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 044920B2192A6D1100FAAB3C /* Build configuration list for PBXNativeTarget "SNPlugin" */;
+			buildPhases = (
+				0449208B192A6D1100FAAB3C /* Sources */,
+				0449208C192A6D1100FAAB3C /* Frameworks */,
+				0449208D192A6D1100FAAB3C /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SNPlugin;
+			productName = SNPlugin;
+			productReference = 0449208F192A6D1100FAAB3C /* libSNPlugin.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		0449209E192A6D1100FAAB3C /* SNPluginTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 044920B5192A6D1100FAAB3C /* Build configuration list for PBXNativeTarget "SNPluginTests" */;
+			buildPhases = (
+				0449209B192A6D1100FAAB3C /* Sources */,
+				0449209C192A6D1100FAAB3C /* Frameworks */,
+				0449209D192A6D1100FAAB3C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				044920A6192A6D1100FAAB3C /* PBXTargetDependency */,
+			);
+			name = SNPluginTests;
+			productName = SNPluginTests;
+			productReference = 0449209F192A6D1100FAAB3C /* SNPluginTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		04492087192A6D1100FAAB3C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = suning;
+			};
+			buildConfigurationList = 0449208A192A6D1100FAAB3C /* Build configuration list for PBXProject "SNPlugin" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 04492086192A6D1100FAAB3C;
+			productRefGroup = 04492090192A6D1100FAAB3C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0449208E192A6D1100FAAB3C /* SNPlugin */,
+				0449209E192A6D1100FAAB3C /* SNPluginTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0449209D192A6D1100FAAB3C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				044920AD192A6D1100FAAB3C /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0449208B192A6D1100FAAB3C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				044920BF192A714800FAAB3C /* SNAddressCachePlugin.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0449209B192A6D1100FAAB3C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				044920AF192A6D1100FAAB3C /* SNPluginTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		044920A6192A6D1100FAAB3C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 0449208E192A6D1100FAAB3C /* SNPlugin */;
+			targetProxy = 044920A5192A6D1100FAAB3C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		044920AB192A6D1100FAAB3C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				044920AC192A6D1100FAAB3C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		044920B0192A6D1100FAAB3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		044920B1192A6D1100FAAB3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		044920B3192A6D1100FAAB3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 044920B8192A6D5F00FAAB3C /* SNPlugin.xcconfig */;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "compiler-default";
+				CLANG_CXX_LIBRARY = "compiler-default";
+				DSTROOT = /tmp/SNPlugin.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SNPlugin/SNPlugin-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		044920B4192A6D1100FAAB3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 044920B8192A6D5F00FAAB3C /* SNPlugin.xcconfig */;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "compiler-default";
+				CLANG_CXX_LIBRARY = "compiler-default";
+				DSTROOT = /tmp/SNPlugin.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SNPlugin/SNPlugin-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		044920B6192A6D1100FAAB3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SNPlugin/SNPlugin-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "SNPluginTests/SNPluginTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		044920B7192A6D1100FAAB3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SNPlugin/SNPlugin-Prefix.pch";
+				INFOPLIST_FILE = "SNPluginTests/SNPluginTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0449208A192A6D1100FAAB3C /* Build configuration list for PBXProject "SNPlugin" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				044920B0192A6D1100FAAB3C /* Debug */,
+				044920B1192A6D1100FAAB3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		044920B2192A6D1100FAAB3C /* Build configuration list for PBXNativeTarget "SNPlugin" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				044920B3192A6D1100FAAB3C /* Debug */,
+				044920B4192A6D1100FAAB3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		044920B5192A6D1100FAAB3C /* Build configuration list for PBXNativeTarget "SNPluginTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				044920B6192A6D1100FAAB3C /* Debug */,
+				044920B7192A6D1100FAAB3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 04492087192A6D1100FAAB3C /* Project object */;
+}

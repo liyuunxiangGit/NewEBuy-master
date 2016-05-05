@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SNMobileHttpClient/SNMobileHttpClient
+END
+SNiPhoneCityViewDT.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SNMobileHttpClient/SNMobileHttpClient/SNiPhoneCityViewDT.h
+END
+CommonDTO.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SNMobileHttpClient/SNMobileHttpClient/CommonDTO.h
+END
+SNiPhoneCityViewDT.m
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SNMobileHttpClient/SNMobileHttpClient/SNiPhoneCityViewDT.m
+END
+CommonDTO.m
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SNMobileHttpClient/SNMobileHttpClient/CommonDTO.m
+END
+CommonDataTask.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SNMobileHttpClient/SNMobileHttpClient/CommonDataTask.h
+END
+SNHttpConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SNMobileHttpClient/SNMobileHttpClient/SNHttpConfig.h
+END
+AddressInfoDTO.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SNMobileHttpClient/SNMobileHttpClient/AddressInfoDTO.h
+END
+CommonDataTask.m
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SNMobileHttpClient/SNMobileHttpClient/CommonDataTask.m
+END
+SNiPhoneProvinceViewDT.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SNMobileHttpClient/SNMobileHttpClient/SNiPhoneProvinceViewDT.h
+END
+SNiPhoneDistrictViewDT.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SNMobileHttpClient/SNMobileHttpClient/SNiPhoneDistrictViewDT.h
+END
+AddressInfoDTO.m
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SNMobileHttpClient/SNMobileHttpClient/AddressInfoDTO.m
+END
+SNiPhoneTownViewDT.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SNMobileHttpClient/SNMobileHttpClient/SNiPhoneTownViewDT.h
+END
+SNHttpClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SNMobileHttpClient/SNMobileHttpClient/SNHttpClient.h
+END
+SNiPhoneProvinceViewDT.m
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SNMobileHttpClient/SNMobileHttpClient/SNiPhoneProvinceViewDT.m
+END
+SNiPhoneDistrictViewDT.m
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SNMobileHttpClient/SNMobileHttpClient/SNiPhoneDistrictViewDT.m
+END
+SNiPhoneTownViewDT.m
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SNMobileHttpClient/SNMobileHttpClient/SNiPhoneTownViewDT.m
+END
+SNHttpClient.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SNMobileHttpClient/SNMobileHttpClient/SNHttpClient.m
+END
+SNMobileHttpClient-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SNMobileHttpClient/SNMobileHttpClient/SNMobileHttpClient-Prefix.pch
+END

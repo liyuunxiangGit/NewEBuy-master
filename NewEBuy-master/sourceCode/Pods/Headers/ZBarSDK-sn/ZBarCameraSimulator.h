@@ -1,0 +1,1 @@
+../../ZBarSDK-sn/zbar/headers/ZBarCameraSimulator.h

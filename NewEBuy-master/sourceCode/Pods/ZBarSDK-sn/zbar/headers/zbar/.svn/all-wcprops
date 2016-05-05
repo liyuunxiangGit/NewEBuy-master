@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/ZBarSDK-sn/zbar/headers/zbar
+END
+Scanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/ZBarSDK-sn/zbar/headers/zbar/Scanner.h
+END
+ImageScanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/ZBarSDK-sn/zbar/headers/zbar/ImageScanner.h
+END
+Exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/ZBarSDK-sn/zbar/headers/zbar/Exception.h
+END
+Processor.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/ZBarSDK-sn/zbar/headers/zbar/Processor.h
+END
+QZBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/ZBarSDK-sn/zbar/headers/zbar/QZBar.h
+END
+Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/ZBarSDK-sn/zbar/headers/zbar/Image.h
+END
+QZBarImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/ZBarSDK-sn/zbar/headers/zbar/QZBarImage.h
+END
+zbargtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/ZBarSDK-sn/zbar/headers/zbar/zbargtk.h
+END
+Decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/ZBarSDK-sn/zbar/headers/zbar/Decoder.h
+END
+Symbol.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/ZBarSDK-sn/zbar/headers/zbar/Symbol.h
+END
+Video.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/ZBarSDK-sn/zbar/headers/zbar/Video.h
+END
+Window.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/ZBarSDK-sn/zbar/headers/zbar/Window.h
+END

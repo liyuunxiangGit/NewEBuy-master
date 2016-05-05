@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing
+END
+LuminanceSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/LuminanceSource.h
+END
+Reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/Reader.cpp
+END
+Exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/Exception.h
+END
+ZXing.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/ZXing.h
+END
+ResultIO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/ResultIO.cpp
+END
+FormatException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/FormatException.cpp
+END
+ResultPointCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/ResultPointCallback.h
+END
+BarcodeFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/BarcodeFormat.h
+END
+Result.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/Result.cpp
+END
+BinaryBitmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/BinaryBitmap.cpp
+END
+Binarizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/Binarizer.cpp
+END
+ChecksumException.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/ChecksumException.h
+END
+ResultPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/ResultPoint.cpp
+END
+MultiFormatReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/MultiFormatReader.h
+END
+LuminanceSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/LuminanceSource.cpp
+END
+DecodeHints.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/DecodeHints.h
+END
+Exception.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/Exception.cpp
+END
+IllegalStateException.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/IllegalStateException.h
+END
+InvertedLuminanceSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/InvertedLuminanceSource.h
+END
+ResultPointCallback.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/ResultPointCallback.cpp
+END
+Reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/Reader.h
+END
+BarcodeFormat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/BarcodeFormat.cpp
+END
+FormatException.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/FormatException.h
+END
+NotFoundException.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/NotFoundException.h
+END
+ChecksumException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/ChecksumException.cpp
+END
+Result.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/Result.h
+END
+BinaryBitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/BinaryBitmap.h
+END
+MultiFormatReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/MultiFormatReader.cpp
+END
+ReaderException.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/ReaderException.h
+END
+DecodeHints.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/DecodeHints.cpp
+END
+Binarizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/Binarizer.h
+END
+ResultPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/ResultPoint.h
+END
+InvertedLuminanceSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/InvertedLuminanceSource.cpp
+END

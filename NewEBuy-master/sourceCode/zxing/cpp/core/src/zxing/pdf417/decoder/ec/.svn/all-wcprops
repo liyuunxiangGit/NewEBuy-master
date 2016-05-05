@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/pdf417/decoder/ec
+END
+ErrorCorrection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/pdf417/decoder/ec/ErrorCorrection.cpp
+END
+ModulusPoly.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/pdf417/decoder/ec/ModulusPoly.h
+END
+ModulusGF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/pdf417/decoder/ec/ModulusGF.cpp
+END
+ErrorCorrection.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/pdf417/decoder/ec/ErrorCorrection.h
+END
+ModulusGF.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/pdf417/decoder/ec/ModulusGF.h
+END
+ModulusPoly.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/pdf417/decoder/ec/ModulusPoly.cpp
+END

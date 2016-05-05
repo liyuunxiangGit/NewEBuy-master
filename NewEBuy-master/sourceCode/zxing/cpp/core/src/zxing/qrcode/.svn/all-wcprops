@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/qrcode
+END
+ErrorCorrectionLevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/qrcode/ErrorCorrectionLevel.h
+END
+FormatInformation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/qrcode/FormatInformation.cpp
+END
+QRCodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/qrcode/QRCodeReader.cpp
+END
+FormatInformation.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/qrcode/FormatInformation.h
+END
+QRCodeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/qrcode/QRCodeReader.h
+END
+Version.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/qrcode/Version.cpp
+END
+ErrorCorrectionLevel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/qrcode/ErrorCorrectionLevel.cpp
+END
+Version.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/qrcode/Version.h
+END

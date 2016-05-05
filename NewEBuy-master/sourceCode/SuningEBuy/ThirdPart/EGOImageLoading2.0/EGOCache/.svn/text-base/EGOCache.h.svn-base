@@ -1,0 +1,92 @@
+//
+//  EGOCache.h
+//  enormego
+//
+//  Created by Shaun Harrison on 7/4/09.
+//  Copyright (c) 2009-2010 enormego
+//
+//  Permission is hereby granted, free of charge, to any person obtaining a copy
+//  of this software and associated documentation files (the "Software"), to deal
+//  in the Software without restriction, including without limitation the rights
+//  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+//  copies of the Software, and to permit persons to whom the Software is
+//  furnished to do so, subject to the following conditions:
+//
+//  The above copyright notice and this permission notice shall be included in
+//  all copies or substantial portions of the Software.
+//
+//  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+//  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+//  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+//  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+//  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+//  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+//  THE SOFTWARE.
+//
+//  v1.0.001   12-8-28
+//  v2.0  13-6-19  添加图片的内存缓存
+
+#import <Foundation/Foundation.h>
+
+enum EGOCacheType
+{
+    EGOCacheTypeNone = 0,   //不缓存，每次都从网络加载
+    EGOCacheTypeMemory,     //内存缓存
+    EGOCacheTypeMemoryAndDisk,  
+    EGOCacheTypeDefault = EGOCacheTypeMemoryAndDisk,
+};
+typedef enum EGOCacheType EGOCacheType;
+
+#define kEGOCacheAgeForever                 (-1)                   //缓存时间永久
+#define kEGOCacheAgeOneLifeCycle            (-2)                   //一次生命周期，即应用再次打开，或进入后台超过5分钟
+#define KEGOCacheAgeDefault                 (60 * 60 * 24 * 7)     //a week
+#define kEGOCacheNameSpaceDefault           @"EGOImage"
+
+@interface EGOCache : NSObject
+{
+@private
+	NSMutableDictionary* cacheDictionary;
+	NSOperationQueue* diskOperationQueue;
+	NSTimeInterval defaultTimeoutInterval;
+}
+
++ (EGOCache *)currentCache;
+
+- (void)clearCache;
+- (void)removeCacheForKey:(NSString*)key;
+
+- (BOOL)hasCacheForKey:(NSString*)key;
+
+- (NSData*)dataForKey:(NSString*)key;
+- (void)setData:(NSData*)data forKey:(NSString*)key;
+- (void)setData:(NSData*)data forKey:(NSString*)key withTimeoutInterval:(NSTimeInterval)timeoutInterval;
+
+- (NSString*)stringForKey:(NSString*)key;
+- (void)setString:(NSString*)aString forKey:(NSString*)key;
+- (void)setString:(NSString*)aString forKey:(NSString*)key withTimeoutInterval:(NSTimeInterval)timeoutInterval;
+
+#if TARGET_OS_IPHONE
+- (UIImage*)imageForKey:(NSString*)key;
+- (void)setImage:(UIImage*)anImage forKey:(NSString*)key;
+- (void)setImage:(UIImage*)anImage forKey:(NSString*)key withTimeoutInterval:(NSTimeInterval)timeoutInterval;
+- (void)setImage:(UIImage *)anImage forKey:(NSString *)key withTimeoutInterval:(NSTimeInterval)timeoutInterval cacheType:(EGOCacheType)cacheType;
+
+#else
+- (NSImage*)imageForKey:(NSString*)key;
+- (void)setImage:(NSImage*)anImage forKey:(NSString*)key;
+- (void)setImage:(NSImage*)anImage forKey:(NSString*)key withTimeoutInterval:(NSTimeInterval)timeoutInterval;
+#endif
+
+- (NSData*)plistForKey:(NSString*)key;
+- (void)setPlist:(id)plistObject forKey:(NSString*)key;
+- (void)setPlist:(id)plistObject forKey:(NSString*)key withTimeoutInterval:(NSTimeInterval)timeoutInterval;
+
+- (void)copyFilePath:(NSString*)filePath asKey:(NSString*)key;
+- (void)copyFilePath:(NSString*)filePath asKey:(NSString*)key withTimeoutInterval:(NSTimeInterval)timeoutInterval;	
+
+@property(nonatomic,assign) NSTimeInterval defaultTimeoutInterval; // Default is 1 day
+@property(nonatomic,strong) NSMutableDictionary *cacheDictionary;
+
+- (void)clearMemory;
+
+@end

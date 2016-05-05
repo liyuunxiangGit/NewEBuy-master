@@ -1,0 +1,1 @@
+../../UPPayPlugin-sn/UPPayPlugin/UPPayPlugin.h

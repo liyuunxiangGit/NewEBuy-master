@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/datamatrix/decoder
+END
+DecodedBitStreamParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/datamatrix/decoder/DecodedBitStreamParser.cpp
+END
+BitMatrixParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/datamatrix/decoder/BitMatrixParser.cpp
+END
+DataBlock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/datamatrix/decoder/DataBlock.cpp
+END
+DecodedBitStreamParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/datamatrix/decoder/DecodedBitStreamParser.h
+END
+BitMatrixParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/datamatrix/decoder/BitMatrixParser.h
+END
+Decoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/datamatrix/decoder/Decoder.cpp
+END
+DataBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/datamatrix/decoder/DataBlock.h
+END
+Decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/datamatrix/decoder/Decoder.h
+END

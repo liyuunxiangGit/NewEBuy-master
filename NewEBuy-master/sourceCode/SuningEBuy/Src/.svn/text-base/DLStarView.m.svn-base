@@ -1,0 +1,58 @@
+/*
+
+    DLStarRating
+    Copyright (C) 2011 David Linsin <dlinsin@gmail.com> 
+
+    All rights reserved. This program and the accompanying materials
+    are made available under the terms of the Eclipse Public License v1.0
+    which accompanies this distribution, and is available at
+    http://www.eclipse.org/legal/epl-v10.html
+
+ */
+
+#import "DLStarView.h"
+
+
+@implementation DLStarView
+
+#pragma mark -
+#pragma mark Initialization
+
+- (id)initWithDefault:(UIImage*)star highlighted:(UIImage*)highlightedStar position:(int)index {
+	self = [super initWithFrame:CGRectMake((star.size.width/0.8*index), 0, star.size.width/0.9, star.size.height/0.9+kEdgeInsetBottom)];
+	if (self) {
+		[self setImage:star forState:UIControlStateNormal];
+		[self setImage:highlightedStar forState:UIControlStateSelected];
+		[self setImage:highlightedStar forState:UIControlStateHighlighted];
+		[self setTag:index];
+		//[self setImageEdgeInsets:UIEdgeInsetsMake(0, 0, kEdgeInsetBottom, 0)];
+		//[self setBackgroundColor:[UIColor redColor]];
+	}
+	return self;
+}
+
+#pragma mark -
+#pragma mark UIView methods
+
+- (UIView*)hitTest:(CGPoint)point withEvent:(UIEvent *)event {
+	return self.superview;
+}
+
+#pragma mark -
+#pragma mark Layouting
+
+- (void)centerIn:(CGRect)_frame with:(int)numberOfStars {
+	CGSize size = self.frame.size;
+	
+	float height = self.frame.size.height;
+	float frameHeight = _frame.size.height;
+	float newY = (frameHeight-height)/2;
+	
+	float widthOfStars = self.frame.size.width * ((numberOfStars-1)*1.5+1);
+	float frameWidth = _frame.size.width;
+	float gapToApply = (frameWidth-widthOfStars)/2;
+	
+	self.frame = CGRectMake((size.width*self.tag*1.5) + gapToApply, newY, size.width, size.height);	
+}
+
+@end

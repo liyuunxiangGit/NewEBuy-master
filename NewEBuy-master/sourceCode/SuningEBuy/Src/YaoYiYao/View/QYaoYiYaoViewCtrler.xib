@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="5056" systemVersion="13D65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment defaultVersion="1280" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3733"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="QYaoYiYaoViewCtrler">
+            <connections>
+                <outlet property="backgroundImgView" destination="dZK-gL-cEm" id="jQx-TT-6DK"/>
+                <outlet property="moreRuleButton" destination="8hf-nJ-b6l" id="voE-sy-FxU"/>
+                <outlet property="queryActiveResultLbl" destination="Gcw-tJ-fIR" id="JL8-6C-zQR"/>
+                <outlet property="resultButton" destination="tT1-8f-DW0" id="A77-Z6-3eF"/>
+                <outlet property="shakedLed0" destination="wsU-hM-jUZ" id="SYH-vY-UBu"/>
+                <outlet property="shakedLed1" destination="kw7-6Y-uAp" id="OzZ-z9-6AZ"/>
+                <outlet property="shakedLed2" destination="rhY-4a-sHI" id="ZWE-vw-qgK"/>
+                <outlet property="shakedPrizeResultView" destination="UcM-tH-0pe" id="Z2B-H8-fyA"/>
+                <outlet property="view" destination="1" id="r6n-t0-ypd"/>
+                <outlet property="wordImgView" destination="cdg-ZP-XkS" id="i9a-Al-x1p"/>
+                <outlet property="workScrollView" destination="165-HT-dUA" id="Lhu-ak-BS0"/>
+                <outlet property="workView0" destination="JiG-Ys-L51" id="9IB-Po-K6v"/>
+                <outlet property="workView1" destination="iPR-US-zML" id="JMZ-jh-1eg"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="1">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" scrollEnabled="NO" pagingEnabled="YES" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" id="165-HT-dUA">
+                    <rect key="frame" x="0.0" y="64" width="320" height="416"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    <subviews>
+                        <view contentMode="scaleToFill" id="JiG-Ys-L51">
+                            <rect key="frame" x="0.0" y="0.0" width="320" height="416"/>
+                            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            <subviews>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="dZK-gL-cEm">
+                                    <rect key="frame" x="0.0" y="0.0" width="320" height="416"/>
+                                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                    <color key="backgroundColor" red="0.95340098510000004" green="0.1531326392" blue="0.1883136185" alpha="1" colorSpace="calibratedRGB"/>
+                                </imageView>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="y1_shake_middle.png" id="a4b-gR-2av">
+                                    <rect key="frame" x="0.0" y="30" width="320" height="244"/>
+                                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                </imageView>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="y1_shake_bottom.png" id="mKQ-oP-azf">
+                                    <rect key="frame" x="0.0" y="274" width="320" height="142"/>
+                                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                </imageView>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="y1_shake_font_1.png" id="cdg-ZP-XkS">
+                                    <rect key="frame" x="123" y="116" width="77" height="24"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES"/>
+                                </imageView>
+                                <view contentMode="scaleToFill" id="s0j-Un-TfM">
+                                    <rect key="frame" x="0.0" y="234" width="640" height="22"/>
+                                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                    <subviews>
+                                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="y1_shake_led_0.png" id="wsU-hM-jUZ">
+                                            <rect key="frame" x="0.0" y="0.0" width="320" height="22"/>
+                                            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                        </imageView>
+                                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="y1_shake_led_1.png" id="kw7-6Y-uAp">
+                                            <rect key="frame" x="0.0" y="0.0" width="320" height="22"/>
+                                            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                        </imageView>
+                                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="y1_shake_led_2.png" id="rhY-4a-sHI">
+                                            <rect key="frame" x="0.0" y="0.0" width="320" height="22"/>
+                                            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                        </imageView>
+                                    </subviews>
+                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                </view>
+                                <view contentMode="scaleToFill" id="XTO-6w-GnQ">
+                                    <rect key="frame" x="82" y="283" width="157" height="125"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES"/>
+                                    <subviews>
+                                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="y1_shake_result.png" id="nAT-OU-SbR">
+                                            <rect key="frame" x="0.0" y="0.0" width="157" height="125"/>
+                                            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                        </imageView>
+                                        <view contentMode="scaleToFill" id="UcM-tH-0pe">
+                                            <rect key="frame" x="6" y="5" width="145" height="65"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            <subviews>
+                                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Gcw-tJ-fIR">
+                                                    <rect key="frame" x="2" y="-5" width="140" height="110"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                            </subviews>
+                                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                        </view>
+                                        <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="tT1-8f-DW0">
+                                            <rect key="frame" x="25" y="76" width="107" height="30"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES"/>
+                                            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                            <state key="normal">
+                                                <color key="titleColor" red="0.83921568627450982" green="0.22352941176470587" blue="0.22352941176470587" alpha="1" colorSpace="calibratedRGB"/>
+                                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                            </state>
+                                            <state key="highlighted">
+                                                <color key="titleColor" red="0.83921568627450982" green="0.22352941176470587" blue="0.22352941176470587" alpha="0.5" colorSpace="calibratedRGB"/>
+                                            </state>
+                                            <connections>
+                                                <action selector="actionClickedFootButton:" destination="-1" eventType="touchUpInside" id="TAq-it-v8W"/>
+                                            </connections>
+                                        </button>
+                                    </subviews>
+                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                </view>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="8hf-nJ-b6l">
+                                    <rect key="frame" x="247" y="359" width="75" height="33"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMinY="YES"/>
+                                    <color key="backgroundColor" red="0.97254901959999995" green="0.40000000000000002" blue="0.1176470588" alpha="0.19" colorSpace="calibratedRGB"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                    <state key="normal" title="更多规则">
+                                        <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
+                                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                    </state>
+                                    <state key="disabled">
+                                        <color key="titleColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                    </state>
+                                    <state key="highlighted">
+                                        <color key="titleColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                    </state>
+                                    <connections>
+                                        <action selector="actionMoreRule" destination="-1" eventType="touchUpInside" id="OAn-ef-WNx"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                        </view>
+                        <view contentMode="scaleToFill" id="iPR-US-zML">
+                            <rect key="frame" x="320" y="0.0" width="320" height="416"/>
+                            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            <color key="backgroundColor" red="1" green="0.48421830960000001" blue="0.85568209829999997" alpha="0.47000000000000003" colorSpace="calibratedRGB"/>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" red="0.94901960784313721" green="0.94901960784313721" blue="0.94901960784313721" alpha="1" colorSpace="calibratedRGB"/>
+                    <inset key="insetFor6xAndEarlier" minX="0.0" minY="64" maxX="0.0" maxY="0.0"/>
+                </scrollView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <simulatedStatusBarMetrics key="simulatedStatusBarMetrics"/>
+            <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" prompted="NO"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="y1_shake_bottom.png" width="640" height="360"/>
+        <image name="y1_shake_font_1.png" width="144" height="48"/>
+        <image name="y1_shake_led_0.png" width="640" height="44"/>
+        <image name="y1_shake_led_1.png" width="640" height="44"/>
+        <image name="y1_shake_led_2.png" width="640" height="44"/>
+        <image name="y1_shake_middle.png" width="640" height="468"/>
+        <image name="y1_shake_result.png" width="314" height="231"/>
+    </resources>
+</document>

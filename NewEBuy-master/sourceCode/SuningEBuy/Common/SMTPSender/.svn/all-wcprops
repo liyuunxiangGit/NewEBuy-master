@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Common/SMTPSender
+END
+Base64Transcoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Common/SMTPSender/Base64Transcoder.h
+END
+HSK_CFUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Common/SMTPSender/HSK_CFUtilities.h
+END
+NSData+Base64Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Common/SMTPSender/NSData+Base64Additions.h
+END
+NSStream+SKPSMTPExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Common/SMTPSender/NSStream+SKPSMTPExtensions.h
+END
+SKPSMTPMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Common/SMTPSender/SKPSMTPMessage.m
+END
+Base64Transcoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Common/SMTPSender/Base64Transcoder.m
+END
+HSK_CFUtilities.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Common/SMTPSender/HSK_CFUtilities.m
+END
+NSData+Base64Additions.m
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Common/SMTPSender/NSData+Base64Additions.m
+END
+NSStream+SKPSMTPExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Common/SMTPSender/NSStream+SKPSMTPExtensions.m
+END
+SKPSMTPMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Common/SMTPSender/SKPSMTPMessage.h
+END

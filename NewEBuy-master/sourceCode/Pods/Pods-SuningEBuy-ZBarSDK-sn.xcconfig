@@ -1,0 +1,2 @@
+PODS_SUNINGEBUY_ZBARSDK_SN_LIBRARY_SEARCH_PATHS = "$(PODS_ROOT)/ZBarSDK-sn/zbar"
+PODS_SUNINGEBUY_ZBARSDK_SN_OTHER_LDFLAGS = -liconv -lzbar -framework AVFoundation -framework CoreGraphics -framework CoreImage -framework CoreMedia -framework CoreVideo -framework QuartzCore

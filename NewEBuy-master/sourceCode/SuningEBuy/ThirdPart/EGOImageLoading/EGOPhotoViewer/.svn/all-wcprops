@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer
+END
+egopv_fullscreen_button.png
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/egopv_fullscreen_button.png
+END
+egopv_minimize_fullscreen_button.png
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/egopv_minimize_fullscreen_button.png
+END
+EGOPhotoCaptionView.h
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/EGOPhotoCaptionView.h
+END
+EGOPhotoScrollView.h
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/EGOPhotoScrollView.h
+END
+MyPhoto.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/MyPhoto.h
+END
+egopv_left@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/egopv_left@2x.png
+END
+EGOQuickPhotoSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/EGOQuickPhotoSource.h
+END
+EGOPhotoCaptionView.m
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/EGOPhotoCaptionView.m
+END
+egopv_error_placeholder@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/egopv_error_placeholder@2x.png
+END
+egopv_photo_placeholder@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/egopv_photo_placeholder@2x.png
+END
+EGOPhotoScrollView.m
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/EGOPhotoScrollView.m
+END
+MyPhoto.m
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/MyPhoto.m
+END
+egopv_fullscreen_button@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/egopv_fullscreen_button@2x.png
+END
+EGOPhotoSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/EGOPhotoSource.h
+END
+EGOPhotoGlobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/EGOPhotoGlobal.h
+END
+EGOQuickPhotoSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/EGOQuickPhotoSource.m
+END
+egopv_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/egopv_right.png
+END
+MyPhotoSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/MyPhotoSource.h
+END
+EGOQuickPhoto.h
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/EGOQuickPhoto.h
+END
+EGOPhotoImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/EGOPhotoImageView.h
+END
+EGOPhotoViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/EGOPhotoViewController.h
+END
+egopv_right@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/egopv_right@2x.png
+END
+MyPhotoSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/MyPhotoSource.m
+END
+EGOQuickPhoto.m
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/EGOQuickPhoto.m
+END
+EGOPhotoImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/EGOPhotoImageView.m
+END
+egopv_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/egopv_left.png
+END
+EGOPhotoViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/EGOPhotoViewController.m
+END
+egopv_error_placeholder.png
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/egopv_error_placeholder.png
+END
+egopv_photo_placeholder.png
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/EGOImageLoading/EGOPhotoViewer/egopv_photo_placeholder.png
+END

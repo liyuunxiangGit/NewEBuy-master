@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/datamatrix/detector
+END
+Detector.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/datamatrix/detector/Detector.h
+END
+CornerPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/datamatrix/detector/CornerPoint.cpp
+END
+CornerPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/datamatrix/detector/CornerPoint.h
+END
+DetectorException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/datamatrix/detector/DetectorException.cpp
+END
+Detector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/datamatrix/detector/Detector.cpp
+END
+DetectorException.h
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/datamatrix/detector/DetectorException.h
+END

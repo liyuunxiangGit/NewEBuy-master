@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6245" systemVersion="13E28" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment defaultVersion="1280" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6238"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="NBNearbyTableCell_A_identify" rowHeight="545" id="BKE-hh-WPu" customClass="NBNearbyTableCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="531"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="BKE-hh-WPu" id="wpS-Ea-puZ">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="459"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" id="cWR-iB-j6b">
+                        <rect key="frame" x="0.0" y="15" width="320" height="510"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" id="fTT-Xx-BKr">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="60"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                <subviews>
+                                    <view contentMode="scaleToFill" id="EBK-lf-FyT">
+                                        <rect key="frame" x="9" y="0.0" width="302" height="60"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                        <subviews>
+                                            <view contentMode="scaleToFill" id="spU-P2-tZI">
+                                                <rect key="frame" x="0.0" y="59" width="320" height="1"/>
+                                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                                <color key="backgroundColor" white="0.66666666669999997" alpha="0.050000000000000003" colorSpace="calibratedWhite"/>
+                                            </view>
+                                            <view contentMode="scaleToFill" id="KvV-x1-qqF">
+                                                <rect key="frame" x="0.0" y="5" width="50" height="50"/>
+                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                <subviews>
+                                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="nnby_portriat.png" id="UMb-hT-8lT">
+                                                        <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
+                                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                                    </imageView>
+                                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="nnby_portriatMask.png" id="nxf-pi-oTG">
+                                                        <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
+                                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                                    </imageView>
+                                                </subviews>
+                                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                            </view>
+                                            <view contentMode="scaleToFill" id="8oZ-ud-MSl">
+                                                <rect key="frame" x="60" y="4" width="242" height="30"/>
+                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                <subviews>
+                                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="nnby_sexType_0.png" id="3tu-Xk-ugU">
+                                                        <rect key="frame" x="0.0" y="7" width="16" height="16"/>
+                                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    </imageView>
+                                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="nnby_stick_from_0.png" id="diY-em-fdM">
+                                                        <rect key="frame" x="130" y="6" width="38" height="17"/>
+                                                        <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
+                                                    </imageView>
+                                                    <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="32分钟前" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="jxt-f0-HpY">
+                                                        <rect key="frame" x="158" y="0.0" width="80" height="30"/>
+                                                        <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
+                                                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
+                                                        <color key="textColor" red="0.85098039215686272" green="0.85098039215686272" blue="0.85098039215686272" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                    <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="天线宝宝" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="14" id="gOb-fQ-kct">
+                                                        <rect key="frame" x="16" y="0.0" width="114" height="30"/>
+                                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                        <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                                        <color key="textColor" red="0.4392156862745098" green="0.4392156862745098" blue="0.4392156862745098" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                </subviews>
+                                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                            </view>
+                                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="获赏200云钻" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="p68-Pe-XRZ">
+                                                <rect key="frame" x="60" y="36" width="240" height="21"/>
+                                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                                <color key="textColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="1" colorSpace="calibratedRGB"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                        </subviews>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                    </view>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </view>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="N7W-HB-o4c">
+                                <rect key="frame" x="0.0" y="60" width="320" height="320"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="0.66666666666666663" alpha="0.29999999999999999" colorSpace="calibratedWhite"/>
+                            </imageView>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="xxxxxxx xxxx xxxx xxxxxx xxxxxxxxx yyyyyyy" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="1gy-zb-eZB">
+                                <rect key="frame" x="9" y="380" width="302" height="44"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                <color key="textColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <view contentMode="scaleToFill" id="iwf-XL-bpf">
+                                <rect key="frame" x="0.0" y="469" width="320" height="40"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                <subviews>
+                                    <view contentMode="scaleToFill" id="Zdy-5I-dnZ">
+                                        <rect key="frame" x="0.0" y="0.0" width="320" height="1"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                        <color key="backgroundColor" white="0.66666666666666663" alpha="0.10000000000000001" colorSpace="calibratedWhite"/>
+                                    </view>
+                                    <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="JAw-2f-zwF">
+                                        <rect key="frame" x="0.0" y="0.0" width="120" height="40"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <inset key="titleEdgeInsets" minX="0.0" minY="3" maxX="0.0" maxY="0.0"/>
+                                        <inset key="imageEdgeInsets" minX="-14" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                        <state key="normal" title="评论" image="nby_stick_op_0.png">
+                                            <color key="titleColor" red="0.43921568630000002" green="0.43921568630000002" blue="0.43921568630000002" alpha="1" colorSpace="calibratedRGB"/>
+                                            <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="on_functionButtons_clicked:" destination="BKE-hh-WPu" eventType="touchUpInside" id="qc5-xR-t4S"/>
+                                        </connections>
+                                    </button>
+                                    <view contentMode="scaleToFill" id="EtA-eV-PUu">
+                                        <rect key="frame" x="119" y="0.0" width="1" height="40"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <color key="backgroundColor" white="0.66666666669999997" alpha="0.10000000000000001" colorSpace="calibratedWhite"/>
+                                    </view>
+                                    <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="2y2-1N-wzo">
+                                        <rect key="frame" x="120" y="0.0" width="120" height="40"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <inset key="titleEdgeInsets" minX="0.0" minY="3" maxX="0.0" maxY="0.0"/>
+                                        <inset key="imageEdgeInsets" minX="-11" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                        <state key="normal" title="打赏" image="nby_stick_op_1.png">
+                                            <color key="titleColor" red="0.43921568630000002" green="0.43921568630000002" blue="0.43921568630000002" alpha="1" colorSpace="calibratedRGB"/>
+                                            <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="on_functionButtons_clicked:" destination="BKE-hh-WPu" eventType="touchUpInside" id="TgN-sg-Obq"/>
+                                        </connections>
+                                    </button>
+                                    <view contentMode="scaleToFill" id="39K-TP-vdR">
+                                        <rect key="frame" x="240" y="0.0" width="1" height="40"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <color key="backgroundColor" white="0.66666666669999997" alpha="0.10000000000000001" colorSpace="calibratedWhite"/>
+                                    </view>
+                                    <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="Idi-50-yRZ">
+                                        <rect key="frame" x="240" y="0.0" width="80" height="40"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <inset key="titleEdgeInsets" minX="0.0" minY="3" maxX="0.0" maxY="0.0"/>
+                                        <inset key="imageEdgeInsets" minX="-12" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                        <state key="normal" title="举报" image="nby_stick_op_2.png">
+                                            <color key="titleColor" red="0.43921568630000002" green="0.43921568630000002" blue="0.43921568630000002" alpha="1" colorSpace="calibratedRGB"/>
+                                            <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="on_functionButtons_clicked:" destination="BKE-hh-WPu" eventType="touchUpInside" id="VTx-08-tTV"/>
+                                        </connections>
+                                    </button>
+                                    <view contentMode="scaleToFill" id="PWI-fX-gsn">
+                                        <rect key="frame" x="0.0" y="39" width="320" height="1"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                        <color key="backgroundColor" white="0.66666666669999997" alpha="0.10000000000000001" colorSpace="calibratedWhite"/>
+                                    </view>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                            </view>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="If1-Fr-3U4">
+                                <rect key="frame" x="9" y="424" width="302" height="44"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            </tableViewCellContentView>
+            <color key="backgroundColor" red="0.94901960784313721" green="0.94901960784313721" blue="0.94901960784313721" alpha="1" colorSpace="calibratedRGB"/>
+            <connections>
+                <outlet property="ccontentView" destination="cWR-iB-j6b" id="XDz-hF-upN"/>
+                <outlet property="contentLabel" destination="1gy-zb-eZB" id="RkW-Rr-d3q"/>
+                <outlet property="nameDescLabel" destination="p68-Pe-XRZ" id="V8L-NE-xcE"/>
+                <outlet property="nameLabel" destination="gOb-fQ-kct" id="Ma8-nh-maz"/>
+                <outlet property="operationBt0" destination="JAw-2f-zwF" id="R5t-09-UxQ"/>
+                <outlet property="operationBt1" destination="2y2-1N-wzo" id="QbE-PZ-5JL"/>
+                <outlet property="operationBt2" destination="Idi-50-yRZ" id="nnx-Tl-YWL"/>
+                <outlet property="portriatImgView" destination="UMb-hT-8lT" id="BRd-pu-uXi"/>
+                <outlet property="recentCntsView" destination="If1-Fr-3U4" id="kgK-HI-1tY"/>
+                <outlet property="sexTypeImgView" destination="3tu-Xk-ugU" id="VcD-Sb-VwG"/>
+                <outlet property="stickImgView" destination="N7W-HB-o4c" id="mus-LU-560"/>
+                <outlet property="stickTypeImgView" destination="diY-em-fdM" id="FJT-Ku-OnO"/>
+                <outlet property="timeLabel" destination="jxt-f0-HpY" id="4lM-Hl-UPF"/>
+            </connections>
+            <point key="canvasLocation" x="21" y="88.5"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="nby_stick_op_0.png" width="16" height="16"/>
+        <image name="nby_stick_op_1.png" width="16" height="16"/>
+        <image name="nby_stick_op_2.png" width="16" height="16"/>
+        <image name="nnby_portriat.png" width="60" height="60"/>
+        <image name="nnby_portriatMask.png" width="50" height="50"/>
+        <image name="nnby_sexType_0.png" width="16" height="16"/>
+        <image name="nnby_stick_from_0.png" width="38" height="16"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/2012_Terminal_code/!svn/ver/101355/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/SinaSDK
+END
+WBSDKGlobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/SinaSDK/WBSDKGlobal.h
+END
+WBEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/SinaSDK/WBEngine.h
+END
+WBAuthorize.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/SinaSDK/WBAuthorize.h
+END
+WBEngine.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/SinaSDK/WBEngine.m
+END
+WBUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/SinaSDK/WBUtil.h
+END
+WBAuthorize.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/SinaSDK/WBAuthorize.m
+END
+OWBAuthorizeWebView.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/2012_Terminal_code/!svn/ver/101355/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/SinaSDK/OWBAuthorizeWebView.h
+END
+WBUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/SinaSDK/WBUtil.m
+END
+OWBAuthorizeWebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/2012_Terminal_code/!svn/ver/101355/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/SinaSDK/OWBAuthorizeWebViewController.h
+END
+OWBAuthorizeWebView.m
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/SinaSDK/OWBAuthorizeWebView.m
+END
+WBRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/SinaSDK/WBRequest.h
+END
+SFHFKeychainUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/SinaSDK/SFHFKeychainUtils.h
+END
+OWBAuthorizeWebViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/SinaSDK/OWBAuthorizeWebViewController.m
+END
+WBRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/SinaSDK/WBRequest.m
+END
+SFHFKeychainUtils.m
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/ThirdPart/SinaSDK/SFHFKeychainUtils.m
+END

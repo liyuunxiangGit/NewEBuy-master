@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/common/reedsolomon
+END
+GenericGF.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/common/reedsolomon/GenericGF.h
+END
+ReedSolomonDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/common/reedsolomon/ReedSolomonDecoder.h
+END
+GenericGFPoly.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/common/reedsolomon/GenericGFPoly.h
+END
+ReedSolomonException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/common/reedsolomon/ReedSolomonException.cpp
+END
+GenericGF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/common/reedsolomon/GenericGF.cpp
+END
+ReedSolomonException.h
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/common/reedsolomon/ReedSolomonException.h
+END
+ReedSolomonDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/common/reedsolomon/ReedSolomonDecoder.cpp
+END
+GenericGFPoly.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/cpp/core/src/zxing/common/reedsolomon/GenericGFPoly.cpp
+END

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>005</key>
+	<dict>
+		<key>Activeid</key>
+		<string>4</string>
+		<key>StoreName</key>
+		<string>上海中山北路二店</string>
+		<key>ActiveType</key>
+		<string>02</string>
+		<key>StoreCode</key>
+		<string>8539</string>
+	</dict>
+	<key>004</key>
+	<dict>
+		<key>Activeid</key>
+		<string>4</string>
+		<key>StoreName</key>
+		<string>上海浦东第一店</string>
+		<key>ActiveType</key>
+		<string>02</string>
+		<key>StoreCode</key>
+		<string>7861</string>
+	</dict>
+	<key>003</key>
+	<dict>
+		<key>Activeid</key>
+		<string>4</string>
+		<key>StoreName</key>
+		<string>南京山西路店</string>
+		<key>ActiveType</key>
+		<string>02</string>
+		<key>StoreCode</key>
+		<string>7611</string>
+	</dict>
+	<key>020</key>
+	<dict>
+		<key>Activeid</key>
+		<string>3</string>
+		<key>StoreName</key>
+		<string>南京商贸EXPO超级店</string>
+		<key>ActiveType</key>
+		<string>01</string>
+		<key>StoreCode</key>
+		<string>9943</string>
+	</dict>
+	<key>019</key>
+	<dict>
+		<key>Activeid</key>
+		<string>2</string>
+		<key>StoreName</key>
+		<string>南京淮海路店</string>
+		<key>ActiveType</key>
+		<string>01</string>
+		<key>StoreCode</key>
+		<string>8727</string>
+	</dict>
+</dict>
+</plist>

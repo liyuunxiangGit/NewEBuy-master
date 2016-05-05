@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/2012_Terminal_code/!svn/ver/101457/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Constant
+END
+Constant.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Constant/Constant.h
+END
+DefineConstant.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Constant/DefineConstant.m
+END
+HttpConstant.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Constant/HttpConstant.h
+END
+AppConstant.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/2012_Terminal_code/!svn/ver/101139/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Constant/AppConstant.h
+END
+SuningEBuyConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/2012_Terminal_code/!svn/ver/101457/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Constant/SuningEBuyConfig.h
+END
+MsgConstant.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Constant/MsgConstant.h
+END
+NotificationConstant.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Constant/NotificationConstant.h
+END
+MsgHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Constant/MsgHelper.cpp
+END
+TableConstant.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Constant/TableConstant.h
+END
+DefineConstant.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Constant/DefineConstant.h
+END
+MsgHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Constant/MsgHelper.h
+END
+PathConstant.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/Constant/PathConstant.h
+END

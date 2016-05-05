@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/QRCodeGenerator-sn/QRCodeGenerator/Classes/qrcode
+END
+bitstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/QRCodeGenerator-sn/QRCodeGenerator/Classes/qrcode/bitstream.h
+END
+rscode.c
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/QRCodeGenerator-sn/QRCodeGenerator/Classes/qrcode/rscode.c
+END
+mask.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/QRCodeGenerator-sn/QRCodeGenerator/Classes/qrcode/mask.h
+END
+qrencode.c
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/QRCodeGenerator-sn/QRCodeGenerator/Classes/qrcode/qrencode.c
+END
+split.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/QRCodeGenerator-sn/QRCodeGenerator/Classes/qrcode/split.h
+END
+qrinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/QRCodeGenerator-sn/QRCodeGenerator/Classes/qrcode/qrinput.c
+END
+qrspec.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/QRCodeGenerator-sn/QRCodeGenerator/Classes/qrcode/qrspec.h
+END
+rscode.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/QRCodeGenerator-sn/QRCodeGenerator/Classes/qrcode/rscode.h
+END
+qrencode.h
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/QRCodeGenerator-sn/QRCodeGenerator/Classes/qrcode/qrencode.h
+END
+qrinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/QRCodeGenerator-sn/QRCodeGenerator/Classes/qrcode/qrinput.h
+END
+bitstream.c
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/QRCodeGenerator-sn/QRCodeGenerator/Classes/qrcode/bitstream.c
+END
+mask.c
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/QRCodeGenerator-sn/QRCodeGenerator/Classes/qrcode/mask.c
+END
+split.c
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/QRCodeGenerator-sn/QRCodeGenerator/Classes/qrcode/split.c
+END
+qrspec.c
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Pods/QRCodeGenerator-sn/QRCodeGenerator/Classes/qrcode/qrspec.c
+END

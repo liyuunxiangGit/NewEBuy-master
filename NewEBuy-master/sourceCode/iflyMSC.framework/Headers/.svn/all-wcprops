@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/iflyMSC.framework/Headers
+END
+IFlyDataUploader.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/iflyMSC.framework/Headers/IFlyDataUploader.h
+END
+IFlySpeechEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/iflyMSC.framework/Headers/IFlySpeechEvent.h
+END
+IFlySpeechSynthesizerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/iflyMSC.framework/Headers/IFlySpeechSynthesizerDelegate.h
+END
+IFlySetting.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/iflyMSC.framework/Headers/IFlySetting.h
+END
+IFlySpeechSynthesizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/iflyMSC.framework/Headers/IFlySpeechSynthesizer.h
+END
+IFlySpeechError.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/iflyMSC.framework/Headers/IFlySpeechError.h
+END
+IFlySpeechConstant.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/iflyMSC.framework/Headers/IFlySpeechConstant.h
+END
+IFlyResourceUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/iflyMSC.framework/Headers/IFlyResourceUtil.h
+END
+IFlySpeechUnderstander.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/iflyMSC.framework/Headers/IFlySpeechUnderstander.h
+END
+IFlyDataDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/iflyMSC.framework/Headers/IFlyDataDownloader.h
+END
+IFlySpeechRecognizerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/iflyMSC.framework/Headers/IFlySpeechRecognizerDelegate.h
+END
+IFlySpeechUtility.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/iflyMSC.framework/Headers/IFlySpeechUtility.h
+END
+IFlyContact.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/iflyMSC.framework/Headers/IFlyContact.h
+END
+IFlyUserWords.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/iflyMSC.framework/Headers/IFlyUserWords.h
+END
+IFlySpeechRecognizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/iflyMSC.framework/Headers/IFlySpeechRecognizer.h
+END
+IFlyTextUnderstander.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/iflyMSC.framework/Headers/IFlyTextUnderstander.h
+END

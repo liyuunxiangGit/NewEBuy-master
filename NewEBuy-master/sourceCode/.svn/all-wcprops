@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/2012_Terminal_code/!svn/ver/101458/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode
+END
+ipa-build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/ipa-build.sh
+END
+ipa-test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/ipa-test.sh
+END
+SalePromotionViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SalePromotionViewController.h
+END
+SalePromotionCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SalePromotionCell.h
+END
+Podfile
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Podfile
+END
+PerformanceStatistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/PerformanceStatistics.h
+END
+SalePromotionViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SalePromotionViewController.m
+END
+SalePromotionCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SalePromotionCell.m
+END
+PerformanceStatistics.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/2012_Terminal_code/!svn/ver/101423/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/PerformanceStatistics.m
+END
+SNRouter.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SNRouter.py
+END
+Podfile.lock
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/Podfile.lock
+END
+SuningEMallDistribution.mobileprovision
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEMallDistribution.mobileprovision
+END

@@ -1,0 +1,1 @@
+../../QRCodeGenerator-sn/QRCodeGenerator/Classes/qrcode/qrspec.h

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/SuningClick
+END
+Preferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/SuningClick/Preferences.h
+END
+Preferences.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/SuningClick/Preferences.m
+END
+InformetionCollectDTO.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/SuningClick/InformetionCollectDTO.h
+END
+SaveSuningUUID.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/SuningClick/SaveSuningUUID.h
+END
+InformetionCollectDTO.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/SuningClick/InformetionCollectDTO.m
+END
+UIDeviceHardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/SuningClick/UIDeviceHardware.h
+END
+InformationCollectService.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/SuningClick/InformationCollectService.h
+END
+NdUncaughtExceptionHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/SuningClick/NdUncaughtExceptionHandler.h
+END
+SuningMainClick.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/SuningClick/SuningMainClick.h
+END
+SaveSuningUUID.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/SuningClick/SaveSuningUUID.m
+END
+InformationCollectDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/SuningClick/InformationCollectDAO.h
+END
+UIDeviceHardware.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/SuningClick/UIDeviceHardware.m
+END
+InformationCollectService.m
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/SuningClick/InformationCollectService.m
+END
+NdUncaughtExceptionHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/SuningClick/NdUncaughtExceptionHandler.m
+END
+SuningMainClick.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/SuningClick/SuningMainClick.m
+END
+GetAllSysInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/SuningClick/GetAllSysInfo.h
+END
+InformationCollectDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/SuningClick/InformationCollectDAO.m
+END
+GetAllSysInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/SuningEBuy/SuningClick/GetAllSysInfo.m
+END

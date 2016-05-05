@@ -1,0 +1,4524 @@
+/*
+ Localizable.strings
+ SuningEBuy
+ 
+ Created by zhaojw on 11-9-14.
+ Copyright 2011 __MyCompanyName__. All rights reserved.
+ */
+"home"="首页";
+"eBuy"="苏宁易购";
+"search"="搜索";
+"gouwuche"="购物车";
+"shopCart"="购物车";
+"myEbuy"="我的易购";
+"information"="信息";
+"Settings"="设置";
+"more"="更多";
+"Categories"="分类";
+"All"="全部";
+"UserWelcomeMsg"="欢迎光临,请登录";
+"UserLogoutWelcomeMsg"="欢迎光临";
+"Delete"="删除";
+
+"Get More..."="加载更多...";
+"Loading..."="玩命加载中...";
+"Sorry loading failed"="抱歉网络调用失败，请稍后重试";
+"Release to refresh..."="释放开始刷新数据";
+"Pull down to refresh..."="下拉刷新数据";
+"loading..."="玩命加载中...";
+"Refresh now..."="正在刷新";
+"Last Updated"="松开刷新";
+"Updated Begin"="下拉刷新";
+"RecommendActivity"="推荐活动";
+"top recomment"="热门促销";
+"msgItem"="热门促销";
+"rechargePayment"="充值缴费";
+"waterElectricityGasPayment" = "水电煤缴费";
+"No_Product"="对不起，暂无抢购商品";
+
+"BusinessTravelChannel"="商旅频道";
+
+
+"LoginTitle" = "登录";
+"LogoutTitle" = "退出当前登录";
+"Continuous Resgistration:" = "连续签到:";
+"Registration Success" = "恭喜您今日签到成功";
+
+"ServerBusy"="抱歉，服务器忙，请稍候重试";
+
+"Hotel"="酒店";
+"Panel"="机票";
+"MyHotelPanelTicket"="我的酒店机票";
+"HotelOrder"="酒店订单";
+"PanelOrder"="机票订单";
+//order list
+"orderCenterItem"="订单中心";
+"the detail orderList"="订单详情";
+"noSunItem"="您没有购买阳光包";
+"exWarrantyName"="阳光包名称：";
+"exWarrantyPrice"="阳光包价格";
+"exWarrantyQuantity"="阳光包数量";
+"NO More Data"="没有更多数据";
+//order Detail
+"the product detail"="订单商品详情";
+"order PlacerNames"="收货人";
+"order Adress"="送货地址";
+"order MobilePhone"="联系电话";
+"order Invoice"="发票抬头";
+"order taxTyper"="发票类型";
+"order Invoice Description"="发票描述";
+
+
+"Cluster_ColorDesc"="颜色";
+"Cluster_Not_Product_Found "="对不起，该型号的商品暂不支持销售，请选择其他型号。";
+
+
+"Support_Commit"="支持";
+
+"General invoice"="普通发票";
+"VAT invoice"="增值税发票";
+"NO invoice"="不开发票";
+"Invoice Type:"="发票类型:";
+"Check code:"="校验码:";
+"Price:"="价格:";
+"Evaluate"="评价";
+"Delivery:"="送货方式:";
+"POS Order No.:"="POS单号:";
+"Number:"="数量:";
+"Efubao"="易付宝";
+"Payment:"="支付方式:";
+"Order time:"="下单时间:";
+"Amount due:"="应付金额:";
+"Order Status:"="订单状态:";
+
+"Payment complete"="支付完成";
+"Order canceled"="订单取消";
+"Returned"="退货";
+"Abnormal order"="订单处理中";
+"Waiting payment"="等待支付";
+
+"Cancel Order Success!"="订单取消成功!";
+"Cancel Order Failed!"="订单取消失败";
+"Cancel Order"="取消订单";
+"Cancel Order Success" = "稍后将发布处理结果，如果在此期间，配送人员与您联系，请拒收。";
+
+"you have no product to operate"="您暂无商品可进行退货操作!";
+"return order query"= "退货查询";
+"return orderList"= "退货列表";
+"no returned goods history"="您当前没有退货记录哦!";
+"return order status"="退货状态:";
+"return order detail"="退货详情";
+"return goods appliance"="退货申请";
+"please choose"= "请选择";
+"help info for return goods"= "帮助提示信息：我司给您退款时，会同时扣除您购买该商品时所返的礼金券和云钻(按照1:100比例折算，即1元抵100云钻，2012.4.1之前产生的云钻按照1:150比例折算)，如您的礼金券或云钻余额不足，则会在您的退款中扣除已使用的券(云钻)金额。";
+
+"calculate font height"= "求字体高度";
+"test people of my company"= "鉴定方：我司售后服务人员";
+"test people of factory"= "鉴定方：厂家";
+"brand telephone" = "本品牌官方客服电话：";
+"my company enmail"= "我司邮箱：4008365365@cnsuning.com";
+"quality tip1"= "本品类商品出现质量问题，需按说明书上联系方式与该厂家联系检测，办理检查报告。如果检测报告确认属于质量问题，请提供厂商检测报告，并在线提交或电话客服申请，办理退换货事宜。";
+"quality tip2"= "此类商品不建议您提交退换货申请，您可直接送至我司门店3C服务中心办理退换货。";
+"quality tip3"= "易购工作人员会尽快与您联系，为您办理退换事宜。";
+
+"return  goods reason"= "退货原因:";
+"test date"="鉴定日期:";
+"return money way "="退款方式:退至付款帐户";
+
+"product num"= "商品数量:";
+"sale way"= "销售渠道";
+"must fill"="必填";
+"this product can't be returned"="此商品不支持退货";
+"energySaving tips"= "您的订单享受国家节能补贴，如您已领取节能补贴款，请至领取补贴的苏宁连锁门店退回补贴款！";
+"notAllowedReturn" = "很抱歉，您的商品暂不支持退货";
+"mobilePhone can't be paid by group"="手机不支持组合支付订单商品退货";
+"this product can't be paid by mobilePhone" = "非常抱歉，货到付款的订单无法使用客户端退货，请登录苏宁易购网站发起退货！";
+"Server used fault" = "服务器调用异常";
+"return goods success" = "您的退货申请提交成功。稍后将发布处理结果，如果在此期间，配送人员与您联系，请拒收。";
+"return goods fail" = "您的退货申请提交失败，请稍后重试";
+"isFail"="校验订单不合法";
+"please choose return goods reason"="请选择退货原因";
+"please choose checkupDate"="请选择鉴定时间";
+"are you sure to return goods"= "您确定要退货吗";
+"Failed to upload pictures"="上传图片失败";
+"Delete picture failure"="删除图片失败";
+"Please upload a picture"="请上传图片";
+
+"no paid order now"="您当前还没有已支付订单哦";
+"no order wating to be paid now"="您当前还没有等待支付订单哦";
+"no canceled order now"="您当前还没有取消支付订单哦";
+"no return order now"="您当前还没有退货订单哦";
+"interest products" = "您可能感兴趣的商品";
+"no any order now"="您当前还没有订单哦";
+"eBuy price"= "易购价 :";
+"recceive paid"="货到付款";
+"order number"="笔";
+"pay by phone"= "电话支付";
+
+
+////ASI请求报错
+//"A connection failure occurred"="抱歉网络调用失败，请稍后再试";
+//"The request timed out"="请求超时，请稍后再试";
+//"Authentication needed"="请求需要登录验证";
+//"The request was cancelled"="请求取消";
+//"Unable to create request (bad url?)"="无法创建请求，请检查url是否正确";
+//"Unable to obtain information on proxy servers needed for request"="无法获取信息的要求，需要代理服务器";
+//"Failed to get authentication object from response headers"="无法得到响应头的认证对象";
+//"Failed to move file"="移动文件失败";
+//"The request failed because it redirected too many times"="请求失败，因为它重定向过很多次";
+//"Compression data failed"="压缩数据失败";
+//"Unknown exception"="未知异常";
+
+//ASI错误
+//==========================================================================================begin
+"ASI_CONNECTION_FAILURE_ERROR"="抱歉网络调用失败，请稍后再试";
+"ASI_TIME_OUT_ERROR"="请求超时，请稍后再试";
+"ASI_AUTH_NEED_ERROR"="请您先登录";
+"ASI_CANCELED_ERROR"="请求被取消";
+"ASI_BAD_URL_ERROR"="请求失败";
+"ASI_PROXY_NEED_ERROR"="请求失败";
+"ASI_RESPONSE_HEADER_ERROR"="请检查输入是否正确";
+"ASI_MOVE_FILE_FAIL_ERROR"="移动文件失败";
+"ASI_REDIRECT_OUT_LIMIT_ERROR"="请求失败，请稍后再试";
+"ASI_COMPRESS_FAIL_ERROR"="数据异常，请稍后再试";
+"ASI_UNKNOWN_EXCEPTION_ERROR"="请求失败，请稍后再试";
+//==========================================================================================end
+
+// Apple Area
+"appleItem"="苹果专区";
+"iPhoneFitting"="iPhone 和 iPhone配件";
+"iPadFitting"="iPad 和 iPad配件";
+"macFitting"="Mac,Mac配件 和 软件";
+"iPodFitting"="iPod 和 iPod配件";
+"DataLine"="  数据线";
+"iPhoneCase"="  手机套";
+"LeatherCase"="  皮套";
+"EarPhone"="  耳机";
+"PowerSource"="  电源";
+"SpeakerBox"="  音箱";
+"Keyboard"="  键盘";
+"SpecialFitting"="专用配件";
+
+
+"comments"="网友热评";
+"CatBrowser"="类目浏览";
+
+// Service Stack
+"ServiceStack"="物流查询";
+"ServiceTrack"="服务追踪";
+"DiliverQueary"="物流查询";
+"DiliverInstallList"="物流查询列表";
+"RepairQueary"="维修/其他查询";
+"ServiceApply"="服务申请";
+"OrderApply"="预约";
+"MemberNum"="会员卡号";
+"SaleNum"="销售单号";
+"FixedPhone"="固定电话";
+"MobilePhone"="手机号码";
+"RealName"="真实姓名";
+"CityName"="所在城市";
+"DetailAddress"="详细地址";
+"ServiceType"="服务类型";
+"BookingMessage"="预约信息";
+"CommitBtn"="提交";
+"ResetBtn"="重置";
+"QueryBtn"="查询";
+"InstallDetail"="物流查询详情";
+"RepairDetail"="维修/其他详情";
+"PleaseInput"="请输入";
+"ChooseQueryMethod"="请选择一种查询方式";
+"InputMobileNumber"="请正确输入11位手机号码";
+"InputMemberNumber"="请正确输入12位会员卡号";
+"InputSaleNumber"="请正确输入10-12位销售单号";
+"Query..."="查询中...";
+"Commit..."="提交中...";
+"BookingSuccess"="预约成功";
+"BookingFailed"="预约失败";
+"MemberCheck"="会员卡号为12位数字,请正确输入";
+"SaleCheck"="销售单号为10-12位数字,请正确输入";
+"PhoneCheck"="固定电话格式：区号+电话号码,请正确输入";
+"MobileCheck"="手机号码为11位数字,开头无需加0,请正确输入";
+"NameCheck"="姓名由汉字或字母组成,请正确输入";
+"AddressCheck"="详细地址不能为空,请正确输入";
+"MessageCheck"="预约信息不能为空,请正确输入";
+"CommitRequest"="正在发送查询请求";
+"SaleNo"="销售单号:";
+"SaleDate"="销售日期:";
+"ProductName"="商品名称:";
+"DiliveryMode"="配送方式:";
+"Amount"="数量 :";
+"ServiceNo"="服务单号:";
+"ServiceDate"="服务日期:";
+"Request..."="请求中...";
+"ReachTime"="预计到达时间:";
+"CancelReceipts"="相关退换货单据:";
+"OrderType"="订单类型:";
+"ServiceState"="服务状态:";
+"InstallTime"="预计安装时间:";
+"EngineerName"="安装工程师姓名:";
+"EngineerMobile"="安装工程师电话:";
+"DeliverState"="送货状态";
+"InstallState"="安装状态";
+"ServiceTime"="预计服务时间：";
+"ServiceEngineerName"="服务工程师姓名：";
+"ServiceEngineerMobile"="服务工程师电话：";
+"Tips"="提示";
+"PhonePlaceholder"="区号+电话号码";
+"MobilePlaceholder"="手机号码为11位数字";
+"QueryMode"="查询方式";
+"You don't have order any services"="您尚未预约任何服务";
+"Please go to order"="请至服务申请/预约中进行预约";
+"Please enter SaleNo"="请输入销售单号";
+"You don't have any repaired records"="您目前没有维修记录";
+
+
+"open-mircophone"="暂时无法使用，请到设置中允许使用麦克风";
+"system-info"="系统信息";
+"system-error"="系统提示";
+"NotReachable"="网络不可用!";
+"Ok"="确定";
+"Cancel"="取消";
+"NowUpdate"="立即更新";
+"LaterUpdate"="以后再说";
+"versionUpdate"="苏宁易购已发布新的版本，建议升级后再使用。";
+"CheckUpdate"="检查更新";
+"CheckingUpdate..."="检查更新中...";
+"UpdateVersionTip"="更新提示";
+"MostUpdateVersion"="您当前使用的已经是最新版本，感谢您对苏宁易购的支持";
+
+"input keyword query"="输入关键字搜索";
+"input is null"="输入不能为空!";
+
+"User Login"="用户登录";
+"User Register"="注册";
+"OnlyOne Register"="一键注册";
+"Forget Password"="忘记密码?";
+"Look Password"="找回密码";
+"Remember Me"="记住我:";
+"Retrieve password by mobile"="通过手机号找回密码";
+"Retrieve password by email"="通过Email找回密码";
+"The tips of retrieving passwrod by mobile"="请确保您注册的手机在身边，以便及时收取校验码，手机短信免费";
+"Mobile has not been regestered"="手机号码不存在或手机未注册。";
+"Submit more than three times"="您当日已经提交了三次忘记密码申请，请以后再试！";
+"Set password failed,please set again!"="设置新密码失败,请重新设置!";
+"The email is not exist"="邮件地址不存在。";
+"Server response error"="服务器返回错误";
+"The validate code is error"="密码重置的验证码错误，请重新输入";
+"We have sent an email to you"="我们已经发送一封确认信到您的邮箱";
+"Please click the link to retrieve password"="请在您收到确认信后，点击信中链接找回密码";
+"Validate mobile number"="验证手机号";
+"Validate email"="验证Email";
+"Sending..."="正在发送...";
+"Please input correct email"="请输入正确的Email";
+"Please input auth code"="请输入短信验证码";
+"authCode"="验证码";
+"Regestered mobile"="注册的手机账号";
+"Regestered email"="注册的邮箱账号";
+"email address"="邮箱账号";
+"Reset password"="重置密码";
+"UserName"="账号";
+"UserPhone"="手机号";
+"input phoneNum"="请输入您的11位手机号码";
+"PassWord"="密码";
+"rePassWord"="确认密码";
+"Login"="登录";
+"LoginPlease"="请登录";
+"Register"="注册";
+"Logout"="注销";
+
+"input User Name"="邮箱/手机号/昵称";
+"input User PassWord"="6-20位字母+数字或符号的组合";
+"reInput User PassWord"="请再次输入您的密码";
+
+"Logout System"="注销系统";
+"Logout Confirm"="是否退出当前登录";
+"logout..."="正在注销系统...";
+
+//登录
+//==========================================================================================begin
+"LOGIN_ERROR_2001"="用户名输入出错，请检查";
+"LOGIN_ERROR_2002"="首次登录，发送激活码中";
+"LOGIN_ERROR_2010"="用户未注册或者用户名格式不正确";
+"LOGIN_ERROR_2000"="用户未注册或者用户名格式不正确";
+"LOGIN_ERROR_2020"="账号或密码错误，请重新登录";
+"LOGIN_ERROR_2030"="账号或密码错误，请重新登录";
+"LOGIN_ERROR_5310"="输入的验证码错误，请重新输入";
+"LOGIN_ERROR_5350"="抱歉无法使用会员卡号直接登录，请尝试用其他用户名（昵称/邮箱/注册手机）登录";
+"LOGIN_ERROR_2300"="请稍后再登录";
+"LOGIN_ERROR_2110"="你的账号已经被锁定，请联系客服4008-365-365进行解锁";
+"LOGIN_ERROR_9000"="您的账号密码安全等级较低，请您至苏宁易购网站重置登录密码！";
+"LOGIN_ERROR_DEFAULT"="网络请求出错，请重试";
+"LOGIN_ERROR_HaveLOGINED" ="用户已登陆";
+"LOGIN_SendingLoginRequest" ="正在发送登录请求";
+"LOGIN_Activing" ="正在激活";
+"LOGIN_Registering" ="正在注册";
+"LOGIN_PleaseEnterUserName" ="请输入用户名";
+"LOGIN_PleaseInputPassword"="请输入密码";
+"LOGIN_PasswordLengthBetween6-20Place"="密码长度应在６-２０位之间";
+"LOGIN_PleaseEnterAccount"="请输入账号";
+"LOGIN_PleaseEnterConfirmPassword"="请输入确认密码";
+"LOGIN_PasswordTwiceNotSameInputAgain"="您两次输入的密码不一致，请重新输入";
+"LOGIN_PleaseInputCheckCode"="请输入验证码";
+"LOGIN_BeforeLoginAgainWaitSeconds"="请在尝试重新登录前等待几秒";
+"LOGIN_WithoutResponseTrylater"="服务无响应，请稍后再试";
+"LOGIN_Logined"="用户已登录";
+"LOGIN_ERROR_PhoneCheckCode"="手机验证码错误";
+"LOGIN_ERROR_RegisteredBounded"="手机已注册或者已被绑定";
+"LOGIN_ERROR_PhoneNumber"="手机号码为空或手机号码有误";
+"LOGIN_ERROR_SendCheckCode"="发送验证码失败，请稍后再试";
+"LOGIN_MemberFirst"="会员卡号首次登录，请到网上商城完善会员信息";
+"LOGIN_ERROR_UseMemberNumberLogin"="抱歉无法使用会员卡号直接登录，请尝试用其他用户名（昵称/邮箱/注册手机）登录";
+"LOGIN_ERROR_LoginStateException"="登录状态异常，请重新登录";
+"LOGIN_ERROR_ActiveMassage1"="验证码不正确，请重输";
+"LOGIN_ERROR_ActiveMassage0"="您卡资料中手机号码不正确，请携带卡及证件到门店修改";
+"LOGIN_ERROR_ActiveMassage2"="会员卡号或密码不正确，请重输";
+"LOGIN_ERROR_ActiveMassage3"="您当日已经提交了三次忘记密码申请，请以后再试";
+"LOGIN_RegisterFailTryLater"="注册失败，请稍后再试！";
+"LOGIN_RegisterEPayFail"="易付宝注册失败";
+"LOGIN_RegisterPhoneNumberUsedGoStoreModify"="卡资料中的手机号码已被使用，请携带会员卡及有效证件到门店修改会员卡资料中的手机号码";
+"LOGIN_SMSAuthCodeSendFailRetryGet"="短信验证码发送失败，请重新获取";
+"LOGIN_SMSAuthCodeUpLimit3Times"="获取验证码已达到今日上限3次";
+"LOGIN_GetAuthCodeTooOften60Later"="获取验证码过于频繁，请60秒后再试";
+"LOGIN_GetAuthCodeTooOftenRetryLater"="获取验证码过于频繁，请稍后再试";
+"LOGIN_PhoneNumberModeWrongReInput"="手机格式不正确，请重新输入";
+"LOGIN_SensitiveWord"="存在敏感词，请修改";
+"LOGIN_UserNameFormatWrongReInput"="用户名格式不正确，请重新输入";
+"LOGIN_Format_MailBox"="邮箱格式不正确，请重新输入";
+"LOGIN_SystemBusyRetryLater"="系统繁忙，请稍后重试";
+"LOGIN_RegisterPhoneNumberUsed"="您的手机号已注册或被绑定";
+"LOGIN_GetAuthCodeFail"="获取验证码失败";
+"LOGIN_CheckAuthCodeFail"="验证码校验失败";
+"LOGIN_CheckAuthCodeUpToWrongTimes"="校验验证码达到最大容错次数，请重新获取验证码";
+
+
+
+//passport登录错误码
+"LOGIN_ERROR_E4700A40"="账号安全等级低，请至个人中心完善信息";
+"LOGIN_ERROR_E4700440"="您输入的账号不存在，请重新输入!";
+"LOGIN_ERROR_E4700451"="会员卡异常，请至门店更换会员卡!";
+"LOGIN_ERROR_E4700A37"="您输入的账号不存在，请重新输入!";
+"LOGIN_ERROR_E4700464"="您的会员账号出现异常，请联系4008-365-365!";
+"LOGIN_ERROR_E4700480"="非个人卡会员暂不提供线上验证功能!";
+"LOGIN_ERROR_E4700000"="不好意思，系统繁忙，请稍后再试";
+"LOGIN_ERROR_E4700013"="请求超时，请稍后再试";
+"LOGIN_ERROR_E4700450"="您的会员卡资料不完整，为保证您的账户安全，请携带会员卡及有效证件到就近门店补全资料!";
+"LOGIN_ERROR_E4700443"="您的会员卡已被锁定，请联系4008-365-365";
+"LOGIN_ERROR_serviceNotAvailable"="当前服务不可用，请稍后再试";
+"LOGIN_ERROR_badPassword.msg1"="输入的用户名或密码不正确，请重新输入";
+"LOGIN_ERROR_badPassword.msg2"="用户名或密码输入错误，您还有%d次输入机会，机会用完后，您的账号将会被锁定";
+"LOGIN_ERROR_badVerifyCode"="输入的验证码错误，请重新输入";
+"LOGIN_ERROR_lockedByManual"="您的账号已经被锁定，请联系客服4008-365-365进行解锁";
+"LOGIN_ERROR_lockedBySystem"="您的账号已被锁定，请通过找回密码进行解锁，或联系客服4008-365-365";
+"LOGIN_ERROR_needVerifyCode"="输入的验证码错误，请重新输入";
+"LOGIN_ERROR_unsupportedCredentials"="当前服务不可用,请稍后再试";
+"LOGIN_ERROR_uncategorized"="验证失败，请稍后再试";
+"LOGIN_ERROR_badPwdOfNotBindingMemberCard.msg1"="会员卡号和密码不匹配，请重新输入";
+"LOGIN_ERROR_badPwdOfNotBindingMemberCard.msg2"="请输入正确的易购账号密码，密码错误3次后，您的账号将会被锁定";
+"LOGIN_ERROR_notOnlineMember"="会员卡尚未绑定易购账号，您可以先进行绑定";
+//==========================================================================================end
+
+//myEuy
+"userInfo"="会员中心";
+"orderCenter"="订单中心";
+"bookmark"="我的收藏夹";
+"bookmark time"="收藏时间";
+"addToFavorite success"= "收藏成功";
+
+
+"efubao balance"="易付宝余额";
+
+//易付宝
+"efubao"="我的易付宝";
+"activated"="已激活";
+"unActivated"="未激活";
+"efubaoBalance"="余额";
+"efubaoStatus"="状态";
+"activated_efubao_desc"="您的易付宝尚未激活，请激活后使用";
+"activated efubao"="完善易付宝资料";
+"activated_phone_desc"="您的易付宝尚未激活，请绑定手机号后激活使用";
+"activated_phone"="绑定手机号";
+"active_Efubao"="激活易付宝";
+
+//绑定手机号码 boundPhone
+"Active_Email"="您的邮箱还没有经过验证，我们已经向您的邮箱发送了验证邮件，请您先登录您的邮箱完成邮箱验证流程，重新登录后再激活您的易付宝";
+"Efubao_Account"="易付宝账户";
+"boundPhone"="绑定手机号";
+"Bounding..."="正在绑定，请稍后⋯⋯";
+"send Check Fail"="验证码发送失败";
+"requestCheckCodeFail Fail"="验证码发送失败";
+
+//绑定手机号错误码
+"bindPhone_"="绑定手机号失败";
+"bindPhone_5015"="请先登录后再进行绑定";
+"bindPhone_9005"="系统通信异常";
+"bindPhone_9020"="验证码错误，请重新输入";
+"bindPhone_1003"="验证码错误，请重新输入";
+"bindPhone_2032"="该号码已被绑定";
+"bindPhone_1001"="绑定手机号失败";//请求参数不全
+"bindPhone_1005"="手机号码格式不对";
+"bindPhone_2031"="手机号码已经被绑定";
+"bindPhone_9010"="验证码错误";
+"bindPhone_1002"="手机绑定过程中出错";
+
+"bindPhone_1010"="手机验证码错误，请重新输入";
+"bindPhone_1000"="系统繁忙，请您稍后再试";
+"bindPhone_1040"="您的验证码有效期已过，请重新获取验证码";
+"bindPhone_1020"="手机验证码已失效，请重新输入";
+"bindPhone_1030"="您输入的答案有错误，请重新输入";
+
+
+// 验证短信提示信息
+"please_click_get_checkCode"="请点击获取验证码，我们会向您的手机发送一条免费验证码短信";
+"please_check_your_message"="如果您长时间没有收到短信，可以在60秒后点击重新发送验证码，每天累计最多发送3次";
+"SendCount_Out_Limited"="您今天的验证短信已经发满三次，每天累计最多发送三次验证短信";
+//验证码信息
+"get_check_code"="获取验证码";
+"phone_number"="手机号码";
+"check_code"="验证码";
+"bound_phone_number"="确定";
+"please_input_phoneNum"="请输入11位手机号码";
+"please_input_checkCode"="请输入验证码";
+"seconds_wait_send_again"="秒后重新点击获取验证码";
+
+
+"SysInfo"="系统信息";
+"boungPhone_success"="手机绑定成功，去激活易付宝";
+"integral_boungPhone_success"="手机绑定成功，去激活云钻";
+"returnTo_myEuy"="返回";
+"goActive_Efubao"="去激活";
+"Active_Email_integral"="您的邮箱还没有经过验证，我们已经向您的邮箱发送了验证邮件，请您先登录您的邮箱完成邮箱验证流程，重新登录后再激活您的云钻";
+"internal rule"="云钻规则";
+
+
+"select"="请选择";
+//激活易付宝
+"activeEfubao"="激活易付宝";
+"activeEfubao_"="激活易付宝失败";
+"activeEfubao_1020"="激活易付宝失败,请输入正确的身份证号码";
+"activeEfubao_5015"="激活易付宝失败，请先登录";
+"activeEfubao_2012"="您输入的证件长度大于18位";
+"activeEfubao_6016"="此证件已经存在，请核实证件或联系在线客服";
+"activeEfubao_9000"="姓名必须为中文";
+"activeEfubao_9001"="两次输入的支付密码不一致";
+"activeEfubao_9002"="身份证号码输入错误，请重新输入";
+"activeEfubao_9003"="易付宝完善资料失败，请重新输入";
+"activeEfubao_9004"="邮箱激活失败，请重新激活";
+"activeEfubao_9005"="手机激活失败，请重新激活";
+"activeEfubao_9006"="易付宝完善资料失败，请重新输入";
+"activeEfubao_9007"="员工易付宝账户绑定失败，请重新绑定";
+"activeEfubao_9008"="账户修改失败，请重新修改";
+"activeEfubao_9009"="用户账户和密码必须填写";
+"activeEfubao_9010"="员工工号和密码必须填写，请重新绑定";
+"activeEfubao_9011"="您的手机未绑定或手机绑定失败";
+"activeEfubao_9012"="激活易付宝失败,您的验证码不正确";
+"activeEfubao_9013"="激活易付宝失败,您的手机号码已经被绑定";
+"activeEfubao_9014"="激活易付宝失败,绑定易付宝密码不能为登录密码";
+"activeEfubao_9015"="验证码输入错误，请重新输入";
+"activeEfubao_9016"="邮箱验证码错误，请重新输入";
+"activeEfubao_9017"="输入的手机号码有误，请重新输入";
+"activeEfubaoOK"="易付宝激活成功";
+"activeEfubao_Error_Default"="激活易付宝失败";
+
+"SecurityType_NOT_Null"="安全问题不能为空，请选择安全问题";
+"identifyType_NOT_Null"="证件类型不能为空，请选择证件类型";
+
+
+//安全问题
+"4"="妈妈的名字";
+"5"="爸爸的名字";
+"6"="我的出生地";
+"7"="爱人的名字";
+"8"="爱人的生日";
+"9"="初中学校校名";
+"10"="妈妈的生日";
+"11"="外公的名字";
+
+//证件类型
+"001"="居民身份证";
+"005"="护照";
+"006"="军人证";
+
+
+"name"="姓名";
+"passWord"="输入密码";
+"re_Enter"="确认密码";
+"ReEnter_Password"="二次输入确认密码";
+"Security_NOT_Null"="安全问题不能为空";
+
+
+//手机号码的有效性验证提示信息
+"PhoneNum_Error_NotValide"="请输入正确的手机号码";
+"PhoneNum_Error_Null"="手机号码不能为空，请输入11位手机号码";
+"PhoneNum_Error_Length"="请输入11位的手机号码";
+"PhoneNum_Not_11bit"="请输入11位手机号码";
+
+
+//验证码的有效性验证提示信息
+"CodeNum_Error_Null"="验证码不能为空，请输入6位数字或字母验证码";
+"CodeNum_Error_NotValide"="验证码无效，请输入6位数字或字母验证码";
+"CodeNum_Error_Length"="验证码位数不正确，请输入6位数字或字母验证码";
+
+//姓名的有效性验证提示信息
+"Name_Error_Null"="姓名不能为空，请输入2-10位中文字符";
+"Name_Error_Length"="请输入2-10位中文字符";
+"Name_Error_NotValide"="姓名无效，请输入2-10位中文字符";
+"Name_27_Error_Null"="姓名不能为空，请输入2-7位中文字符";
+"Name_27_Error_Length"="请输入2-7位中文字符";
+"Name_27_Error_NotValide"="姓名无效，请输入2-7位中文字符";
+
+
+//密码的有效性验证提示信息
+"PassWord_Error_Null"="密码不能为空，请输入6-20位数字和字母的合集";
+
+"PassWord_Error_NotValide"="密码无效，请输入6-20位数字和字母的合集";
+"PassWord_Error_Length"="密码长度无效，请输入6-20位数字和字母的合集";
+"ReEnter_NoEqual_Password"="二次输入密码不一致，请重新输入";
+
+//证件号码错误提示信息
+"Identify_Error_Null"="证件号不能为空";
+"identifyType_Error_Null"="请您选择证件类型";
+"Identify_Error_Length"="证件号长度不正确，请输入有效的证件号";
+"Identify_Error_NotValide"="证件号无效，请输入有效的证件号";
+
+"Select_Security_Question"="安全问题";
+"Enter_security_Answer"="答案";
+"Select_Identity_Style"="证件类型";
+"Enter_Identity_Number"="证件号";
+
+"Must_Enter"="必填";
+
+//儿童出生日期验证错误提示信息
+"BirthDate_Error_Null"="出生日期不能为空";
+"BirthDate_Error_TooLittle"="您的宝贝尚未出生";
+"BirthDate_Error_TooBig"="年龄大于12岁，请选择成人登机人";
+"BirthDate_Error_TooSmall"="为了您的正常登机，婴儿请到机场购票";
+"idCode_Error_Check"="身份证填写有误，请查证";
+"idCode_Birth_TooSmall"="年龄小于12岁，请选择儿童登机人";
+"idCode_Birth_Error"="身份证与出生日期填写不相符,请查证";
+//支付
+"Please choose payment detail"="请选择货到付款的支付方式";
+"Please choose payment mode"="请选择支付方式";
+
+//订单中心
+"paid order"="已支付订单";
+"waitting order"="等待支付订单";
+"canceled order"="取消支付订单";
+"return order"="已退货订单";
+
+
+"server timer out"="网络请求超时!";
+
+//member info
+"nickName"="昵称";
+"account"="帐号";
+"memberCardNO"="会员卡";
+"user Level"="用户等级";
+"userName"="姓名";
+"userSex"="性别";
+"birthDay"="生日";
+"mobileNo"="手机号码";
+"Male"="男";
+"Female"="女";
+"Modify"="修 改";
+"Basic information"="基本资料";
+"Modified information"="可修改信息";
+
+"No change"="没有任何修改！";
+"Update"="更 新";
+"Updating..."="更新中...";
+"Update Ok"="更新成功";
+"Update Fail"="更新失败";
+"Real Name should be Chinese 2-6"="请输入您的真实姓名(2-6个汉字)";
+
+"userName_invalid"="真实姓名不合法（必须2到6个汉字）";
+"nickName_exists"="昵称已存在";
+"nickName_used"="昵称已被使用";
+"nickName_forbidden_words"="昵称有屏蔽词语";
+"nickName_length>20"="昵称长度不能大于20";
+"nickName_@_forbidden"="用户昵称禁止使用'@'符号";
+"nickName_12digital_forbidden"="用户昵称禁止使用12位数字";
+"nickName_1_10_forbidden"="用户昵称禁止使用以1开头的11位数字";
+"nickName_blankspace_forbidden"="用户昵称不能含有空格";
+"nickName_exceptional_character"="用户昵称不能有特殊字符";
+"nickName_Failed"="昵称添加失败";
+
+
+//my book mark
+"Clear Success"="清除成功";
+"Clear Failed"="清除失败";
+"Book Mark is Empty"="收藏夹里没有商品";
+"Delete all"="清空收藏夹";
+
+//首页八联版内页广告模板
+"activeRule"="活动规则";
+
+//search
+"Search"="搜索";
+"SearchCondition"="高级搜索";
+"price range"="价格范围";
+"PriceRange"="价格范围";
+"LocationForReceive"="收货地区";
+"CategoriesForSearch"="所在的分类";
+
+"SecondCategory"="二级类目";
+"Product"="推荐品牌";
+
+
+"SecondCategoryViewController"="二级分类";
+"  SecondCategory  "="          二级分类          ";
+"   Product   "="          推荐品牌         ";
+"ThirdCategoryViewController"="三级分类";
+"UserWelcomeMsg"="欢迎光临苏宁易购!";
+
+//虚拟商品
+"life pay service"="生活缴费服务";
+
+"Mobile Pay"="手机充值";
+
+"VALIDATE_CODE_ERROR"= "验证码错误";
+"BIND_CELLPHONE_NULL" = "绑定手机号为空";
+
+"No_mobileQuo"="未查询到您的号码归属地，请刷新页面重新获取";
+"No_payPrice"="充值金额获取失败，请重新选择";
+"No_factPayPrice"="优惠金额获取失败，请刷新页面重新获取";
+"No_chargeInfo"="充值信息获取失败，请刷新页面重新获取";
+"gotoPay:"="支付";
+"Water Pay"="水费缴查";
+"Electricity Pay"="电费缴查";
+"Gas Pay"="燃气费缴查";
+
+"order Time"  ="下单时间:";
+"order stutas"="订单状态:";
+"order price" ="应付金额:";
+"order ID"="订单号:";
+"error.service.interceptor.invoke" = "未正确查询到号码信息，请核实后再试";
+
+
+"Product Details"="商品详情";
+"CheckInfo"="结算信息";
+
+"product_Service"="因厂家会在没有任何提前通知的情况下更改包装、产地或者一些附件，本司不能确保客户收到的货物与商城图片、产地、附件说明完全一致。网站商品的功能参数仅供参考，请以实物为准，我司只能确保网站经营商品均为原厂正品行货！并且保证与当时市场上同样主流新品一致。若本商城没有及时更新，请大家谅解!";
+
+//抢购
+
+"subCount"="剩余";
+"leftTime"="距结束时间：";
+"leftReadyTime"="距开始时间：";
+"readyForSaleState" = "即将开始";
+"saleOut"="已经售完";
+"saleOutState" = "售罄";
+"haveChance"="还有机会";
+"timeOver"="活动结束";
+"timeOverState"="活动已结束";
+"QuickBuy"="抢购";
+"discount"="抢购价";
+"yigouPrice"="易购价";
+"panicPurchase over"="抢购活动已结束";
+"user had panic"="您已经抢购过了，把机会留给别人吧";
+"city not sale"="该城市不参加此活动";
+"sorry panic failed"="对不起，抢购失败";
+"panicPurchase not start"="抢购活动未开始";
+"userId failed"="用户账号异常";
+"panicPurchase not support mobile"="抢购活动不支持该移动客户端";
+"panicPurchase not support client"="抢购活动不支持客户端抢购";
+
+//商品四级页面
+"Product Description"="商品介绍";
+
+"Production Para"="商品参数";
+
+"Recommend Service"="推荐服务";
+
+"hotLineTitle" ="欢迎致电苏宁客服热线";
+
+"User Comment"="用户评价";
+"User Tips"="用户提示";
+"User must buy this product"="只有已购买该商品的用户才能进行评价";
+"Already buy"="已购买";
+"No buy"="未购买";
+
+"Packing List"="装箱清单";
+
+"BaskSingle"="晒单";
+
+"price"="价格";
+
+"saleOut"="售罄";
+"SorryProductPauseSaleOrNetException"="很抱歉，商品暂停销售或网络异常";
+"SorryProductPauseSaleBuyOtherSameKindGood"="很抱歉，商品暂停销售，您可以购买其他同类商品";
+"SorryYouNotMakeAnAppointmentCantSnapUp"="非常抱歉，您之前未进行该商品的预约，暂无抢购资格";
+
+"SorryNoProductData"="抱歉，暂无商品参数";
+"BastFailTrylater"="晒单请求失败,请稍后再试";
+"BastPublishFailTrylater"="晒单发布失败,请稍后再试";
+
+
+//add by liukun
+"Success"="收藏成功";
+"Check"="已经收藏该商品";
+//end by liukun
+"hasStorage"="有货";
+"noStorage"="无货";
+
+"takeMode1"="配送/自提";
+"takeMode2"="配送";
+
+"takeTime"="送达时间";
+
+"Add bookMark"="加入收藏";
+
+"Add shopCart"="加入购物车";
+
+"No Product" = "此商品暂无货";
+
+"Add QuickBuy"="我要抢";
+
+"Add GroupBuy"="我要团";
+
+"Settings"="设置";
+
+"Help"="帮助";
+
+"Feedback"="意见反馈";
+
+"About"="关于";
+
+"HotLine"="客服热线";
+
+"cancel call"="取消";
+
+"do call"="拨打";
+
+"call HotLine"="欢迎拨打苏宁易购客服热线\n4008-365-365";
+
+"leftTime"="距离结束:";
+
+"leftCount"="剩余数量";
+
+"readyLeftTime"="距离开始:";
+//mobile recharge
+"Mobile Payment" = "手机充值";
+"Next Step"="下一步";
+"Phone number"="充值号码";
+"Please input phone number"="请输入您的手机号码";
+"Select amount"="充值金额";
+"Click to select amount"="点击选择充值金额";
+"Recharge history"="查询充值历史";
+
+"The mobile number can't be empty"="您输入的手机号不能为空";
+"Please input phone number 11"="请正确输入11位手机号码";
+"PhoneNum_Is_Null"="手机号码不能为空，请输入11位有效手机号码";
+"Please_Input_valide_phoneNum"="请输入11位有效手机号码";
+
+"Please click to select recharge amount"="请通过点击选择充值金额";
+
+"10 yuan"="10元";
+"20 yuan"="20元";
+"30 yuan"="30元";
+"50 yuan"="50元";
+"100 yuan"="100元";
+"200 yuan"="200元";
+"300 yuan"="300元";
+"500 yuan"="500元";
+" yuan"=" 元";
+
+"MobileRecharge help"="话费充值帮助";
+"Please input a correct phone number"="请输入正确的手机号码";
+"phone number can't be find or System maintenance"="手机号码不能找到或系统维护中";
+"Number attribution"="号码归属";
+"Recharge amount"="充值金额";
+"Preferential amount"="售       价";
+"Yifubao money"="易付宝余额";
+"Payment code"="支付密码";
+"Back"="返回";
+"Pay"="支付";
+"Bill payment"="账单支付";
+"Mobile"="移动";
+"Unicom"="联通";
+"Telecom"="电信";
+"1-20 minutes to complete recharge"="充值完成1-20分钟内到账";
+"Insufficient efubao balance"="易付宝余额不足";
+"Please input your efubao password"="请输入您的易付宝密码";
+"Recharge success"="充值成功";
+"Recharge failed"="充值失败";
+"Recharge failed2"="支付失败，请稍后再试！";
+
+"Order No"="订单编号";
+"Order status"="订单状态";
+"Sale price"="实付金额";
+"Create time"="充值时间";
+"Recharge query"="充值查询";
+"Please check your landing state"="请检查您的登录状态";
+"Please check your network"="请检查您的网络环境";
+"History is empty"="您的历史记录为空！";
+
+//pay service
+"WaterElectricGas Payment" = "水电煤缴费";
+"Pay water"="水费缴纳";
+"Pay electricity"="电费缴纳";
+"Pay gas"="煤气费缴纳";
+
+"Water Fee" = "水费";
+"Electric Fee" = "电费";
+"Gas Fee" = "煤气费";
+
+"Pay type"="缴费类型";
+"Pay region"="缴费地区";
+"Pay company"="收缴单位";
+"Pay account"="缴费账户";
+"Pay type"="缴费类型";
+
+"NotHasCenterList"="您尚未预定过酒店";
+
+"Payment time is every month 1-25"="缴费时间为每月1-25号";
+"You can request the bill from China Everbright Bank"="缴费票据请到光大银行柜台打印";
+"Pay service history"="缴费历史查询";
+"Please click to select region"="请点击选择地区";
+"Please click to select company"="请点击选择收缴单位";
+"Please input your pay account"="请输入相应的条形码/账号";
+"Please makesure your pay account"="未查到该条形码/账号信息，请确认是否正确！";
+"Please select pay region"="请选择缴费地区";
+"Please select pay company"="请选择缴费单位";
+"Please confirm agreement"="请先阅读并同意《自助缴费协议》";
+"Request Failed"="请求失败!";
+"Account information does not exist"="账户信息不存在";
+"Payment"="账单支付";
+"Water fee"="水费";
+"Electricity fee"="电费";
+"Gas fee"="煤气费";
+"Customer name"="用户姓名";
+"Customer names"="用户名";
+"Pay amount"="需缴金额";
+"You don't have a bill to pay"="您不需要缴费";
+"Account don't need pay"="账号无需缴费/未到缴费账期";
+
+"Payment query"="缴费查询";
+"Order name"="订单名称";
+"Company name"="公司名称";
+"Pay time"="支付时间";
+"Status name"="支付状态";
+"PayService help"="水电煤缴费帮助";
+
+//More
+
+"Version message"="版本信息";
+"Suning family"="苏宁家族";
+"Go to Suning"="去苏宁易购";
+"Go to App Store"="去 App Store";
+"Suning Ebuy\nhttp://www.suning.com"="苏宁易购\nhttp://www.suning.com";
+
+"Operations Tips"="操作提示";
+"Sound"="声音";
+"Shack"="振动";
+"Delivery City"="送货城市";
+"City Chioce"="城市选择";
+"Sorry, this province is not available"="十分抱歉，您所选的地区暂不支持！";
+
+"User Feedback"="用户反馈";
+"Please Go to Mail App Config your Mail account"="请先到手机邮箱中设定您的邮箱账号";
+"Please input your opinion"="请输入您的意见(500字以内)";
+"Commit"="提交";
+"Welcome your valuable comments and suggestions, leave your every word will be used to improve our software"="欢迎您提出宝贵的意见和建议，您留下的每个字都将用来改善我们的软件";
+"Send success, thank for your feedback"="发送成功，感谢您的反馈";
+"Contact way"="联系方式";
+"Your email or phone number"="您的邮箱或手机号";
+"Contents can't be empty"="请填写反馈内容";
+"Contents can't more than 50"="联系方式字数请少于50个";
+"Save success"="保存成功，不要忘记发送哦";
+"Send failed"="发送失败";
+"Now go to Mail"="去手机邮箱？";
+
+"Freshman Help"="新手上路";
+"Browsing History"="浏览记录";
+"NO Browsing History"="目前没有您的浏览记录，谢谢";
+"CleanAllHistory"="清空记录";
+"Confirm Clean Up?"="确认清空吗？清空将不可恢复!";
+"More_Clear_Mem_Loading"="清除图片缓存中...";
+"More_Clear_Mem_Success"="清除成功";
+
+//address add by maxiaoyuan
+"Address"="地址维护";
+"AddressXiangxi"="详细地址:";
+"AddressPerson"="收货人:";
+"AddressTel"="手机:";
+"AddressEdit"="编辑地址";
+"Please input area address" = "请点击选择完整的送货区域";
+"Please input receive phone"="请输入收货人手机号码";
+"Please input your name"="请输入中文姓名";
+"Please input your real name"="姓名格式不正确，请输入2到6位的汉字";
+"Please input detail address"="请输入详细地址";
+"Please choose you province and city" = "请点击选择省市区镇";
+"please input your real number" = "请输入正确的手机号码";
+"address update success" = "地址修改成功";
+"address update fail" = "地址修改失败";
+"address add success" = "新增地址成功";
+"address add fail" = "新增地址失败";
+"add address" = "新增地址";
+"Commiting" = "正在提交";
+"save address" = "保存";
+"address list" = "地址清单";
+"Please input chinese name" = "收货人名称应为2~6个中文字符";
+"Please input chinese name2" = "预订人名称应为2~6个中文字符";
+//end by maxiaoyuan
+
+//shooping cart
+"Edit"="编辑";
+"Done"="完成";
+"commitPay"="提交订单";
+"surePay"="确认支付";
+"settlement"="去结算";
+"reciverInfo"="结算信息";
+"choosePayWay"="选择支付方式";
+"yifubaoPayWay"="易付宝支付";
+"PhonePayWay"="电话支付";
+"CodPay"="货到付款";
+
+"confimPay"="您确认购买？";
+"addCodAdrress"="请新增配送地址";
+
+"loadMore"="---加载更多---";
+
+"SaleSequence"="销量";
+"UpSequence"="升序";
+"DownSequence"="降序";
+"defaultSequence"="默认";
+
+"checkCityCodeInfo"="您的商品送货城市不一致，请修改后重新加入购物车";
+"checkProductCityCode"="您的商品送货城市不一致，请修改送货城市";
+"modifiedSendCity"="您选择的配送城市和购物车商品的送货城市不一致，请修改配送城市";
+
+"choosePayWayFor10"="货到付款";
+"choosePayWayFor11"="支持刷卡和现金支付";
+"choosePayWayFor20"="电话支付";
+"choosePayWayFor21"="支持中行， 农业等八家银行";
+"choosePayWayFor211"="支持中行，建行等七家银行";
+"choosePayWayFor30"="易付宝付款";
+"choosePayWayFor311"="易付宝在线支付";
+"choosePayWayFor312"="支持易付宝余额、快捷支付等多种支付方式";
+"choosePayWayFor31"="请确保您的易付宝有余额";
+"choosePayWayFor313"="使用易付宝账户现有的余额支付";
+"choosePayWayFor10 tip message"="您有货到付款未销订单，暂不支持货到付款！";
+"choosePayWayFor40"="快捷支付";
+"creat order error on line"="很抱歉，创建订单失败，请稍后再试!";
+"choosePayWayFor50"="银联支付";
+"support bank card"="安全快捷，支持各大银行支付";
+
+"balance"="余额:";
+"YIfuaboBalance"="易付宝余额";
+"payMentent"="支付:";
+"payConfirm"="确认购买";
+"confirmPay"="购买确认";
+"yibubaoPassWord"="易付宝的支付密码";
+"productTotal"="应付金额:";
+
+"notEnableBlank"="无需开通网银";
+"refeshCart"="刷卡支付";
+"PosRefresh"="POS机刷卡支付";
+"carshPay"="现金支付";
+"FirstAtftermoeny"="可以使用现金支付";
+"jianshe"="中国建设银行";
+"huaxia"="华夏银行";
+"shenzheng"="深圳发展银行";
+"zhongxin"="中信银行";
+"gongshang"="中国工商银行";
+"pufa"="浦发银行";
+"guangfa"="广发银行";
+"shanghai"="上海银行";
+"zhongguoi"="中国银行";
+"zhaoshang"="招商银行";
+"mingshen"="中国民生银行";
+"support banks"="电话支付支持的银行";
+"support card and cash"="支持刷卡和现金支付";
+"support bank on line"="绑定储蓄卡，信用卡，无需开通网银";
+
+"suning delivey"="苏宁配送";
+"store mention"="门店自提";
+
+"total price"="共计:";
+
+"coupon using"="使用兑换券";
+"choose pay mode"="选择支付方式";
+
+"receiver info:"="收货人信息:";
+"taker info:"="提货人信息:";
+
+"invoice header"="发票抬头:";
+"please input invoice header"="请输入发票抬头";
+"touch to use coupon"="点击使用易购券";
+"need to pay"="需要支付:";
+
+"JiPiaoNoteActiveYifubao"="易付宝未激活，请到“我的易付宝”激活后使用";
+"NoteActiveYifubao"="尚未激活，请至苏宁易购网站激活并充值";
+"Store take unsupport bank online"="门店自提方式不支持银联支付!";
+"succeedPay"="恭喜您！本次购买商品成功！";
+"confirm"="确认";
+"Confirm"="确定";
+"cashPay"="   支付金额";
+"passWordPay"="支付密码:";
+"please input pay password"="请输入支付密码";
+
+"YIfuaboBalance"="易付宝余额:";
+"invoiceLbl"="发票抬头 :";
+"EnChinaForInvoice"=" 发票抬头必须是中文！";
+"shopcart null tip"="您的购物车还是空的,赶紧去选购心动的商品吧!";
+"Please input 2~32 characters for invoice" = "请输入2～32位发票抬头";
+"individual" = "顾客";
+
+
+"wornCod"="商品的总额大于500元,不支持此付款方式!";
+"wornCod2"="商品的总额小于100元,不支持POS刷卡付款!";
+"user name:"="姓名：";
+"user phone:"="手机：";
+"user address:"="地址：";
+"store name:"="门店：";
+"exchange coupon"="兑换易购券";
+"modify"="修改";
+"please input exchange amount"="请输入兑换金额";
+"exchange coupon tips"="注：易购兑换比例为150:1，如：兑换面值10元的易购券需要1500云钻";
+"integral balance"="云钻余额";
+"integral rule" = "云钻规则";
+"exchange"="兑换";
+"electric coupon"="电子券";
+"integral coupon"="电子礼金券";//"云钻兑换券";
+"coupon number"="券号";
+"please input coupon number"="请输入券号";
+"exchange yigou coupon"="兑换易购券";
+"checking coupon"="正在验证优惠券";
+"please input take goods name"="请输入提货人的姓名";
+"please choose store"="请选择自提门店";
+"address"="地址";
+"taker name"="提货人:";
+"required"="必填";
+"mobile phone:"="手机号码:";
+"eleven phone number"="11位手机号码";
+"current area:"="所在地区:";
+"store mention:"="自提门店:";
+
+
+//search condition
+"commit"="确定";
+"error:"="最低价格大于最高价格，请重新输入";
+"BrandForSearch"="推荐品牌";
+"low price"="最低价格";
+"high price"="最高价格";
+"inputLowPrice"="请输入最低金额";
+"inputHighPrice"="请输入最高金额";
+"cityCodeError"="请重新将商品加入购物车，并选择送货城市";
+"cityNilError:"="该城市暂不支持";
+
+"EnchainreceierName" = "收货人姓名必须是中文，请进入地址列表界面重新选择";
+
+
+//Product detail
+"Product Details" = "商品详情";
+"Product Description" = "商品介绍";
+"Production Para" = "商品参数";
+"Recommend Service" = "推荐服务";
+"afterBuy Service" = "售后服务";
+"Load List" = "装箱清单";
+"Product Appraisal" = "用户评价";
+"Custom Ask" = "商品咨询";
+"Some One" = "匿名";
+
+"sorry ,no consultant information"="对不起，该商品暂无咨询信息";
+"wrong product imformation"="该商品咨询信息错误";
+
+"Group Detail"="团购详情";
+"Panic Detail"="抢购详情";
+"Book Detail"="图书详情";
+"Panic Over"="抢购结束";
+"Group Over"="团购结束";
+"Arrive Time"="送达时间:";
+"Sorry, Not enough stock"="很抱歉，本地暂不销售";
+"Send to"="送 至";
+"Left time to begin"="距开始时间还有";
+"Left time to end"="距结束时间还有";
+"Group number"="已团:";
+"Discount Price"="优惠金额:";
+"Unknown"="未知";
+"Star Level"="星级";
+
+//评价与咨询
+"Please go to member center to complete your nickname"="请先到会员中心完善您的昵称";
+"Write evaluate"="撰写评价";
+"Please touch to grade"="请选择评分";
+"Please fill title"="请填写主题";
+"Please fill content"="请填写内容";
+"Please input title here"="请输入主题";
+"Please input content here"="请输入内容(请不要超过150个字)";
+"Title"="标题：";
+"Content"="内容：";
+"Push stars to grade"="轻按星形来评分";
+"Evaluate success"="评价成功!";
+"Evaluate failed"="评价失败!";
+"no appraise"="该商品暂无评价信息";
+
+"Product advisory"="产品咨询";
+"New advisory"="我要咨询";
+"Inventory distribution"="库存配送";
+"Invoice warranty"="发票保修";
+"Payment information"="支付信息";
+"Promotional discounts"="促销优惠";
+"Other question"="其他问题";
+"Please input your question"="请填写您的问题";
+"Classification"="分类:";
+"Please input your question here"="请在这里写下您的问题";
+"Advisory success"="咨询成功!";
+"Advisory failed"="咨询失败!";
+
+//团购
+"Group Purchase"="团购";
+"group sign up"="团购报名";
+"sign up"="报名";
+"consignee"="收货人:";
+"mobile"="手机:";
+"tel"="电话:";
+"city"="收货城市:";
+"number"="购买数量";
+"Please input your mobile"="请输入您的手机号";
+"Please input your tel"="请输入您的电话号码";
+"one is aviliable"="限购一台";
+
+"Please input number"="请输入购买数量";
+"Please input name"="请输入收货人姓名";
+"After successful registration, please pay attention to registration information, enrollment at the end of half an hour after the buy, purchase orders within 24 hours"="报名成功后，请关注报名信息，于团购报名结束半个小时后，24小时内下单购买";
+"Join group failure"="参团失败";
+
+"Registration number of this area is full, thanks for your attention"="此地区报名数量已满，谢谢关注";
+"Group buy more than the maximum number"="团购数量超过团购最大报名数";
+"The number is not available per capita"="团购数量超过团购每人限购数量";
+"The time is not available, can not apply"="不在团购报名时间内，不能报名";
+"Group buy is not enabled, can not apply"="团购不是启用状态，不能报名";
+
+"YiGou price"="易购价格";
+"Number of people"="参团人数";
+"Away from end time"="距离结束时间:";
+"Away from begin time"="距离开始时间:";
+"Group buy is over"="团购已结束";
+"Group number full"="团购已满";
+"Upcoming"="即将开始...";
+"Join Group"="参团";
+"Group begin time"="团购开始时间:";
+
+"Maximum discount"="最高优惠";
+"gb_MaxDiscount"="可获最高优惠:";
+"gb_TotalCount"="再团:";
+
+//晒单
+"Display Order"="晒单专区";
+"Display Order Delites"="晒单详情";
+"Display Order No Title"="无题";
+"Display Order No CreateTime"="时间为空";
+"Display Order No Content"="无内容";
+"Display Order No name"="苏宁易购客服";
+"No Information"="此商品暂无晒单信息，您可在购买商品后进行晒单获取云钻！";
+"Show My Order"="发布晒单";
+"Show My Order Now" = "我要晒单";
+"Please Don't repeat Display Order"="很抱歉，您的商品不能晒单或已经晒单完成";
+"Display Order Sucess" = "晒单发布成功!";
+"Display Order fail" = "很抱歉晒单发布失败，建议先保存晒单正文稍后再试!";
+"Display Order Title" = "晒单主题：";
+"Display Order Content" = "晒单内容：";
+"Please input 4-10 characters" = "请输入4-10个字符";
+"Please input 5-150 characters" = "请输入5-150个字符";
+"Please upload 1-3 photoes" = "请上传1-3张照片";
+"Three will get achievements" = "只有晒满3张才有机会获得云钻哦";
+"Share to sina" = "分享至新浪微博";
+"Please choose photoes" = "请选择图片";
+"photoes" = "图片";
+"Cancel photoes" = "取消";
+"Choose camera" = "照相机";
+"Choose album" = "相册";
+"Please input display order title" = "请输入晒单主题";
+"Please input display order content" = "请输入晒单内容";
+"Input 5-150 characters" = "晒单内容请在5-150个字符之间";
+"Input 5-10 characters" = "晒单主题请在5-10个字符之间";
+"Submit Display Order" = "发布";
+"Share success" = "分享到新浪微博成功";
+"Current number of characters" = "您当前输入的字符数为：";
+"Just could select 3 photoes" = "您只能上传3张照片";
+"Please choose photo" = "请选择照片";
+"No any disorder"="此商品暂无晒单信息";
+"sorry,camera not avilable"="对不起,您的相机不可用";
+"sorry,photosalbum not avilable"="对不起,您的相册不可用";
+
+//我的云钻
+"MyIntegral"="我的云钻";
+"Get indentify"="获取验证码";
+"Please enter detail address"="请输入详细地址";
+"Please select province and city"="请选择省市";
+"Please select certificateType"="请选择证件类型";
+"Activate integralNumber"="激活云钻";
+"Please enter right certificateNum"="请输入正确的证件号码";
+"Integral balance"="云钻余额";
+"Name"="姓名";
+"Select sex"="选择性别";
+"CertificateType"="证件类型";
+"CertificateNum"="证件号码";
+"Address"="地址";
+"PhoneNum"="手机号码";
+"Identifying"="验证码";
+"Please input 2-7 chinese name"="输入2至7位中文姓名";
+"UserName_Null"="用户名不能为空";
+"Detail_Address_Null"="请输入详细地址";
+
+"commodityName"="云钻兑换易购券";
+"billType"="单据类型";
+"batchPoint"="云钻变化";
+"My Achievement"="我的云钻";
+"Exchange Des"="150云钻兑换1元易购券";
+"Be Sure Exchange"="确认兑换";
+"Achievement Details"="云钻明细";
+"Achievements"="云钻余额：";
+"Achievement Unit"="分";
+"Money Unit"="元";
+"Need Des"="需要";
+"Achievement Shortage"="对不起，您的云钻不足";
+"Exchange Success"="您已成功兑换易购券";
+"Exchange Failed"="兑换失败，请稍候重试";
+"Friends Tips"="友情提醒：\n1.云钻兑换成易购券后无法再换回；\n2.换得的易购券有效期为一个月";
+"Loading Now"="正在加载，请稍候...";
+"Zero"="请输入您要兑换的易购券数量";
+"Sorry,you can get only three times everyDay"="对不起，每天只可获取三次验证码";
+"Code is sending,please enclosed"="验证码已发送，请注意查收";
+//激活返回
+
+"bindIntegral_"="绑定失败";
+"bindIntegral_5015"="用户未登录";
+"bindIntegral_9013"="手机不唯一";
+"bindIntegral_9012"="验证码错误或手机号已被注册";
+"bindIntegral_1020"="证件号码输入不正确";
+"bindIntegral_9011"="手机绑定失败";
+"bindIntegral_6016"="该证件号已经存在";
+"bindIntegral_2030"="更改用户信息失败";
+"bindIntegral_2011"="详细地址长度不能大于30位";
+"bindIntegral_2012"="证件号的位数不能大于18位";
+"bindIntegral_Error_Default"="云钻激活失败";
+
+"Fail"="请求失败";
+
+//云钻激活提示信息
+"MyIntegeral_UnboundPhone"="您的云钻尚未激活，请绑定手机号后激活使用。";
+"MyIntegeral_UnActive"="您的云钻尚未激活，请先激活再使用我的云钻功能。";
+"activated_integral"="激活云钻";
+"Integeral"="云钻";
+"Integeral_Status"="状态";
+"Integral_Account"="云钻帐户:";
+
+
+//我的易购券
+"coupon endDate"="失效日期";
+"coupon strParValue"="面值";
+"coupon remainingValue"="余额";
+"coupon RMB"="元";
+"coupon totalValue"="易购券余额";
+"coupon myCoupon"="我的易购券";
+"coupon loadMore"="--点击加载更多--";
+"coupon unUse"="未使用";
+"coupon used"="已使用";
+"coupon outOfUse"="已过期";
+"coupon detail"="易购券明细";
+"MyCoupon"="我的易购券";
+"no record of coupon"="您还没有易购券哦！";
+"no message"="没有相关信息";
+"detail coupon"="优惠券明细";
+"coupon"="优惠券";
+"intergal change coupon"="电子礼金券";//"云钻兑换券";
+"intergal change coupon detail"="电子礼金券明细";//"云钻兑换券明细";
+
+//天声一队
+
+"projectName_MyVoteList"="项目名称";
+"orderId_MyVoteList"="订单编号";
+"voteTime_MyVoteList"="时间";
+"status_MyVoteList"="状态";
+"voteAcount_MyVoteList"="支持金额";
+
+
+
+//图书馆
+"Please search book product"="请搜索图书商品";
+"Yigou price"="易购价 :";
+"Library"= "图书馆";
+"LibraryBookDescribe1"="传记/青春/小说/文学";
+"LibraryBookDescribe2"="财富/成功/处事/励志";
+"LibraryBookDescribe3"="启蒙/益智/幼教/卡通";
+"LibraryBookDescribe4"="饮食/旅游/两性/育儿";
+"LibraryBookDescribe5"="金融/营销/理财/企业";
+"LibraryBookDescribe6"="法律/马列/学术/其他";
+"LibraryBookDescribe7"="农学/工程/计算机/医学";
+"LibraryBookDescribe8"="工具/外语/考试/教辅";
+"LibraryBookDescribe9"="音像";
+
+"Activate rule"="活动规则";
+"books_hotSale"="图书热销";
+
+
+//机票
+"load_failed"="加载失败，请稍后重试!";
+"FlightOrder_Write"="订单填写";
+"nextDay"="后一天";
+"backDay"="前一天";
+"Child" = "儿童";
+"Adult" = "成人";
+"Plane Query Title" = "航班查询";
+"ModifyPersonInfo" = "修改登机人信息";
+"AddPersonInfo" = "新增登机人信息";
+"BoardingPersonList" = "登机人列表";
+"AddPersonInfoBtn" = "新增";
+"DeletePersonInfoBtn" = "删除";
+"SubmitPersonListBtn" = "确定";
+"Plane Query" = "查询";
+"TravellerType" = "登机人类型";
+"ChooseStartTime" = "选择出发日期";
+"ChooseReturnTime" = "选择返程日期";
+"ChooseReturnTimeError" = "返回日期选择有误，请重新选择";
+"Please Choose Origin City" = "请选择出发城市";
+"Please Choose Destination City" = "请选择到达城市";
+"Can Not Choose The Same City" = "出发城市与到达城市一样，请重新选择";
+"Please Choose Start Time" = "请选择出发时间";
+"Please Choose Return Time" = "请选择返回时间";
+"Please Choose Item To delete" = "请选择删除的登机人信息";
+"Please delete some boarding person information" = "登机人列表中最多只能有9条信息，请选择性的删除";
+"BordingManage_Faild"="新增登机人失败";
+"Please Choose Boarding Person" = "请选择登机人";
+"One adult only could take two Children" = "一名成人最多能带两名儿童";
+"Children_Error_Age"= "儿童必须在2－12岁之间";
+
+"FlightOrderSubmit_Failed"="订单提交失败，航班未预订";
+"PasswordOver3Time"="密码错误超过3次，账号已被冻结，24小时后自动解锁!";
+"PasswordWrong3Time-"="密码输入错误，还可尝试%d次， 如失败账号将被冻结";
+"AirTicketsLack"="非常抱歉，机票库存不足，您可重新选择航班";
+"OrderOverTimeOrPayedCheckNewestState"="订单已超时，并自动取消，或已经完成支付，您可查看最新状态";
+"OrderOverTimeRefund5MinuteLater"="订单已超时，并自动取消，系统将在5分钟后办理退款";
+"InsuranceFailSelectWithoutInsuranceOrNot"="非常抱歉，保险下单失败，是否选择支付无保险的订单";
+"OrderPriceChangedPrompt"="该订单价格已变为%@,易购券%@,是否选择继续支付";
+"OrderPriceChangedInsuranceFailPromptSelectWhetherPay"="非常抱歉，该订单价格已变为%@,,易购券%@,并且保险下单失败，是否选择支付无保险订单";
+"OrderPriceChangedContinueToPayOrNot"="该订单价格已变化是否选择继续支付";
+"OrderPriceChangedInsuranceFailContinueToPayOrNot"="该订单价格已变化并且保险下单失败，是否选择支付无保险订单";
+"CommunicateExceptionTryLater"="通信异常，请稍后再试";
+"AirTicketsSoldOutReselect"="该机票已经售罄，请重新选购";
+"OrderCommitFailReselect"="订单提交失败，请重新选购";
+"OtherCustomerSelectedOrder"="该订单中有顾客已经选择了此航班，是否到订单中心，选择付款或取消订单";
+
+//苏宁资讯
+"PromotionInfo"="苏宁易购资讯";
+
+//航班列表
+"flightList_2"="暂无此航班";
+"flightList_3"="程序异常";
+"flightList_4"="所选机场不存在";
+"flightList_5"="查询日期为过去时";
+"flightList_6"="很抱歉，未查询到航班信息。机票后台系统已经升级，请您先更新苏宁易购客户端再查询";
+
+"hotelOrderCentr"="酒店订单中心";
+"hotelOrderDetail"="酒店订单详情";
+"orderNumber"="订单号";
+"hotalName"="酒店名称";
+"Count"="数量";
+"totalPrice"="总价";
+"orderTimer"="下单时间";
+"orderStatus"="订单状态";
+
+"hotelStarLevel"="酒店星级";
+"hotelAddresss"="酒店地址";
+"hotelRoomType"="房型";
+"starLiveTimer"="入住时间";
+"bookRoomCount"="预订房间数";
+"tempNotHasRoom"="暂无房源";
+"NotHasHotelPhoto"="对不起，该酒店暂无外观图片!";
+"payType"="付款方式";
+"dataPrice"="日均价";
+"totalPrice"="总价格";
+
+"liveingPersonInfo"="入住人信息";
+"liveingEarliestTimer"="最早到店";
+"liveingLatestTimer"  ="最晚到店";
+
+"liveingInfo"  ="入住人";
+"ContactInfo"  ="联系人";
+"hotelIntroduce"  ="酒店简介";
+"facilityService"  ="设施与服务";
+
+
+"cancelOrder"="取消订单";
+"repayOrder"="支付";
+
+"CacelOrder_Warning_Message"="尊敬的顾客，确定取消订单";
+"cancel"="取消";
+"ok"="确定";
+
+"Sorry, Unsupport call tel \n hotline:4006766766"="很抱歉，您的设备不支持拨打电话！\n 客服热线:4006766766";
+//酒店
+
+"One suit"="1间";
+"Two suit"="2间";
+"Three suit"="3间";
+"Four suit"="4间";
+"Five suit"="5间";
+
+
+"Please_select_suits"="请选择房间数量";
+"Order_suits"="预订间数";
+"Arrive_Date"="入住日期";
+"Leave_Date"="离店日期";
+
+"Please enter guest name"="请输入房间客人姓名";
+"Please select arrive time"="请选择最早到店时间";
+"Please select leave time"="请查看最迟到店时间";
+"Arrive_Time"="最早到店时间";
+"Leave_Time"="最迟到店时间";
+
+"Already read and agree Suning_Hotel_Deal"="我已阅读并同意《苏宁酒店协议》";
+"Hotel_Order"="酒店预订";
+"Guest_Info"="入住人信息";
+"LinkMan_Info"="联系人信息";
+
+"Hotel_Order_Success"="预订成功";
+"Order success,you will get note later"="预订成功,稍后您将收到通知短信";
+"Suning_Hotel_Deal"="易购酒店协议";
+"Suning recommend"="苏宁推荐";
+"Hotel_List"="酒店列表";
+"Linkman name need 2-6 chinese"="联系人姓名应该为2-6位中文字符";
+"My_Bussiness"="我的商旅";
+"HotelDetail"="酒店详情";
+"Sorry,room is full!"="对不起!房间已满,无法预订!";
+
+"goFavourite"="去收藏";
+"goShopping"="去逛逛";
+
+"FeedMarkInfo"="反馈内容:";
+
+"contacsMarkInfo"="您的联系方式可以是手机号码,qq或者邮箱地址";
+
+"travelServiceNum" = "旅行服务热线             4006-766-766";
+
+//搜索
+"Sorry, No infomation"="抱歉，没有查询到相关信息";
+"Search Product"="搜索商品";
+"No history keywords"="还没有搜索历史记录！";
+"No scan history keywords"="还没有浏览历史记录！";
+"Delete all history keywords"="删除所有历史搜索";
+"Delete all scan history keywords"="删除所有浏览历史";
+"Switch Hot keywords" = "换一换";
+"Confirm clear search history"="确认清空历史搜索记录？";
+"Confirm clear scan history" = "确认清空浏览历史记录？";
+"Category"="类目";
+"Filter"="筛选";
+"All Categorys"="所有分类";
+"Sorry, Can't find product"="很抱歉，没有找到你搜索的相关商品";
+"Related Searchs"="相关搜索";
+"Province_Pick_Title"="选择省份";
+"Current_City"="当前城市";
+"Select_All"="选择全部";
+"Custom_Define_Price_Range"="自定义价格区间";
+"Manual_Input_Search_Placeholder"="请输入条形码串号";
+"Manual_Input"="手动输入";
+"ZBar_Reader_Mention"="请将条形码或二维码放置在屏幕中央";
+"Can not match the Dimensional code!" = "抱歉，没有查询到相关信息";
+"Go on reading" = "继续扫描";
+"Return home" = "返回首页";
+"Hot_Search"="热门搜索";
+"Search_History"="最近搜索";
+"Scan_History"="最近浏览";
+"Search_No_Result_Suggest_Msg"="建议您:\n1、判断输入的文字是否有误\n2、根据词意，尝试一下其他相关的词语\n3、拆分要搜索的关键词，再次搜索";
+"Hot_Product_Recommend"="热销商品推荐";
+"Refresh"="刷新";
+"redBaby"="母婴";
+"redBabyDes"="奶粉/护理/婴幼玩具/婴儿床";
+"binfengnet"="美容护肤";
+"binfengnetDes"="面膜/睫毛膏/BB霜/美发";
+"get category unsuccess" = "获取类目失败";
+"search records is null" = "暂无数据，我们在尽力维护中";
+
+//更多
+"Sorry, Unsupport call tel \n hotline: 4008-365-365"="很抱歉，您的设备不支持拨打电话！\n 客服热线：4008-365-365";
+"Sorry, Unsupport call tel \n hotline: 4006-766-766"="很抱歉，您的设备不支持拨打电话！\n 客服热线：4006-766-766";
+"Sound Setting"="声音设置";
+"City Setting"="城市设置";
+"Evaluate ebuy on App Store?"="喜欢苏宁易购？打分支持下吧";
+"History Browsing"="浏览历史";
+"Image Cache"="清除图片缓存";
+"No Image Cache"="暂无图片缓存";
+"Clear"="清理";
+"If Clear Image Cache"="是否清除图片缓存?";
+//商品
+"Product_Off_Shelf_Error"="抱歉，没有找到该商品";
+//"Product_Off_Shelf_Error"="对不起，该商品已下架。";
+"Unknown_Error"="未知错误";
+"Share"="分享";
+"Easily_Buy"="一键购";
+"Get_Product_Param_Fail_Error"="获取参数失败";
+"No_Data_Error"="暂无数据";
+"Add_Favorite_Fail"="加入收藏失败";
+"Login_Session_Failure"="登录状态失效，请重新登录";
+
+//我的易购
+"Unlogin, Welcome"="您尚未登录,欢迎来苏宁易购";
+"Hello, Welcome"="您好！欢迎进入我的易购！";
+
+//团购抢购
+"Group_Purchase_List"="团购列表";
+"Panic_Purchase_List"="抢购列表";
+"No_Group_Purchase"="暂无团购信息";
+"No_Panic_Purchase"="暂无抢购信息";
+"RMB"="元";
+"Item"="件";
+"Group_Purchase_Count"="团购数量:";
+"Panic_Purchase_Finished"="抢购已结束";
+"Congratulations on your successful registration, as the %d group purchase customer!"="报名成功，恭喜您成为第%1$d位团购顾客!";
+"Group quantity beyond the limit per person"="团购数量大于每人限购数";
+"Group quantity should larger than 1"="团购数量需大于等于一个";
+
+
+//分享
+"Auth" = "授权";
+"Share_To_TC_WeiBo"= "分享到腾讯微博";
+"Please_Choose_Share_Way"="请选择分享方式";
+"Share_To_Sina_WeiBo"="分享到新浪微博";
+"Share_To_WeiXin"= "微信分享给好友";
+"Share_With_SMS"="短信分享给好友";
+"Device_Unsupport_Send_SMS"="您的设备不支持短信功能";
+"SMS_Share_Success"="短信分享成功";
+"Sina_SNS_Share_Success"="分享新浪微博成功";
+"TCWeiBo_share_Success" = "分享腾讯微博成功";
+"TCWeiBo_share_Fail" = "分享腾讯微博失败";
+"WeiXin_share_Success" = "微信分享成功";
+"WeiXin_share_Fail" = "微信分享失败";
+"Install_weixin_for_free" = "立即安装";
+"friend_tips" = "友情提示";
+"update_now_or_not"="安装微信后，即可与您的好友就行分享，现在安装？";
+
+"SNS_Content_Send_Repeat_Error"="提交了重复的内容";
+"SNS_Image_Size_Too_Large_Error"="您发送的图片太大";
+"SNS_Server_Unaviliable"="服务暂时无法访问";
+"SNS_Server_Resource_Unaviliable"="服务端资源不可用";
+"SNS_Request_Beyond_Limit"="用户请求超过上限";
+"SNS_Share_Too_Much"="发微博太多啦，休息一会儿吧";
+"SNS_Unaudited_Error"="未审核的应用使用人数超过限制";
+"SNS_Release"="发布";
+"Using_WeiBo_Account:"="您正在使用帐号:";
+"Input_Share_Content"="请输入分享内容";
+"Input_Share_TooLong"="输入字数超过限制";
+"SNS_Share_Fail"="对不起，微博发送失败";
+"Auth_fail" = "授权失败";
+"Json_error" = "数据解析错误";
+"Request_error" = "请求错误";
+"Ahth_error" = "认证失败";
+//地址
+"Get_Address_List_Fail"="获取地址列表失败";
+"Delete_Address_Fail"="删除地址失败";
+"No_Address_Info_Go_To_Set_An_Delivery_Address?"="您尚未维护送货地址，现在去设置？";
+"Main_Address_Can_Not_Delete"="用户主地址,暂不支持删除";
+"Delete_Address..."="删除送货地址中...";
+"Click_To_Select_Address_Area"="请点击选择送货区域";
+"Detail_Address_Should_Under_20"="详细地址需要在20个字符以内";
+"AddressArea"="送货区域";
+"Detail_Delivery_Address"="送货详细地址";
+"Address_No_Change"="地址信息没有任何更改";
+"Cod_Address_Throw_NULL_Error_Need_Reset"="该配送地址内容含有非法字符,是否重新编辑地址？";
+
+//一键购
+"Add_Easily_Buy"="添加一键购";
+"Please_Input_Easily_Buy_Name"="请输入一键购名称！";
+"Easily_Buy_Name_Should_Below_16_Char"="一键购名称不能超过16位字符";
+"Easily_Buy_Name_Already_Exist"="一键购名称已存在！";
+"Please_Choose_Delivery_Address"="请选择收货地址";
+"Please_Choose_Pay_Type"="请选择支付方式";
+"Invoice_Invalid_Error"="请输入2-6位中文的发票抬头";
+"Easily_Buy_Name"="一键购名称:";
+"Cash_On_Delivery_POS"="货到付款-pos机刷卡";
+"Cash_On_Delivery_CASH"="货到付款-现金支付";
+"Mobile_Easily_Buy_Unsupport_Store_Mention"="手机一键购暂不支持门店自提";
+"New_Easily_Buy_Fail"="新增一键购失败";
+"Cash_On_Delivery_BYPOS"="货到付款-移动POS支付";
+
+"Get_Easily_Buy_Fail"="获取一键购列表失败";
+"Add_Easily_Buy_Fail"="添加一键购失败";
+"Update_Easily_Buy_Fail"="修改一键购失败";
+"Delete_Easily_Buy_Fail"="删除一键购失败";
+"Easily_Buy_Introduce_Info"="“一键购”，简化下单流程，只需轻点“一键购”按钮，即可提交订单。您可以在此添加多个常用下单地址，并设置其中一项为一键购默认地址";
+"No_Easily_Buy_Go_To_Set?"="您还未设置手机一键购，现在去设置？";
+"No_Easily_Buy"="您还未设置手机一键购";
+"No_Support_Easily_Buy_Go_To_Set?"="您还未设置默认的手机一键购，现在去设置？";
+"Default_Easily_Buy_Unsupport_Delete"="默认一键购无法删除";
+"Select_Default_Easily_Buy_Address"="选择默认地址";
+"Easily_Buy_Count_Limit_99"="每个账号最多创建99个一键购";
+"Set_Default_Easily_Buy_Success"="设置默认一键购成功";
+"Modify_Easily_Buy"="修改一键购";
+"Get_Order_Item_Fail"="获取订单失败";
+"Commit_Order..."="提交订单中...";
+"Get_Default_Easily_Buy_Fail"="获取默认一键购失败";
+"Product_Has_No_Storage"="商品库存不足，欢迎下次再购";
+"Price_Change_Please_Confirm_Continue_Buy"="您购买的商品价格有变，请确定是否继续购买";
+"Okey"="好";
+"Delivery_City_Not_Conform_To_Product_Delivery_City_Is"="商品送货城市与配送地址不符，请修改送货城市，配送地址为:";
+"Product_Send_To_Shop_Cart"="商品已加入到购物车中，请点击购物车购买";
+"Efubao_Balance_Not_Enough_Balance:"="易付宝余额不足，余额：";
+"Efubao_Balance_Not_Enough"="易付宝余额不足";
+"Efubao_Password"="易付宝密码";
+"Confirm_Order..."="确认订单中...";
+"EasilyBuy-CashOnDelivery"="一键购-货到付款";
+"EasilyBuy-Efubao"="一键购-易付宝";
+"EasilyBuy_Order_Effective"="您的订单已生效\n请您注意查收，谢谢";
+
+//彩票
+
+"LotteryCenter"="彩票中心";
+"Bonus:" = "奖金:";
+"No prize pool information" = "暂无奖池信息";
+"Stop betting" = "截止时间";
+"My LotteryOrderList"="我的订单";
+"WinLotteryOrderList"="中奖订单";
+"AllLotteryOrderList"="全部订单";
+"ecolorBall"="双色球";
+"eBigLottery"="大乐透";
+"Did not win prize in the ecolorBall，wish that you win bigger prize"="双色球尚未中奖，祝您获得大奖！";
+"Did not win prize in the eBigLottery,wish that you win bigger prize"="大乐透尚未中奖，祝您获得大奖！";
+"You did not buy ecolorBall,buy it quickly"="您还没有购买过双色球，去投注吧";
+"You did not buy eBigLottery,buy it quikcly"="您还没有购买过大乐透，去投注吧";
+"System Notice"="系统通知";
+"Sure"="确定";
+"Cancel"="取消";
+"Your has too much buy information,please go to SuningEbuy website to see"="您的投注信息较多，请登录苏宁易购网站查看";
+"Request Failed,please try it again later"="请求失败，请稍后重试";
+"Winned the lottery prize"="已中奖";
+"Pay failed"="支付失败";
+"Did not win prize"="未中奖";
+"Do not compute result"="未结算";
+"canceled by self"="本人撤销";
+"have been canceled"="已撤销";
+"LotteryOrderDetail"="订单详情";
+"Continue to bet"="继续投注";
+"LotteryOrderListNum"="订单编号";
+"ProductName"="商品名称";
+"Bet time"="投注时间";
+"Bet information"="投注信息";
+"LotteryOrder status"="订单状态";
+"Prize account"="中奖金额";
+"WinLottery number"="开奖号码";
+"LotteryOrderListDetail"="订单明细";
+"Bet Content"="投注内容";
+"Pay by yifubao"="易付宝支付";
+"Pay"="支付";
+"Lottery%@-%@-%@"="彩票%@-%@-%@";
+"¥ %@yuan"="¥ %@元";
+"Your yifubao do not activate"="您的易付宝尚未激活";
+"ProductName: "="商品名称：";
+"ProductTotalAccont: "="商品总额：";
+"YifubaoBalance: "="易付宝余额：";
+"PayPassWord: "="支付密码：";
+"Your yifubao do not activate,Please use it after activating"="您的易付宝尚未激活，请激活后使用";
+"Input password errorly tree times,your account is freezed,unlocked autoly after 24 hours"="密码错误超过3次，账号已被冻结，24个小时后自动解锁";
+"Please input your password"="请输入密码";
+"Your account balance is not enough"="您的帐户余额不足";
+"Commit order successfully,wish you win the prize"="提交订单成功，祝您获得大奖";
+"goShopping"="去逛逛";
+"check the order"="查看订单";
+"Input password errorly,you can try it again %d times,if failure,your account is freezed"="密码输入错误，还可尝试%d次，如失败账号将被冻结";
+"Are you sure pay it"="确认支付吗";
+"if you go back to lotteryhall ,will clear all selected number"="返回彩票大厅将清空所有已选号码";
+"if you go back to lottery detail ,will clear all selected number" = "返回订单详情将清空所有已选号码";
+"Red ball's min count is %d"="红球的个数最少要有%d个。";
+"Blue ball's min count is %d"="蓝球的个数最少要有%d个。";
+"Red ball's max count is %d"="红球的个数最多只能有%d个。";
+"Blue ball's max count is %d"="蓝球的个数最多只能有%d个。";
+"Sorry,you buying lottery's account can't more than 2000 yuan,now you can bet %@ note of lotteries"="对不起，每次购买彩票金额不得大于2000元,当前您还可以再投注%@注";
+"Please select %d red ball and %d blue ball at least"="请至少选择%d个红球以及%d个蓝球";
+"ecolorBall rule"="双色球玩法规则";
+"eBigLottery rule"="大乐透玩法规则";
+"disclaimer"="免责声明";
+"Rules of play"="规则玩法";
+"Machine selection blue ball"="机选蓝球";
+"Machine selection red ball"="机选红球";
+"Please select %d red ball at least,%d ball at the most,have selected %d ball"="请至少选择%d个红球，至多%d个，已选%d个";
+"Please select %d blue ball at least,%d ball at the most,have selected %d ball"="请至少选择%d个蓝球，至多%d个，已选%d个";
+"Shake shake，Machine selection one note of lotteries"="摇一摇机选一注";
+"0Note x %@Times = 0yuan"="0注 x %@倍 = 0元";
+"%dNote x %@Times = %dyuan"="%d注 x %@倍 = %d元";
+"%@issue      end: %@"="%@期      截止: %@";
+"%@issue      lottery: %@"="%@期      开奖: %@";
+"Users purchase agreement"="用户代购协议";
+"User information protocol"="用户信息安全协议";
+"%@List"="%@列表";
+"%@ issue"="第%@期";
+"deadline %@ "="截至时间至 %@";
+"One order's betting money is 2000 yuan"="单笔订单投注金额最多为2000元";
+"You can select 99 times at the most"="您最多可以选择99倍";
+"You can select 1 times at the least"="您最少要选择1倍";
+"You have not bet any thing"="您尚未进行任何投注";
+"Please select one times' Betting multiple"="请至少选择1倍的投注倍数";
+"Please confirm if you have agreed <<Users purchase agreement>> and <<User information protocol>>"="请确认您是否已经同意《用户代购协议》和《用户信息安全协议》";
+"Purchase"="代购";
+"Go back to LotteryHall"="返回彩票大厅";
+"Lottery Notice"="开奖公告";
+"LotteryHall"="彩票大厅";
+"Request failed,please restart this application"="网络请求失败,请重启该应用";
+"Prize pool information not available now"="暂无奖池信息";
+"%@ stop betting"="%@ 截止日期";
+"prize pool accumulated： "="奖池滚存：";
+"2012-06-06 19:28 stop betting"="2012-06-06 19:28 停止投注";
+"check every kind of lottery's number"="查看各彩种开奖号码";
+"check my betting record"="查看我的投注记录";
+"¥ %@yuan(account is not enough)"="¥ %@元(余额不足)";
+
+
+"Lottery Hall" = "彩票大厅";
+"Network requests fail, restart the application" = "网络请求失败,请重启该应用";
+"Please look for more colorful species" = "更多彩种敬请期待";
+"Bonus:" = "奖金:";
+"No prize pool information" = "暂无奖池信息";
+"Stop betting" = "截止时间";
+"more colorful species" = "更多彩种";
+"SMG football, seven Lottery Seven-color, arranged in three, arranged in five" = "11选5、老时时彩、快乐十分、快乐双彩";
+"Direct election" = "直  选";
+"DirectElection" = "直选";
+"Groups of three" = "组  三";
+"GroupsOfThree" = "组三";
+"Groups of six" = "组  六";
+"GroupOfSix" = "组六";
+"Direct value" = "直选和值";
+"Groups of three and values" = "组三和值";
+"Group six and values" = "组六和值";
+"Bit" = "个位";
+"Ten" = "十位";
+"Hundred" = "百位";
+"Thousand" = "千位";
+"Ten Thousand" = "万位";
+"Shake machine selection Note" = "摇一摇机选一注";
+"Clear" = "清空";
+"Duplex" = "复式";
+"Single entry" = "单式";
+"Note" = "注";
+"The list will clear all the selected number" = "列表将清空所有已选号码";
+"Back lottery hall will clear all the selected number" = "返回彩票大厅将清空所有已选号码";
+"Each select at least one ball" = "每项至少选择一个球";
+"Please select at least two balls" = "请至少选择2个球";
+"Please select at least three balls" = "请至少选择3个球";
+"Please select at least one balls" = "请至少选择1个球";
+"One, ten, one hundred and value combinations Betting" = "个,十,百位的和值组合投注";
+"One, Ten, one hundred and value combination bets, at least choose one ball" = "个,十,百位的和值组合投注,至少选择一个球";
+"Win Status" = "中奖状态：";
+//---------------------------------------------我的彩票---------------------------------------------
+
+"The betting more information, please visit the website Suning" = "您的投注信息较多，请登陆苏宁易购网站查看";
+"Request failed, please try again later" = "请求失败，请稍后重试";
+"Hit the jackpot" = "已中奖";
+"Payment failure" = "支付失败";
+"Not hit the jackpot" = "未中奖";
+"Unsettled" = "未结算";
+"I revoked" = "本人撤销";
+"Have been revoked" = "已撤销";
+"Group six and values " = "组六和值 ";
+"Groups of three and values " = "组三和值 ";
+"Direct value " = "直选和值 ";
+"GroupOfSix   " = "组六        ";
+"GroupsOfThree   " = "组三        ";
+"DirectElection  " = "直选        ";
+"Betting content" = "投注内容";
+"Lottery announcement" = "开奖公告";
+"Order details" = "订单详情";
+"Continue betting" = "继续投注";
+"Order Number" = "订单编号：";
+"Betting time" = "投注时间：";
+"Amount of bets" = "投注金额：";
+"Order Status" = "订单状态：";
+"Amount won" = "中奖金额：";
+"You have not purchased a Doublecolor ball, to bet" = "您还没有购买过双色球，去投注吧";
+"You have not purchased a Biglottery, to bet" = "您还没有购买过大乐透，去投注吧";
+"You have not purchased Welfare3D, to bet" = "您还没有购买过福彩3D，去投注吧";
+"My lottery" = "我的彩票";
+"Buy Lottery Tip" = "亲，您还没购买过彩票，赶紧去投注吧";
+"No Bingo Lottery" = "亲,您还没中过奖,赶紧去投注吧";
+"HavenotTicketing"="暂未出票";
+"Ticketing"="出票中";
+"TicketSuccess"="出票成功";
+"OverTimeNotPayed"="过期未支付";
+"WaitLottery"="待开奖";
+"WaitsLottery"="等待开奖";
+"Lotteryed"="已开奖";
+"TicketFail"="出票失败";
+"UserUndo"="用户撤销";
+
+//---------------------------------------------彩票列表---------------------------------------------
+
+"Users purchasing agreement"="用户代购协议";
+"User Information Security Agreement"="用户信息安全协议";
+"List"="投注列表";
+"ListY"="列表页";
+"DoubleColor ball"="双色球";
+"BigLotto"="大乐透";
+"Period EndTime"="期  截止时间 ";
+"The single orders bets up to 2000 yuan"="单笔订单投注金额最多为2000元";
+"You can select up to 99 times"="您最多可以选择99倍";
+"You have not made any bets"="您尚未进行投注";
+"Please select at least 1 times the bet multiples"="请至少选择1倍的投注倍数";
+"Make sure that you have agreed to the the User Purchasing Agreement and User Information Security Agreement"="请确认您是否已经同意《用户代购协议》和《用户信息安全协议》";
+"purchasing"="代购";
+"serialpurchasing"="追号";
+"Back lottery hall will clear all the selected number"="返回彩票大厅将清空所有已选号码";
+"Back Order details will clear all the selected number"="返回订单详情将清空所有已选号码";
+"Back to Lottery hall"="返回彩票大厅";
+"Welfare 3D"="福彩3D";
+"SevenStars"="七星彩";
+"Arrange in Three" = "排列三";
+"Arrange in Five" = "排列五";
+"Go to pay" = "去付款";
+"Will clear all number" = "您确定要清空当前的投注内容吗？";
+
+//---------------------------------------------彩票选球---------------------------------------------
+
+"Machine election blueball"="机选蓝球";
+"Machine election redball"="机选红球";
+"Machine election" = "机选";
+"Will clear all the selected number"="列表将清空所有已选号码";
+"the max red ball number is %d"="最多选择%d个红球";
+"The number of blue balls can only have a maximum of"="蓝球的个数最多只能有";
+"The number of  balls can only have a maximum of" = "球的个数最多只能有";
+"At least the number of balls"="球的个数最少要有";
+"At least the number of red balls"="红球的个数最少要有";
+"At least the number of blue balls"="蓝球的个数最少要有";
+"Number"="个";
+"Sorry, the amount of each purchase lottery shall not be more than 2000 yuan"="单笔订单投注金额最多为2000元";
+"Please select at least"="请至少选择";
+"Number of red ball and"="个红球及";
+"Number of blue ball"="个蓝球";
+"Number of ball"="个球";
+"DoubleColor ball play introduces"="双色球玩法规则";
+"BigLotto play introduces"="大乐透玩法规则";
+"Welfare3D play introduces"="福彩3D玩法规则";
+"SevenLe play introduces" = "七乐彩玩法规则";
+"SevenStars play introduces" = "七星彩玩法规则";
+"Arrange in Three play introduces" = "排列三玩法规则";
+"Arrange in Five play introduces" = "排列五玩法规则";
+"Disclaimer"="免责声明";
+"Rules of play"="规则玩法";
+"Seven Le Lottery" = "七乐彩";
+//---------------------------------------------彩票支付---------------------------------------------
+
+"Please enter the payment password"="请输入支付密码";
+"Yifubao pay"="易付宝支付";
+"Pay"="支付";
+"Your Yifubao has not yet been activated"="您的易付宝尚未激活，请前往易付宝页面进行激活";
+"Product Name:"="商品名称：";
+"Total merchandise:"="商品总额：";
+"Yifubao balance:"="   易付宝余额：";
+"Payment password:"="   支付密码：";
+"Your Yifubao has not yet been activated, Please activate"="您的易付宝尚未激活，请前往易付宝页面进行激活";
+"Password input wrong more than three times the account has been frozen, automatically unlock after 24 hours"="密码错误超过3次，账号已被冻结，24个小时后自动解锁";
+"Please input your password"="请输入密码";
+"Confirm the payment you"="确认支付吗";
+"Your account balance is not enough"="您的易付宝余额不足!";
+"Submit orders for success, I wish you the award-winning"="提交订单成功，祝您获得大奖";
+"Goto Lottery hall"="去彩票大厅";
+"View orders"="查看订单";
+"Enter the wrong password, but also can to try"="密码输入错误，还可以尝试";
+"times,if failed account will be frozen"="次，如失败账号将被冻结";
+"Network anomalies, please try again later"="服务器好像出错了，正在玩命处理中···";
+"yifubao check failure" = "账户校验失败";
+"Order pay" = "订单支付";
+"Efubao pay" = "易付宝付款";
+"Please you make sure that your efubao has balance" = "请确保您的易付宝有余额";
+"Unionpay" = "银联支付";
+"It's safe,fast and supports all banks to pay" = "安全快捷，支持各大银行支付";
+"Your Yifubao has not yet been activated,you can't use unionpay to pay"= "您的易付宝尚未激活，无法使用银联支付";
+
+
+//---------------------------------------------开奖公告---------------------------------------------
+
+"Current betting time has ended"="本期投注时间已截止";
+"Failed to get lottery hall"="获取彩票大厅失败";
+"Lottery announcement"="开奖公告";
+"To overlook kinds lottery announcement number"="查看各彩种开奖号码";
+"My order"="我的订单";
+"View my betting records"="查看我的投注记录";
+"No."="第";
+"No. announcement number"="期开奖号码";
+"Monday" = "星期一";
+"Tuesday" = "星期二";
+"Wednesday" = "星期三";
+"Thursday" = "星期四";
+"Friday" = "星期五";
+"Saturday" = "星期六";
+"Sunday" = "星期日";
+
+
+
+
+
+//payflow
+"Power_Flag_Notice_Message"="参加节能补贴商品，需保持发票抬头与身份证姓名一致";
+"Name_Not_valid"="姓名不合法，请输入2-6位中文字符";
+"Product_No_Storage_Order_Error"="很抱歉，商品库存不足，订单提交失败！";
+"Cod_Address_Or_Product_Check_Order_Error"="很抱歉，配送地址信息或商品信息检查有误，请重新编辑地址再试！";
+"Login_Session_Failure_Order_Error"="您的会话已经失效，请重新登录后再购买！";
+"Select_Area_Unsupport_Sales_Order_Error"="温馨提示：所选区域暂不支持销售，如需购买请拨打销售热线4008365365或通过在线客服等方式与销售人员联系！";
+"Sorry,"="很抱歉，";
+"Order_Pay_Fail"="订单支付失败";
+"Efubao_Password_Error%d"="密码输入错误，还可尝试%d次， 如失败账号将被冻结";
+"Password_Error_Three_Times_Error"="密码错误超过3次，账号已被冻结，24个小时后自动解锁";
+"Order_Abnormal_Error"="抱歉，订单传递错误，建议您重新下单再试！";
+"Pay_Mode_Error"="抱歉，支付方式处理错误，建议您重新下单再试！";
+"Order_Already_Payed"="您的订单已经支付成功，无需再次支付！";
+"Pay_Failure_Please_Choose_Other_PayMode"="抱歉，系统扣款失败，建议您选择其他支付方式！";
+
+"System_Abnomal_Try_later"="结算失败，请稍后再试";
+
+
+"authCode is wrong"="验证码错误";
+
+// 收藏
+"get more..."="加载更多";
+
+//易付宝支付验证码
+"verifyCode_NotNull" = "验证码不能为空";
+"Please_input_correct_VerifyCode"  = "请输入正确的短信验证码";
+"input_EfuBao_VerifyCode" = "请输入6位验证码";
+"get_VerifyCode" = "获取";
+"Verify_Code_Incorrect" = "验证码错误";
+"please_firstInput_VerifyCode" = "请先输入有效手机验证码";
+
+
+"Please_input_correct_VerifyNum"  = "请输入正确的短信验证码";
+"input_EfuBao_VerifyNum" = "请输入验证码";
+
+
+
+//手机充值成功
+"pay_Successed" = "支付成功";
+"Check Order" = "查看订单";
+"Pay Again" = "继续充值";
+
+"happySweepstakes" = "快乐大抽奖";
+
+//提交订单的错误码
+//==========================================================================================begin
+"ORDER_SUBMIT_CMN0205E"="很抱歉，商品库存不足，订单提交失败！";
+"ORDER_SUBMIT_CMN1253E"="很抱歉，配送地址信息或商品信息检查有误，请重新编辑地址再试！";
+"ORDER_SUBMIT_CMN1039E"="您的会话已经失效，请重新登录后再购买！";
+"ORDER_SUBMIT_CMN0411E"="很抱歉，配送地址信息或商品信息检查有误，请重新编辑地址再试！";
+"ORDER_SUBMIT_保存送货地址失败"="温馨提示：所选区域暂不支持销售，如需购买请拨打销售热线4008365365或通过在线客服等方式与销售人员联系！";
+"ORDER_SUBMIT_ORDER_CHECK_ERR"="很抱歉，订单校验失败！";
+"ORDER_SUBMIT_exsitDropShipping"="您的订单中含有厂送商品，不支持用户自提，请切换配送方式";
+"ORDER_SUBMIT_5015"="您的会话已经失效，请重新登录后再购买！";
+"ORDER_SUBMIT_DEFAULT_ERROR"="很抱歉，订单提交失败";
+"ORDER_SUBMIT_温馨提示：所选区域暂不支持销售，如需购买请拨打销售热线4008365365或通过在线客服等方式与销售人员联系！"="温馨提示：所选区域暂不支持销售，如需购买请拨打销售热线4008365365或通过在线客服等方式与销售人员联系！";
+"ORDER_SUBMIT_ORDER_PROCESS_ERR"="很抱歉，订单提交失败";
+"ORDER_SUBMIT_hasRushErrCode"="很抱歉，您的抢购商品在所选城市不享受抢购价,请重新选择城市或返回购物车删除该商品";
+"ORDER_SUBMIT_hasZengPErrCode"="很抱歉，切换送货城市后，赠品检查失败";
+"ORDER_SUBMIT_hasErrCode"="很抱歉，订单中存在商品暂时在您所选择的城市无法购买";
+
+"ORDER_SUBMIT_更新物流查询时间失败"="很抱歉，更新物流查询时间失败";
+"ORDER_SUBMIT_优惠券不在有效期内"="很抱歉，优惠券不在有效期内";
+"ORDER_SUBMIT_订单金额不满足优惠券使用条件"="很抱歉，订单金额不满足优惠券使用条件";
+
+"ORDER_SUBMIT_使用优惠券失败"="很抱歉，使用优惠券失败";
+"ORDER_SUBMIT_订单提交失败"="很抱歉，订单提交失败";
+"ORDER_SUBMIT_订单处理失败"="很抱歉，订单处理失败";
+
+//==========================================================================================end
+
+//确认支付错误码
+//==========================================================================================begin
+"ORDER_PAY_OrderError"="您的订单发生异常，请您重新下单";
+"ORDER_PAY_OrderStateError"="您的订单状态存在异常，请您重新下单";
+"ORDER_PAY_PaymentError"="您选择的支付方式有误，请您重新下单";
+"ORDER_PAY_CHECK_BALANCE_ERROR"="您的易付宝余额不足，请您重新选择支付方式";
+"ORDER_PAY_EPP_DEPOSIT_ERROR"="您的易付宝余额扣减失败，请您稍后再试";
+"ORDER_PAY_AmountError"="您的订单金额非法，请您重新下单";
+"ORDER_PAY_LogonError"="您未登录，请您重新登录";
+"ORDER_PAY_CHECK_ORDER_STATUS_ERROR"="您的订单无效，请重新购买";
+"ORDER_PAY_CHECK_COD_ERROR"="您的订单不支持货到付款，请重新购买";
+"ORDER_PAY_CHECK_SWAP_ERROR"="所购商品不支持以旧换新，请重新选择";
+"ORDER_PAY_CHECK_INVENTORY_ERROR"="所购商品无货，请重新选择";
+"ORDER_PAY_CHECK_VOUCHER_ERROR"="优惠信息无效，请重新选择";
+"ORDER_PAY_CHECK_ECOUPON_ERROR"="优惠信息无效，请重新选择";
+"ORDER_PAY_CHECK_POLICYID_ERROR"="支付方式异常，请重新选择";
+"ORDER_PAY_CHECK_PAYMENT_AMOUNT_ERROR"="支付金额异常，请重新下单";
+"ORDER_PAY_CHECK_DELIVERYTIME_ERROR"="配送时间异常，请重新下单";
+"ORDER_PAY_CHECK_INSTALLTIME_ERROR"="安装时间异常，请重新下单";
+"ORDER_PAY_CHECK_PHONE_ERROR"="您选择的号码已失效，请重新下单";
+"ORDER_PAY_CHECK_CONTRACTPLAN_ERROR"="您选择的套餐已失效，请重新下单";
+"ORDER_PAY_OrderStateSucess"="您的订单已经支付成功！";
+"ORDER_PAY_CHECK_ORDER_COUPON_ERROR"="对不起，您支付时订单中使用的券资源已发生变动，请重新下单";
+"ORDER_PAY_CHECK_RUSH_PURCH_ERROR"="您的订单未在限定时间内完成支付，您将失去本次抢购机会，如果该商品还没有抢完，您可重新参加抢购";
+"ORDER_PAY_SystemError"="系统发生故障，请稍后再试";
+"ORDER_PAY_VALIDATE_CODE_ERROR"="您输入的验证码不正确";
+//==========================================================================================end
+
+//兄弟秒杀
+//==========================================================================================begin
+"SK_QR_Generator_TITLE"="二维码生成";
+"SK_QR_Reader_TITLE"="秒杀二维码";
+"SK_QR_Generator_OK_MESSAGE"="秒杀二维码已生成，给你的兄弟吧！";
+"SK_QR_Reader_Tip"="将秒杀二维码图案，放在取景框内，即可自动完成扫描";
+"SK_QR_Share_Content_Msg"="我在苏宁易购手机客户端参加了“兄弟秒杀”活动，扫描下面的二维码就可以秒杀低价商品哦！地址：http://t.cn/zY08J3P";
+"SK_QR_Validate_Error"="验证失败，请确保秒杀二维码正确";
+"SK_RULE_SKbaodian" = "秒杀宝典";
+"SK_RULE_SKrule" = "秒杀规则";
+"SK_RULE_SKmiji"= "秒杀秘籍";
+"SK_SecondKill" = "兄弟秒杀";
+"%@Sendto" = "%@送达";
+"SK_price" = "抢购价:￥";
+"SK_surplus：%@piece" = "剩   余：%@件";
+"Sent to"= "送   至：";
+"want to SK"="我要秒";
+"want to help" = "我要帮";
+"SK is not star,you can look SK_baodian" = "抢购尚未开始";
+"Ready to start" = "即将开始";
+"start time" = "开始时间：";
+"Purchase is going" = "抢购进行中";
+"SK is over" = "已结束";
+"SK without ant piece" = "已抢完";
+"The time to end" = "距离结束：";
+"The city is not SK" = "该城市暂不支持抢购";
+
+"user had SK"="您已经抢购过了，把机会留给别人吧";
+"sorry SK failed"="对不起，抢购失败";
+"SK not start"="抢购活动未开始";
+"userId failed"="用户账号异常";
+"SK not support mobile"="抢购活动不支持该移动客户端";
+"SK not support client"="抢购活动不支持客户端抢购";
+"please buy in half hour,or else SK eligibility is cancel" = "请在30分钟内支付，否则抢购资格将被取消";
+
+
+//==========================================================================================end
+
+//新团购
+//==========================================================================================begin
+"GB_Search_Title"="团购搜索";
+"GB_Search_Type_1"="商品名称";
+"GB_Search_Type_2"="商户名称";
+"GB_Search_Type_3"="商圈名称";
+"GB_Search_Bar_Placeholder"="搜索团购";
+"GB_My_Group_Buy"=" 我的团购 ";
+
+"GB_Kindly_Reminder"="温馨提示";
+"GB_Shop_Address"="商家地址";
+"Sorry, Unsupport call tel"="很抱歉，您的设备不支持拨打电话！";
+"GB_Shop_Info"="商家信息";
+"GB_Goods_Detail"="本单详情";
+"GB_Support_No consumer refund"="承诺未消费退款";
+"GB_Unsupport_No consumer refund"="不承诺未消费退款";
+"Special tips"="特别提示";
+"GB_Efubao_Pay"="易付宝支付";
+"GB_Pay_Balance"="支付金额:";
+"GB_select_number"="请选择团购数量";
+"Number wrong,please enter again"="购买数量有误,请重新输入";
+//==========================================================================================end
+
+//单价团
+//==========================================================================================begin
+"DJ_Group_List"="团购列表";
+"DJ_Group_Detail"="团购详情";
+"DJ_Group_Rule"="团购规则";
+"No_DJ_List"="此分类暂无团购商品，请筛选其他分类";
+"DJ_Good_BaseInfo"="基本信息";
+"DJ_Good_IntroduceInfo"="商品介绍";
+"DJ_Good_EstimateInfo"="评价";
+"DJ_Group_Detail"="团购详情";
+//==========================================================================================end
+
+//购物车
+//==========================================================================================begin
+"ShopCart_Add_Error_Beyond99"="对不起，商品数量不能超过最大值（99）";
+"ShopCart_Add_Error_Line_Beyond_50"="您的购物车商品清单数量超过50个上限行条目，请删除购物车中的商品后才能继续添加";
+"ShopCart_Sync_Fail"="购物车同步失败，请稍后再试";
+"ShopCart_Add_Error_CheckFail"="很抱歉，此商品无法加入购物车";
+"ShopCart_Select_All"="全选";
+"ShopCart_Unselect_All"="全不选";
+"ShopCart_Delivery_City_Not_Same_Error"="购物车中的商品送达城市不一致，请选择同一城市商品进行结算！";
+"ShopCart_Empty_Error"="请至少选择一件商品";
+"ShopCart_OrderCheck_Product_Error%@%@"="商品《%@》%@";
+"ShopCart_OrderCheck_Special_TimeOut_Error%@"="商品《%@》您的抢购资格已过期";
+"ShopCart_OrderCheck_DanJiaGroup_TimeOut_Error%@"="商品《%@》您的团购资格已过期";
+"ShopCart_OrderCheck_DaJuHui_TimeOut_Error%@"="商品《%@》大聚会活动已结束";
+"ShopCart_Delivery_City:"="送达城市:";
+//==========================================================================================end
+
+//图片验证码
+"Please_input_correct_Picture_VerifyNum" = "图片验证码有误，请重新输入";
+"Please_input_Picture_VerifyNum" = "图片校验码不能为空";
+
+"Please_input_correct_message_VerifyNum" = "短信验证码有误，请重新输入";
+"Please_input_message_VerifyNum" = "短信校验码不能为空";
+
+"Send_again"="重新发送";
+//
+
+
+
+//忘记密码
+//======================================================================================begin
+"new_password"="新  密  码:";
+"confirm_password"="确认密码:";
+"please_enter_your_password_again"="请再次输入您的密码";
+"find_password"="重置密码";
+"please_enter_code"="请输入您收到的验证码";
+"get_code_again"="重新获取";
+"code_send_to"="验证码已发至:";
+"find_password_code"="验证码:";
+"find_password_phoneNum"="手机号:";
+"please_enter_right_code"="请输入右侧验证码";
+
+//======================================================================================end
+
+
+
+
+
+
+//页面名称
+//======================================================================================begin
+
+"SellerList" = "卖家列表";
+
+"show_homePage"="展示-首页";
+"show_secondCategory"="展示-二级分类";
+"show_firstCategory"="展示-一级分类-分类";
+
+"show_productDetail"="展示-商品";
+"show_productDetail_shareType"="展示-商品详情-请选择分享方式";
+"show_productDetail_prpductParameter"="展示-商品详情-商品参数";
+"show_productDetail_productIntroduce"="展示-商品详情-商品介绍";
+"show_productDetail_productConsult"="展示-商品详情-商品咨询";
+"show_productDetail_consult"="展示-商品详情-我要咨询";
+"show_productDetail_userEvaluate"="展示-商品详情-用户评价";
+"show_productDetail_disorderList"="展示-商品详情-晒单专区";
+"show_productDetail_disorderDetail"="展示-商品详情-晒单详情";
+
+"sale_eightPage"="促销-八连版";
+"sale_panicPage_panicList"="促销-抢购-抢购列表";
+"sale_hotPage"="促销-易周热销榜";
+"sale_hotTopic"="促销-促销专题";
+"sale_hotPage_hotList"="促销-热销榜单-热销榜单列表";
+"sale_hotSale"="促销-热门促销";
+
+"virtual_lottery"="虚拟-彩票";
+"virtual_gourpBuy"="虚拟-团购";
+"virtual_lottery_lotteryOrderList"="会员-我的易购-彩票订单";
+"virtual_lottery_lotteryHall"="虚拟-彩票-彩票大厅";
+"virtual_lottery_gameRule"="虚拟-彩票-玩法规则";
+"virtual_lottery_selectedLotteryList"="虚拟-彩票-选球列表页";
+"virtual_lottery_userAgreement"="虚拟-彩票-用户代购协议";
+"virtual_lottery_securityAgreement"="虚拟-彩票-用户信息安全协议";
+"virtual_lottery_notice"="虚拟-彩票-开奖公告";
+"virtual_lottery_noticeList"="虚拟-彩票-历史开奖列表";
+
+"virtual_business"="虚拟-商旅";
+"virtual_business_businessHall"="虚拟-商旅-商旅频道";
+"virtual_business_flightQuery"="虚拟-商旅-航班查询";
+"virtual_business_flightCitySelect"="虚拟-商旅-航班选择城市";
+"virtual_business_flightTimeSelect"="虚拟-商旅-航班选择出发日期";
+"virtual_business_flightList"="虚拟-商旅-航班列表";
+"virtual_business_flightOrderWrite"="虚拟-商旅-航班订单填写";
+"virtual_business_flightChangeRules"="虚拟-商旅-航班退改签规则";
+"virtual_business_addFlightPerson"="虚拟-商旅-新增登记人";
+"virtual_business_flightPersonList"="虚拟-商旅-登记人列表";
+"virtual_business_flightPayPage"="虚拟-商旅-航班支付页面";
+
+"virtual_business_hotelQuery"="虚拟-商旅-酒店搜索";
+"virtual_business_hotelCitySelect"="虚拟-商旅-酒店选择城市";
+"virtual_business_hotelLocation"="虚拟-商旅-酒店位置";
+"virtual_business_hotelList"="虚拟-商旅-酒店列表";
+"virtual_business_hotelDetail"="虚拟-商旅-酒店详情";
+"virtual_business_hotelOrder"="虚拟-商旅-酒店预订";
+"virtual_business_hotelPaySuccess"="虚拟-商旅-酒店支付成功页面";
+"virtual_business_hotelRules"="虚拟-商旅-易购酒店协议";
+
+"virtual_business_myFlight"="虚拟-商旅-我的机票";
+"virtual_business_myFlightFilter"="虚拟-商旅-机票筛选";
+"virtual_business_hotelOrderCenter"="虚拟-商旅-酒店订单中心";
+"virtual_business_hotelOrderDetail"="虚拟-商旅-酒店订单详情";
+
+"search_searchPage"="搜索-搜索页面";
+"search_searchResult"="搜索-搜索结果";
+"search_searchPage_barPay"="搜索-搜索页面-条码购";
+"search_searchResult_category"="类目-搜索结果";
+"search_searchResult_deliverCity"="搜索-搜索结果-送货城市";
+"search_searchResult_filter"="搜索-搜索结果-筛选";
+
+"member_myEbuy"="会员-我的易购";
+"member_myEbuy_setting"="会员-我的易购-设置";
+"member_myEbuy_logisticsQuery"="会员-我的易购-物流查询";
+"member_myEbuy_logisticsDetail"="会员-我的易购-物流查询详情";
+
+"member_nearSuning"="会员-身边苏宁";
+"member_nearSuning_shopDetail"="会员-身边苏宁-门店信息";
+
+"nearbySuning_homePage"="身边苏宁-首页";
+"nearbySuning_shopDetail"="身边苏宁-门店信息";
+
+"member_myEbuy_myFavorite"="会员-我的易购-我的收藏夹";
+"member_myEbuy_userFeedBack"="会员-我的易购-用户反馈";
+"member_myEbuy_suningFamily"="会员-我的易购-苏宁家族";
+"member_myEbuy_history"="会员-我的易购-浏览历史";
+"member_myEbuy_returnOrderList"="会员-我的易购-退货列表";
+"member_myEbuy_returnOrderQuery"="会员-我的易购-退货查询";
+"member_myEbuy_returnOrderDetail"="会员-我的易购-退货详情";
+"member_myEbuy_myCoupon"="会员-我的易购-我的易购券";
+"member_myEbuy_orderCenter"="会员-我的易购-订单中心";
+"member_myEbuy_orderList"="会员-我的易购-订单列表";
+"member_myEbuy_orderDetail"="会员-我的易购-订单列表";
+"member_myEbuy_evaluateAndDisOrder"="会员-我的易购-评价晒单";
+"member_myEbuy_userEvaluate"="会员-我的易购-我要评价";
+"member_myEbuy_userDisOrder"="会员-我的易购-我要晒单";
+"member_myEbuy_myEfubao"="会员-我的易购-我的易付宝";
+"member_myEbuy_bindMobile"="会员-我的易购-绑定手机号";
+"member_myEbuy_activeEfubao"="会员-我的易购-易付宝激活页面";
+"member_myEbuy_myIntegral"="会员-我的易购-我的云钻";
+"member_myEbuy_myIntegralRules"="会员-我的易购-云钻规则";
+"member_myEbuy_activeintegral"="会员-我的易购-云钻激活页面";
+"member_myEbuy_addEditName"="会员-我的易购-添加昵称";
+"member_myEbuy_addressManage"="会员-我的易购-地址管理";
+"member_myEbuy_myBusiness"="会员-我的易购-我的商旅";
+
+
+"member_loginAndRegister_login"="会员-登录注册-登录";
+"member_loginAndRegister_register"="会员-登录注册-注册";
+
+"finance_chargeCenter"="金融-充值中心";
+"finance_mobileCharge"="金融-手机充值";
+"finance_mobileCharge_mobileChargeHelp"="金融-话费充值-话费充值帮助";
+"finance_mobileCharge_payPage"="金融-手机充值-账单支付";
+"finance_mobileCharge_mobileChargeHistory"="金融-手机充值-充值查询";
+"shopProcess_pay_virtualPay"="购物流程-支付-虚拟产品易付宝在线支付";
+"finance_wegCharge"="金融-水电煤缴费";
+"finance_wegCharge_wegHistory"="金融-水电煤缴费-缴费查询";
+"finance_wegCharge_payPage"="金融-水电煤缴费-账单支付";
+"finance_wegCharce_wegHelp"="金融-水电煤缴费-帮助";
+
+
+"shopProcess_shop"="购物流程-购物";
+"shopProcess_shop_deliveryType"="购物流程-购物-选择配送方式";
+"shopProcess_shop_shopCart"="购物流程-购物-购物车";
+"shopProcess_shop_billInfo"="购物流程-购物-结算信息";
+"shopProcess_shop_addressList"="购物流程-购物-地址清单";
+"shopProcess_shop_addressEdit"="购物流程-购物-地址编辑";
+"shopProcess_shop_addAddress"="购物流程-购物-新增地址";
+"shopProcess_shop_payCommit"="购物流程-购物-购买确认";
+"shopProcess_shop_paySuccess"="购物流程-购物-成功下单";
+"shopProcess_shop_payMethodChoice"="购物流程-购物-购物车2支付方式选择";
+"shopProcess_shop_ticketList"="购物流程-购物-优惠券列表";
+"shopProcess_shop_addTicket"="购物流程-购物-添加优惠券";
+"shopProcess_shop_storeChoice"="购物流程-购物-自提门店选择";
+"shopProcess_shop_invoice"="购物流程-购物-电子发票";
+
+//======================================================================================end
+
+//---ConstantString---//常见的名称,叫法
+"meter" = "米";
+"CloudDiamond" = "云钻";
+"Comment" = "评论";
+"Award" = "打赏";
+"JustTime" = "刚刚";
+"MilutesAgo" = "分钟前";
+"HoursAgo" = "小时前";
+"DaysAgo" = "天前";
+"SuningHeadQuarters" = "苏宁总部";
+"JiangsuProvince" = "江苏省";
+"NanjingCity" = "南京市";
+"XuanwuArea" = "玄武区";
+"Yours" = "您的";
+"Satisfaction" = "满意";
+"DisSatisfaction" = "不满意";
+"Others" = "其他";
+"Reply" = "回复";
+"Hebei" = "河北";
+"Shanxi" = "山西";
+"Neimenggu" = "内蒙古";
+"Liaoning" = "辽宁";
+"Jilin" = "吉林";
+"Heilongjiang" = "黑龙江";
+"Shanghai" = "上海";
+"Jiangsu" = "江苏";
+"Zhejiang" = "浙江";
+"Anhui" = "安徽";
+"AnhuiProvinceHefeiCity" = "安徽省合肥市";
+"Fujian" = "福建";
+"Jiangxi" = "江西";
+"Shandong" = "山东";
+"Henan" = "河南";
+"Hubei" = "湖北";
+"Hunan" = "湖南";
+"Guangdong" = "广东";
+"Guangxi" = "广西";
+"Hainan" = "海南";
+"Chongqing" = "重庆";
+"Sichuan" = "四川";
+"Guizhou" = "贵州";
+"Yunnan" = "云南";
+"Xizang" = "西藏";
+"Shanxi" = "陕西";
+"Gansu" = "甘肃";
+"Qinghai" = "青海";
+"Ningxia" = "宁夏";
+"Xinjiang" = "新疆";
+"Taiwan" = "台湾";
+"HK" = "香港";
+"Macao" = "澳门";
+"Overseas" = "国外";
+"Constant_RMB" = "元";
+"Constant_Amount" = "数量";
+"Freight" = "运费";
+"Preferential" = "优惠";
+"Confirmation" = "确认";
+"Seconds" = "秒";
+"Piece" = "件";
+"Constant_City" = "市";
+"Constant_Total" = "合计";
+"Unit" = "个";
+"Unit_Tiao" = "条";
+"Default" = "默认";
+"SalesVolume" = "销量";
+"Evaluation" = "评价";
+"Service" = "服务";
+"Logistics" = "物流";
+"Constant_Sorry" = "抱歉";
+"Constant_Clean" = "清空";
+"Constant_Price" = "价格";
+"Constant_In" = "在";
+"Constant_All" = "所有";
+"GameGame"="游戏";
+"ApplicationCenter"="应用中心";
+"Rule"="规则";
+"Score" = "分";
+"Agree" = "同意";
+"Constant_And" = "和";
+
+//---BankPaymentError----//银行支付错误信息
+"BankPay_OrderNumberCannotBeNull"="订单编号不能为空";
+"BankPay_MemberNumberCannotBeNull"="会员编号不能为空";
+"BankPay_OrderPayAmountIllegal"="订单支付金额不合法";
+"BankPay_EPayAmountCannotBeNull"="易付宝支付金额不能为空";
+"BankPay_GetOrderInfoFail"="订单信息获取失败";
+"BankPay_TransactionOrderInexistence"="交易订单不存在";
+"BankPay_OrderAmountNotEqualEpay"="订单金额与易付宝支付金额不相等";
+"BankPay_OrderIsNotWaitPayState"="订单为非待支付状态";
+"BankPay_AuthNumberCannotBeNull"="验证码不能为空";
+"BankPay_PayPasswordCannotBeNull"="支付密码不能为空";
+"BankPay_PayMethodFailToStore"="支付方式入库订单表失败";
+"BankPay_PayMethodCannotBeNull"="支付方式不能为空";
+"BankPay_SoldOutGoodCannotPay"="下架商品不可支付";
+"BankPay_QueryEpayBalanceException"="查询易付宝余额异常";
+"BankPay_SuccessPayButSaveDataSynOrderException"="支付成功!保存支付数据和同步订单时捕捉异常";
+"BankPay_OrderPayFailTryLater"="订单支付失败，请稍后再试";
+"BankPay_EpayPasswordVerifyFail"="易付宝支付密码校验失败";
+"BankPay_GoodInventoryInsufficientOrderNeed"="商品库存不足，无法满足订单需求";
+"BankPay_ComeLateGroupBuyingEnd"="对不起，您来晚了，团购已结束";
+"BankPay_QueryEPPOderStateException"="查询EPP支付单的支付状态时出现异常";
+
+//---AlertView---
+"AlertVisitedPageInexistence" = "您访问的页面不存在或已过期，请稍后重试";
+"AlertIKnow" = "我知道了";
+"AlertKnow" = "知道了";
+"AlertBack" = "返回";
+"AlertTransactionSuccess" = "交易成功";
+"AlertNoOrderNumberOrLoginStateFailure" = "抱歉，未找到相关销售单号或您的登录状态失效!";
+"AlertTips" = "提示";
+"AlertSaveSuccess" = "保存成功";
+"AlertContinueToBuy" = "继续购买";
+"AlertFriendTips" = "友情提示";
+"AlertCheckOrders" = "查看订单";
+"AlertGoShopping" = "去逛逛";
+"AlertoperationFailed" = "啊哦，操作失败了";
+"AlertSystemPrompts" = "系统提示";
+"AlertSubmitSuccess" = "提交成功";
+
+
+//---PageTitle---//页面标题
+"PageTitleFirstPage" = "首页";
+"PageTitleFirstPageShow" = "展示-首页";
+"PageTitleProductList" = "商品列表";
+"PageTitleProductListPrefix" = "展示-商品集";
+"PageTitlePageSet" = "页面集";
+"PageTitlePageSetPrefix" = "展示-页面集";
+"PageTitleLianBanZhuanTi" = "联版专题";
+"PageTitleLianBanZhuanTiPrefix" = "展示-联版专题";
+"PageTitleSalePromotionPrefix" = "展示-促销专题";
+"PageTitleContentModify" = "内容编辑";
+"PageTitleDynamic" = "动态";
+"PageTitleAwardDetails" = "打赏详情";
+"PageTitleNearbySuning" = "身边苏宁";
+"PageTitleNearbySuningStoreInfo" = "会员-附近苏宁-门店信息";
+"PageTitleVerifyCellPhone" = "验证手机";
+"PageTitlePerfectLoginPassword" = "完善登录密码";
+"PageTitleBindSuccess" = "绑定成功";
+"PageTitleMyConsultation" = "我的咨询";
+"PageTitleIWantConsultation" = "我要咨询";
+"PageTitleOrderList" = "订单列表";
+"PageTitleGroupLife" = "生活团购";
+"Member_LoginAndRegister"="会员-登录注册";
+"PageTitleCuxiaoDanpingtuan" = "促销-单品团";
+"PageTitleDisplayImformationDetails" = "展示-首页-资讯详情";
+"PageTitleDisplayNewsCenter"         = "展示-首页-消息中心";
+"Product_ShoppingCart_InvoiceInformation" = "购物流程-购物车-发票信息";
+"Product_ShoppingCart_UseCoupon" = "购物流程-购物车-使用优惠券";
+"Product_ShoppingCart_AddCoupon" = "购物流程-购物车-添加优惠券";
+"Product_ShoppingCart_FailureGoods" = "购物流程-购物车-失效商品页";
+"CityList" = "城市列表";
+"search_searchPage_ScanRecord" = "搜索-搜索页面-扫描记录";
+"QRCodeScan" = "二维码扫描";
+"member_myEbuy_DeliveryCity" = "会员-我的易购-送货城市";
+"search_searchPage_Filter" = "搜索-搜索页面-筛选";
+"search_searchPage_PromotionFilter" = "搜索-搜索页面-促销筛选";
+"PageTitlePlayVoice"="玩转声音";
+"Sound-listen-listen"="声音-收听-收听";
+"Member_LoginAndRegister_ResetPassword1" = "会员-登录注册-重置密码1";
+"Member_LoginAndRegister_ResetPassword2" = "会员-登录注册-重置密码2";
+"Member_LoginAndRegister_ResetPassword3" = "会员-登录注册-重置密码3";
+"Member_ScanCodeToLoginAndRegister_RegisterPage" = "会员－扫码登录和注册－注册页面";
+"PageTitleYunzuan_Home_Sign" = "云钻乐园-首页签到-签到";
+
+
+//---PromptView---
+
+"PVWaitForPay" = "等待付款";
+"PVPaid" = "已付款";
+"PVCanceled" = "已取消";
+"PVRefunding" = "退款中";
+"PVRefunded" = "已退款";
+"PVDoNotWantToBuyNow" = "  现在不想买了";
+"PVDoNotWantToBuyNow2" = "现在不想买了";
+"PVPriseIsSoHigh" = "  商品价格高";
+"PVPriseIsSoHigh2" = "商品价格高";
+"PVErrorOrOrderRecur" = "  错误或重复下单";
+"PVErrorOrOrderRecur2" = "错误或重复下单";
+"PVOtherReason" = "  其他原因";
+"PVOtherReason2" = "其他原因";
+"PVCloseTrade" = "交易关闭";
+"PVErrorOccur" = "出错啦...";
+"PVServerInsideError" = "服务器内部错误";
+"PVMaybeServerInsideError" = "未知错误(服务器内部错误)";
+"PVReportSuceess" = "举报成功";
+"PVDearContentCantBeNull" = "亲，内容描述不能为空哦！";
+"PVDearNotSelectUploadPic" = "亲，还没有选择上传图片";
+"PVUnknownError" = "未知错误";
+"PVGrade" = "打个分呗~~";
+"PVPleaseEnterUseExperience" = "请输入使用心得";
+"PVUseExperienceShouldBeFiveToFivehundredWords" = "使用心得为5-500个字符";
+"PVPleaseEvaluateServiceSatisfaction" = "请评价服务满意度";
+"PVPleaseEvaluateExpressSatisfaction" = "请评价物流满意度";
+"PVPublishing" = "发布中...";
+"PVPleaseInput6-20NumberAndLetterCombination" = "请输入6-20位数字和字母组合";
+"PVCouponExpireAndQueryInMyCoupon" = "您有易购券即将到期，请至我的易购券中查询";
+"PVDontCollectAnyGoods" = "您还没收藏任何商品";
+"PVDeleteFailedAndDontCollectAnyGoods" = "删除失败，您还未收藏该商品";
+"PVDeleteFailed" = "删除失败";
+"PVBuyNowFailedAndTryAgainLater" = "立即购买失败,请稍后再试";
+"PVSubmitOvertimeRefresh" = "您好，提交超时，请刷新后重试！";
+"PVActivityEnded" = "活动已结束";
+"PVSorryYourOrderCommitFail" = "非常抱歉，您的订单提交失败";
+"PVSorryOrderPayFail" = "很抱歉，订单支付失败";
+"PVGetAdFail" = "获取广告失败";
+"PVHaveEvaluated" = "您已评价过";
+
+
+//---NetWorkLoad---//网络加载提示
+"NWFailTryLater"  = "网络好像不大给力哦，检查一下您的网络再试吧！";
+"NWBusyTryLater"  = "服务器好像出错了，正在玩命处理中···";
+"NWErrorTryLater" = "服务器好像出错了，正在玩命处理中···";
+"NWSystemWrong" = "服务器好像出错了，正在玩命处理中···";
+"NWSystemBusyTryLater" = "服务器好像出错了，正在玩命处理中···";
+"NWServeBusyTryLater" = "服务器好像出错了，正在玩命处理中···";
+"NWRequestError" = "服务器好像出错了，正在玩命处理中···";
+"NWRequestErrorTryAfterCheck" = "网络好像不大给力哦，检查一下您的网络再试吧！";
+"NWExceptionCheckSet" = "网络好像不大给力哦，检查一下您的网络再试吧！";
+"NWSorryNWException" = "网络好像不大给力哦，检查一下您的网络再试吧！";
+"NWRequestErrorTryAgain(2,10200)" = "啊喔，好像出错了，您稍后再试一下吧！";
+"NWRequestFail" = "网络好像不大给力哦，检查一下您的网络再试吧！";
+"NWAccessTooOften" = "您访问太频繁了，请稍后再试";
+"NWSorrySystemBusyTryLater" = "非常抱歉，系统繁忙，请稍后再试";
+"NWServiceException" = "服务器好像出错了，正在玩命处理中···";
+
+//---ButtonTitle---
+"BTClear" = "清除";
+"BTSearch" = "搜索";
+"BTClearHistory" = "清空历史记录";
+"BTPrompt" = "温馨提示";
+"BTPrompt2" = "温馨提示    ";
+"BTInfoOfShop" = "商家信息        ";
+"BTRefund" = "退款";
+"BTPay" = "付款";
+"BTOrderCancel" = "订单取消";
+"BTBack" = " 返回";
+"BTMore" = "更多";
+"BTPublish" = "发布";
+"BTCancel" = "取消";
+"BTSelectFromPhotoAlbum" = "从相册选择";
+"BTPhotoAlbum" = "相册";
+"BTTakePic" = "拍照";
+"BTAward" = "打赏";
+"BTCommit" = "提交";
+"BTDeleteOrders" = "删除订单";
+"BTDelete" = "删除";
+"BTRefresh" = "刷新";
+"BTFinish" = "完成";
+"BTObtain" = "获取";
+"BTSubmitOrders" = "提交订单";
+"BTSave" = "保存";
+"BTEdit" = "编辑";
+"BTComprehensive" = "综合";
+"BTHaveEvaluated" = "已评价";
+"BTNextStep" = "下一步";
+"BTLogin" = "登录";
+
+//---LabelContent---
+"Version" = "版本号";
+"LBOrderInfo" = "订单信息";
+"LBAmount" = "数量:";
+"LBOrderListState" = "订单状态:";
+"LBOrderListStateChinese" = "订单状态：";
+"LBNoSearchHistoryYet" = "暂无搜索历史";
+"LBSorryForNotFoundResult" = "对不起，暂无搜索结果";
+"LBOrderCodes" = "订单编号";
+"LBOrderCode" = "订单编号：";
+"LBOrderTime" = "下单时间：";
+"LBProjectName" = "项目名称：";
+"LBProjectName2" = "项目名称:";
+"LBAmount2" = "数      量：";
+"LBAmount3" = "数       量:";
+"LBCount" = "金      额：";
+"LBUnitPrice" = "单       价:";
+"LBTotalPrice" = "总       价:";
+"LBInfoOfContact" = "联系人信息：";
+"LBRefundCount" = "退款金额：";
+"LBRefundCount2" = "退款金额：￥";
+"LBRefundCount3" = "退款金额";
+"LBRefundNumber" = "退款数量：";
+"LBNoOrderRecode" = "您没有订单记录！";
+"LBNoOrderToBePaid" = "您没有等待付款的订单！";
+"LBNoPaidOrder" = "您没有支付完成的订单！";
+"LBNoClosedOrder" = "您没有交易关闭的订单！";
+"LBNoRefundingOrder" = "您没有退款中的订单！";
+"LCFreeMeYouGetMore" = "释放加载更多";
+"LCUpMeYouGetMore" = "上拉加载更多";
+"LCLoading..." = "正在加载...";
+"LCLoaded" = "已加载";
+"LCNowWithoutMore" = "暂无更多数据";
+"LCPullDownToRefresh" = "下拉刷新";
+"LCSaySomething" = "说点什么吧";
+"LCTime" = "时间";
+"LCUser" = "用户";
+"LCThankSeeMe" = "谢谢你来看我，么么达";
+"LBPrompt" = "温馨提示";
+"LBMobilePhoneNumber" = "手机号码";
+"LBCellphoneNumber" = "手机号";
+"LBMobilePhone" = "手机";
+"LBVerificationCode" = "验证码";
+"LBName" = "姓名";
+"LBPaymentAmount" = "付款金额";
+
+
+//---TextField---
+"TFSearchForProduct" = "搜索商品";
+
+
+//---PicModal---//相片风格
+"PMOrigine" = "原图";
+"PMBlackWhite" = "黑白";
+"PMRetro" = "复古";
+"PMGothic" = "哥特";
+"PMShapen" = "锐化";
+"PMSimpleElegant" = "淡雅";
+"PMWineRed" = "酒红";
+"PMFreshTranquility" = "清宁";
+"PMRomance" = "浪漫";
+"PMHalo" = "光晕";
+"PMBlues" = "蓝调";
+"PMVisions" = "梦幻";
+"PMNightColor" = "夜色";
+
+////-------Constant-------
+"Constant_PhoneRechargePayFail" = "手机充值支付失败！";
+"Constant_SorryActionOutOfdateOrCantFindIt" = "很抱歉，活动已过期或未找到该活动";
+"Constant_SorrySuningGoodAndThirdNeedPaySeparate" = "抱歉，苏宁商品和第三方商家商品需要分开结算";
+"AccountHaveRegistered"="该账号已被注册";
+"PasswordCannotConformStandard:6-20characters、numbers、underlines"="密码不符合规范:6-20字符、数字、下划线";
+"PleaseEnterLegalPhoneNumber"="请输入合法的手机号";
+"PasswordCannotConformStandard:6characters,discontinuous、differ"="密码不符合规范:6位数字，不连续，不相同";
+"PleaseEnterInvoiceName"="请输入发票名称";
+"PleaseEnterConsigneePhoneNumber"="请输入收货人手机号";
+"PleaseEnterConsigneeName"="请输入收货人姓名";
+"WelcomeSuningPleaseLogin"="欢迎光临苏宁易购，请您登录";
+"WelcomeSuning"="欢迎光临苏宁易购";
+"Evaluate failed,please try again later" = "您的评价提交失败，请稍后重试";
+"PasswordCannotContainSpace"="密码中不能包含空格！";
+"StriveGetCategoryInfo"="正在努力获取类目信息";
+"Loading, please wait..." = "正在加载中，请稍后...";
+
+///--------客户端目录-------
+"ClientDirectory_Electrical"="客户端目录-电器";
+"ClientDirectory_MotherChild"="客户端目录-母婴";
+"ClientDirectory_Beauty"="客户端目录-美妆";
+"ClientDirectory_Books"="客户端目录-图书";
+"ClientDirectory_All"="客户端目录-全部";
+
+
+////-------Src-------------
+///--------HomePage244---------
+
+"GetYourRedPacketQuick" = "您有红包，火速领取";
+"GetNextTime" = "下次领取";
+"GetNow" = "现在领取";
+"TopicsDataNull" = "连版专题接口data字段为空!";
+"TopicsJsonNull" = "连版专题接口json对象为空!";
+"PromotionTopicsJsonNull" = "促销专题接口json对象为空!";
+"PromotionTopicsDataNull" = "促销专题接口data字段为空!";
+"ProductListJsonNull"     = "商品列表接口json对象为空!";
+"BrandRecommend" = "品牌推荐";
+"Fuck!iPhone5S(16GB)"  = "苹果手机 iPhone5S(16GB)(土豪金)土豪金土豪金土豪金土豪金土豪金";
+"ShopRecommend" = "店铺推荐";
+"PushAndReturn" = "下拉返回";
+"GiveYouLikeGoods" = "用心给您喜欢的商品";
+"DoneSeeLater" = "看完啦，稍后再来吧";
+
+///--------Nearby_guwen----------
+"SorryDontFindLocateResult" = "抱歉，没有找到定位结果";
+"SorryLocateFail" = "抱歉，定位失败了";
+"DearLocateFailBeSureServiceAvaible" = "亲，定位服务失败了,请确保您的位置服务可用，您可以进入设置开启或重置位置服务";
+"DearNotSelectGeographicPosition" = "亲，还没有选择地理位置！";
+"UnknownGeographicPositionName" = "未知地址名称";
+"LocatingNow" = "正在定位...";
+"TodayUploadPicNumberUpperLimit" = "您今日图片上传已达上限";
+"TodayPublishNumberUpperLimit"   = "您今日发布次数已达上限";
+"AwardXCloudDiamond" = "打赏了x云钻";
+"AwardLe" = "打赏了";
+"CantAwardYouself"= "不可以对自己进行打赏哦";
+"Floor" = "楼.";
+"FiveCloudDiamond" = "5云钻";
+"IInsertSpeak" = "我也来插几句嘴好了～～";
+"GetAward" = "获赏";
+
+///--------MemberFusion(new)----------
+///--------ScanerCodeLoginRegister-------
+"Member_ScanCodeToLoginAndRegister_AuthorizationFailPage"  = "会员－扫码登录和注册－授权失败页面";
+"BeAboutToUse" = "即将使用";
+"CountSynLoginEasyBuyOtherTerminal" = "账号同步登录易购其它终端";
+"Member_ScanCodeToLoginAndRegister_AuthorizationPage"  = "会员－扫码登录和注册－授权页面";
+"Member_ScanCodeToLoginAndRegister_AuthorizationSuccessPage" = "会员－扫码登录和注册－授权成功页面";
+"SynLoginSuccess" = "同步登录成功！";
+"QR_CodePastDueScanAgain" = "二维码已失效，请重新扫描";
+"QR_CodeHaveScanedWaitAuthorize" = "二维码已被扫描，等待授权";
+"TGC_CookieInexistenceOrInvalid" = "TGC cookie不存在或无效";
+"QR_CodeNotScanedOrAuthorized" =  "二维码尚未被扫描或者已被确认授权";
+///--------ProductConsultation---------
+"AllConsult" = "全部咨询";
+"ProductConsult" = "产品咨询";
+"StoreDelivery" = "库存配送";
+"InvoiceWarranty" = "发票保修";
+"PayMessage" = "支付信息";
+"PromotionPrivilege" = "促销优惠";
+"YouEnterCharactersDontExceed150" = "您输入的字数不要超过150个字";
+"CommitConsultationSuccessWaitAdministratorToDeal" = "咨询提交成功，请等待管理员处理";
+"SuningReply" ="苏宁回复";
+
+///--------WebConnect----------
+"MakeAnAppointmentGood"="商品预约";
+"MakeAnAppointmentStore"="门店预约";
+"PaymentNotFinishWillBack"="支付尚未完成，返回将重新选择支付方式，是否确认？";
+"WC_ActiveRule"="活动规则";
+"WC_ShowCStoreShop"="展示-C店店铺-店铺";
+"WC_MenmberMyEBuy"="会员-我的易购-我的易付宝";
+"WC_ShopProcess"="购物流程-购物-web收银台";
+"WC_EBuyPayOnline"="易付宝在线支付";
+"WC_VirtulAirTicketWebCashier"="虚拟-机票-web收银台";
+"WC_ShowCStore-%@"="展示-C店店铺-%@";
+"WC_SNReader"="苏宁阅读";
+"WC_UnitPriceGroupBuy"="单价团";
+"WC_InviteFriendsClone"="邀请好友克隆";
+"WC_ShakeEasyShake-%@"="摇易摇-%@";
+"WC_FullSeat"="满座";
+"WC_CopySuccess"="复制成功";
+"WC_DowloadedEbuySuccess"="您已下载易购客户端";
+"EmailAccountToNetworkActivate"="邮箱账号请至网站进行激活";
+///--------VoiceSign-------
+"PlayUltrasonic"="玩转超声波";
+"AuAuAuLoginedMoreHappy"="啊呀呀，登录了才好玩啦~";
+"Sound-Activation-Detail"="声音-活动-活动详情";
+"LoginImmediately"="立即登录";
+"DonnotFindMysticalSound"="没有寻找到神秘声音";
+"IsLookingForMysticalSound"="正在寻找神秘声音...";
+"OpenPhoneGetGIT"="你造么？？逛苏宁，打开手机APP，竟然能“听”到隐藏的神秘好礼！小伙伴们都来门店玩一把啊！http://t.cn/8soFaZr";
+"OpenPhoneCanGetGIT"="苏宁——用心打造卓越的O2O购物体验！\n逛苏宁，打开手机APP，能“听”到隐藏的神秘好礼哦~";
+"CongratulationGetExclusiveMenmberCloudDiamond"="苏宁——用心打造卓越的O2O购物体验！\n恭喜您中奖啦！获得会员专属云钻！越多越值钱哦！";
+"CongratulationGetSNCloudCoupon"="苏宁——用心打造卓越的O2O购物体验！\n恭喜您中奖啦！获得苏宁云券一张！";
+"CongratulationGetExchangeCode"="苏宁——用心打造卓越的O2O购物体验！\n恭喜您中奖啦！凭借下面的兑换码，可在指定处获得门店好礼！";
+"GetCloudDiamond:"="获得云钻：";
+"ExchangCode:"="兑换码为：";
+"CongratulationGet:%@CloudCoupon"="恭喜您获得：%@云券";
+"WelcomeSNStore"="欢迎光临，苏宁门店";
+"PrizeName:"="奖品名称：";
+"PlaySoundSignInHaveGift"="玩转声音,签到有礼";
+"Sound-SignIn-Have"="声音-签到-今日已签到";
+"Sound-SignIn-WinPrize"="声音-签到-签到中奖";
+"Sound-SignIn-NotWinPrize"="声音-签到-签到未中奖";
+"VoiceSign"="声波签到";
+"VoiceSign_NeedLoginDetail" = "带着手机，打开苏宁易购，逛着苏宁门店，只要靠近“神秘声源”就可以签到拿优惠，领大奖哟！";
+"VoiceSign_NeedLogin"="登录的用户才能参与声波签到哟~";
+
+///--------YaoYiYao------------
+"PlayGameWithoutStop"="游戏玩不停";
+"ShakeEasyShake-Share"="摇易摇-分享";
+"CongratulationYouGet"="恭喜您,获得了";
+"ExchangeCode"="兑换码";
+"GoStroll"="去逛逛";
+"NowHaveNoEvent"="当前没有正在进行的活动";
+"UpPersonality"="提升人品";
+"HearMeSomeoneBeGHSByYYY"="听说，有人摇易摇变成高富帅了";
+"EventTimesOutNextTime"="您已经超过了活动次数，请下次再参加";
+"HavenotEnoughCloudDiamond"="你的云钻不足，先去逛逛吧！";
+"PhoneYYYGetCoupon"="手机摇易摇，赢取全场通用券";
+"LoginFirstBeforeJoinYYY"="参加\"摇易摇\"活动 请先登录";
+"ShakingPrize"="摇奖中 ... ";
+"WrongTryAgain"="出错了，请你再来一次";
+"CloneToFriend"="克隆给朋友";
+"MyCloudDiamond:"="我的云钻:";
+"SignInFailTryLater"="签到失败，请稍后再试";
+"TodayHaveSignedIn"="您今日已签到";
+"TomorrowCanOwn"="明日可领";
+"IHaveSignedIn"="我已签到";
+"CongratulationSignedInSuccessGet%@CloundDiamond"="恭喜您今日签到成功\n获得%@云钻";
+"CongratulationSignedInSuccessGet%@Coupon"="恭喜您今日签到成功\n获得%@优惠券";
+"CongratulationSignedInSuccessGet%@CloundDiamond%@Coupon"="恭喜您今日签到成功\n获得%@云钻+%@优惠券";
+"Day"="天";
+"SignedInContinuous"="连续签到";
+"TodayCanOwn"="今日可领";
+"MemberWorld"="会员世界";
+"PhoneSignIn"="手机签到";
+"HiWelcomeToSNEbuy"="hi,欢迎来到苏宁易购";
+
+
+///--------OnlineService-------
+"OnlineService_NotHaveThisMerchant"="在线客服系统无此商家";
+"OnlineService_LeaveMessageFail"="留言失败";
+"OnlineService_EvaluateFail"="评价失败";
+"OnlineService_Fail"="失败";
+"OnlineService_SendFail"="发送失败";
+"OnlineService_ExitQueueFail"="退出排队失败";
+"OnlineService_OnlineConsultant"            = "在线客服";
+"OnlineService_CustomerServiceNotOn"        = "抱歉，客服不在线，您可以进行离线留言";
+"OnlineService_LeaveOneMessage"             = "留言";
+"OnlineService_NoConversation"              = "对话尚未建立，您不能评价";
+"OnlineService_Linking"                     = "连接中...";
+"OnlineService_Queueing"                    = "排队中...";
+"OnlineService_ConversationEnd"             = "交谈已结束";
+"OnlineService_Evaluating"                  = "正在评价...";
+"OnlineService_HuiHuaEnd"                   = "会话已结束";
+"OnlineService_CustomerServiceBusy"         = "客服忙碌中,还有";
+"OnlineService_HowManyPeopleInQueue"        = "人排队中";
+"OnlineService_LinkFailed"                  = "连接失败";
+"OnlineService_SendGoodsLink"               = "发送商品链接";
+"OnlineService_Copy"                        = "复制";
+"OnlineService_OnlineCustomerServiceTest"   = "在线客服测试";
+"OnlineService_CShopService"                = "C店客服";
+"OnlineService_B2CBeforeSell"               = "B2C售前";
+"OnlineService_B2COrder"                    = "B2C订单";
+"OnlineService_B2CSendGoodsInstall"         = "B2C送货安装";
+"OnlineService_B2CReturnGoods"              = "B2C退货";
+"OnlineService_B2CSuggestion"               = "B2C意见反馈";
+"OnlineService_SellerLeaveMessage"          = "商家留言";
+"OnlineService_TestSeller"                  = "测试商家";
+"OnlineService_42CunDianShi"                = "42寸液晶平板电视";
+"OnlineService_LeaveMessageToSeller"        = "给商家留言";
+"OnlineService_ConsultGoods"                = "咨询产品：";
+"OnlineService_ConsultOrder"                = "咨询订单：";
+"OnlineService_ShopName"                    = "咨询店铺：";
+"OnlineService_Gei"                         = "给";
+"OnlineService_LiuYan"                      = "的离线留言";
+"OnlineService_Producter"                   = "厂家";
+"OnlineService_Tips"                        = "温馨提示:我们会以手机、邮箱的方式联系您，或者您可以登录www.suning.com,在我的易购-账户管理-短消息中查看。";
+"OnlineService_InputConsult250"             = "请输入咨询内容,250字以内";
+"OnlineService_InputTelAndEmail"            = "请输入手机号/E-mail";
+"OnlineService_InputYouMessage"             = "请输入留言";
+"OnlineService_MessageLessThan250"          = "留言不能超过250个字";
+"OnlineService_LeaveMessageSuccess"         = "留言成功";
+"OnlineService_WaitingIng"                  = "等待..";
+"OnlineService_Send"                        = "发送";
+"OnlineService_ThxAndPleaseEvaluate"        = "感谢您的咨询\n请对我们的服务做出评价";
+"OnlineService_Normal"                      = "一般";
+"OnlineService_PleaseEvaluateMyService"     = "请评价我的服务";
+"OnlineService_SystemSwitch"                = "系统转接";
+"OnlineService_ServerOnYourService"         = "号客服为您服务";
+
+///--------UserCenter--------------
+"SorryAuthCodeOut3Times"                    ="对不起，您当天发送验证码次数已经超过3次";
+"SorryPhoneNumberModeWrong"                 ="抱歉，手机号码格式不正确";
+"SorryPhoneNumberInexistence"               ="抱歉，该手机号不存在";
+"SorryAuthCodeOut3TimesTryMorrow"           ="发送验证码次数已达到3次，请次日再试";
+"PasswordIs6-20characters、numbersOrGroup"  = "密码为6-20个字符，请使用字母、数字或符合的组合";
+"UCAccountMerge"                            = "账号合并";
+"UCMergeAccount"                            = "合并账号";
+"UCOk"                                      = "确 定";
+"UCOnlyBoundMobilePhoneNumber"              = "该号将作为您的易购账号和会员卡号统一绑定手机号";
+"UCElectricCard"                            = "电器卡";
+"UCPleaseSelectUniformBoundMobilePhoneNo"   = "请选择统一的绑定手机号";
+"UCPleaseSelectBoundMemberCard"             = "请选择您需要绑定的会员卡";
+"UCMemberCardMergeWithEBuyAccount"          = "会员卡已经合并易购账号，可使用会员卡号及合并易购账号密码直接登录";
+"UCSelectCommonlyUsedMemberCard"            = "选择常用的会员卡";
+"UCMemberCardPassword"                      = "会员卡密码";
+"UCPleaseEnterMemberCardPassword"           = "请输入会员卡密码";
+"UCStoreCellphoneVerification"              = "门店手机验证";
+"UCSubmit"                                  = "提 交";
+"UCReObtain"                                = "重新获取";
+"UCThroughStoreCellphoneVerification"       = "通过门店手机验证，成功绑定会员卡和易购账号，您的账号可以在苏宁门店和苏宁易购通用，享受更多权益。";
+"UCGetVerificationCode"                     = "获取验证码";
+"UCProvideCellphoneNumber"                  = "办卡时提供的手机号";
+"UCPleaseEnterVerificationCode"             = "请输入您的手机收到的验证码";
+"UCNoAssociationMemberCardAccount"          = "无关联门店会员卡账号，请确认手机号码";
+"UCMergeSuccess"                            = "合并成功";
+"UCMemberCardAndEBuyAccountMergeSuccess"    = "恭喜，您的会员卡已成功与易购账号合并，现在开始购物吧~";
+"UCFriendTips"                              = "友情提示：您下次可以使用会员卡号+易购密码直接登录";
+"UCEBuyAccount"                             = "易购账号";
+"UCMemberCardNumber"                        = "会员卡号";
+"UCCloudDiamondAmount"                      = "云钻总额";
+"UCPleaseEnter11CellphoneNumber"            = "请输入11位手机号码";
+"UCPleaseEnterCellphoneNumber"              = "输入您的手机号码";
+"UCPleaseEnterValidE-mailVerificationCode"  = "请输入有效邮箱验证码";
+"UCPleaseEnterCorrectEmailVerificationCode" = "请输入正确的邮箱验证码";
+"UCPleaseEnterYourEmailAddress"             = "请输入您的邮箱地址";
+"UCPleaseEnterYourEmailAccount"             = "请输入您的邮箱账号";
+"UCPleaseEnterYourEBuyAccount"              = "请输入您的易购账号";
+"UCPleaseEnterYourEBuyAccountPassword"      = "请输入您的易购密码";
+"UCPleaseEnterCorrectFormatEmailAddress"    = "请输入正确格式的邮箱地址";
+"UCPleaseEnterVerificationCodeFromEmail"    = "请输入您邮箱收到的验证码";
+"UCPleaseEnterVerificationCodeFromMessage"  = "请输入您手机收到的短信验证码";
+"UCPleaseEnter6-20Password"                 = "请输入6-20位密码！";
+"UCPleaseEnter6-20EBuyAccountPassword"      = "请输入６-２０位易购账号密码";
+"UCPasswordCannotBeSameCharacter"           = "密码不能为同一字符！";
+"UCPasswordCannotBeContinueCharacter"       = "密码不能输入连续字符！";
+"UCPasswordNumbersOrSymbolsCombination"     = "密码为6至20个字符，请使用字母加数字或符号的组合! ";
+"UCPleaseEnterEBuyAccountPassword"          = "请输入易购账号密码";
+"UCVerificationEmail"                       = "验证邮箱";
+"UCEmailVerification"                       = "邮箱验证";
+"UCEBuyAccountEmailVerification"            = "验证易购账号邮箱";
+"UCMobilePhoneNumberVerification"           = "验证您的手机号";
+"UCPleaseVerifyEBuyAccountEmail"            = "请验证您的易购账号邮箱";
+"UCPleaseVerifyEBuyMobilePhoneNumberFirst"  = "请先验证您的易购手机号码";
+"UCVerifyEmailFirst"                        = "绑定手机号需先验证您的邮箱";
+"UCMobilePhoneVerification"                 = "手机验证";
+"UCMobilePhoneBound"                        = "手机绑定";
+"UCMemberCardMobilePhoneNumber"             = "会员卡手机号";
+"UCEBuyAccountMobilePhoneNumber"            = "易购账号手机号";
+"UCRegistration"                            = "注册";
+"UCFastRegistration"                        = "快速注册";
+"UCRegister"                                = "注 册";
+"UCPleaseInputVerificationCode"             = "请输入验证码";
+"UCPleaseInputRightVerificationCode"        = "请输入右侧验证码";
+"UCLettersNumbersOrSymbolsCombination"      = "6-20位字母+数字或者符号的组合";
+"UCMerge"                                   = "合 并";
+"UCNeedMergeEBuyAccount"                    = "需要合并的易购账号";
+"UCChangeOne"                               = "换一张";
+"UCMobilePhoneNumberHaveMultipleMembership" = "手机号存在多个会员";
+"UCGroupMemberMobilePhoneCannotLogin"       = "手机为团体会员的联系人手机，不能登录";
+"UCNonPersonalMemberCardCannotBoundEBuy"    = "非个人会员卡不能绑定易购";
+"UCAbnormalData"                            = "数据异常";
+"UCName_Cellphone_Email_StoreMemberCard"    = "用户名/手机号/邮箱/门店会员卡";
+"UCCleanUpHistory"                          = "清空历史";
+"UCResetPasswordSuccess"                    = "重置密码成功!";
+"UCStoreMemberFirstLogin"                   = "门店会员首次登录";
+"UCHoldSuningOrLaoxMemberCard"              = "持有苏宁电器/乐购仕会员卡";
+"UCStoreMemberCardLogin"                    = "若登录名为门店会员卡时，请输入其合并易购账号的密码";
+"UCLoggedUserNotConsistent"                 = "登录用户不一致，无法支付。";
+"UCSelectProtocolButton"                    = "请选中协议按钮";
+"UCVerificationCodeHasBeenSent"             = "验证码已发送，请注意查收";
+"UCVerificationCodeHasBeenSentToYourPhone"  = "易购已发送验证码至您的手机，请查收短信。";
+"UCSuningEBuyMemberRules"                   = "苏宁易购会员章程";
+"UCSuningEBuyMemberRules2"                  = "《苏宁易购会员章程》";
+"UCEfubaoProtocol"                          = "易付宝协议";
+"UCEfubaoProtocol2"                         = "《易付宝协议》";
+"UCSuningAdvertisingAllianceOnlineProtocol" = "苏宁广告联盟在线协议";
+"UCSuningAdvertisingAllianceOnlineProtocol2"= "《苏宁广告联盟在线协议》";
+"UCIHaveReadSuningEBuyMemberRules"          = "我已阅读并同意《苏宁易购会员章程》，《易付宝协议》及《苏宁广告联盟在线协议》";
+"UCAgreeWithSuningEBuyMemberRules"          = "同意苏宁易购会员章程和易付宝协议";
+"UCPleaseReadProtocol"                      = "请阅读协议";
+"UCSendAgain"                               = "重新发送";
+"UCSetPassword"                             = "设置密码";
+
+
+///--------PayFlow-----
+"SorryOrderPreferenceOutTime"               = "很抱歉，您的订单中的优惠已过期，商品恢复原价，请重新下单";
+"GroupBuyActivityOutTime"                   = "团购活动过期";
+"GroupBuyMarginLack"                        = "团购余量不足";
+"BeyondEveryoneQuota"                       = "超出每人限购";
+"GroupBuyActivityCheckException"            = "团购活动检查发生异常";
+"SorryOrderPreferenceOutTime2"              = "抱歉，您的订单中的优惠已过期，商品恢复原价，请重新下单购买";
+"SorryOrderNoFreightOut"                    = "抱歉，当前订单免运费活动已结束，请重新下单购买";
+"OrderForBigPreferenceNumberOverQuota"      = "您购买的大聚惠商品超过限购数量";
+"BigPreferenceGoodMargineLack"              = "您所参加的大聚惠商品余量不足";
+"BigPreferenceJoinedActivityEnded"          = "您参加的大聚惠活动已结束";
+"OrderNotPayedInTimeLoseSnapUpChance"       = "您的订单未在限定时间内完成支付，您将失去本次抢购机会，如果该商品还没有抢完，您可以重新参加抢购！";
+"CloudDiamondUsedToEarn"                    = "您的云钻已被使用，请多多赚取云钻再使用吧";
+"PreferenceInfoInvalidReselect"             = "优惠信息无效，请重新选择！";
+"GetStoreInforFail"                         = "获取门店信息失败";
+"OrderInfoExceptionRebuy"                   = "您的订单信息出现异常,请重新购买";
+"NeedLogin"                                 = "未登录,请登陆";
+"OrderHavePayedNoNeedAgain"                 = "您的订单已经支付成功，不需要再支付";
+"OrderInfoExceptionCantPay"                 = "您的订单信息出现异常,暂无法支付";
+"OrderHaveCantSaleRebuy"                    = "订单中有商品暂不销售,请重新购买";
+"OrderRebuy_GroupBuyEnded"                  = "团购活动结束,请重新购买";
+"OrderRebuy_GroupBuyNumberLack"             = "团购商品数量不足,请重新购买";
+"OrderRebuy_BeyondLimitNumber"              = "商品超出限购数量,请重新购买";
+"CannotPay_GroupBuyException"               = "团购活动出现异常,暂无法支付";
+"CannotPay_NoCanPayGood"                    = "抱歉，当前订单中没有可支付商品";
+"PleaseRelogin"                             = "请重新登录";
+"PleaseActivateEBuy"                        = "请激活易付宝";
+"NoFreight"                                 = "（免运费）";
+"FreightIs"                                 = "（运费￥%.2f）";
+"PFCloudDiamondElectronicTicket"            = "云钻电子券";
+"PFCoupons"                                 = "优惠券";
+"PFAdvertisingCoupons"                      = "广告券";
+"PFGiftCards"                               = "礼品卡";
+"PFBookGiftCard"                            = "图书礼品卡";
+"PFVIPCard"                                 = "贵宾卡";
+"PFCashOnDelivery"                          = "货到付款";
+"PFPayByCard"                               = "刷卡";
+"PFStorePayment"                            = "门店支付";
+"PFPayInStore"                              = "门店付款";
+"PFOnlyNeedSwingCard"                       = "只需用卡潇洒一划";
+"PFDonotSupportCashOnDelivery"              = "订单商品不支持货到付款";
+"PFDonotSupportPayByCard"                   = "订单商品不支持刷卡支付";
+"PFDonotSupportPayByCash"                   = "订单商品不支持现金支付";
+"PFDonotSupportPayInStore"                  = "订单商品不支持门店支付";
+"PFCash"                                    = "现金";
+"PFCanPayByCash"                            = "可以使用现金支付";
+"PFCurrentBalance"                          = "当前余额为";
+"PFEfubaoUnactivatedAndGoToMyEfubao"        = "易付宝未激活,请到“我的易付宝”激活后使用";
+"PFPayByEfubao"                             = "易付宝支付";
+"PFSupportEfubaoBalanceFastAndOtherPayment" = "支持易付宝余额、快捷等多种支付方式";
+"PFUnionPayMobilePhonePayment"              = "银联手机支付";
+"PFSuningStorePay"                          = "苏宁门店支付";
+"PFSubmitOrderAndPayInAnySuningStore"       = "订单提交后，您可以凭下单短信，去任意苏宁门店收银台付款，付款成功后我们将尽快为您发货";
+"PFSubmitOrderAndTakeInStore"               = "订单提交后，我们将尽快发货至您选择的提货门店，请在收到到货短信通知后，尽快去门店付款并提货";
+"PFDiversityPayment"                        = "异度支付";
+"PFSafeConvenientSupportAllBankPayment"     = "更安全、更便捷，支持各大银行支付；时间就该花在生命中的美好";
+"PFOnlinePayment"                           = "在线支付";
+"PFSupportEfubaoCreditCardDebitCard"        = "支持易付宝和各主流银行的信用卡、借记卡消费";
+"PFCollectStephenKimAston"                  = "搜集斯蒂芬金阿斯顿";
+"PFOptionalGiveMerchantsMessage"            = "选填：给商家留言（85字以内）";
+"PFMerchantsLeaveMessage"                   = "商家留言不能超过85字";
+"PFCommodityAmount"                         = "商品总额";
+"PFExpiryDate"                              = "失效日期";
+"PFEnterMobilePhoneCode"                    = "输入手机验证码";
+"PFMobilePhoneCode"                         = "手机验证码";
+"PFBindingMobilePhoneNumber"                = "绑定手机号";
+"PFGoToMyEBuyActivate"                      = "请至我的易购激活";
+"PFEnterRecommendationMobilePhoneNumber"    = "请输入推荐手机号码";
+"PFRecommendationNumber"                    = "推荐号";
+"PFTotalIncludingFreight"                   = "总额（含运费）";
+"PFPleaseSelectDeliveryAddress"             = "请选择收货地址";
+"PFPleaseSelectStore"                       = "请选择自提门店";
+"PFPleaseSelectStore2"                      = "请选择自提门店!";
+"CannotTakeSelf"                            = "您选择的区域暂无自提点，您可以选择苏宁配送或者就近区域的自提点";
+"PFHomeDelivery"                            = "送货上门";
+"PFInvoiceInformation"                      = "发票信息";
+"PFInvoiceHeader"                           = "发票抬头";
+"PFInvoiceHeaderCannotBeEmpty"              = "发票抬头不能为空";
+"PFInvoiceHeaderNotIncludeIllegalCharacter" = "发票抬头不能有非法字符";
+"PFInvoiceHeaderShouldHave2-32Words"        = "发票抬头应为2-32个字符";
+"PFCustomer"                                = "顾客";
+"PFInvoiceType"                             = "发票类型";
+"PFElectronicInvoice"                       = "电子发票";
+"PFEnvironmentalShoppingToChoiceEleInvoice" = "注：环保购物选择电子发票";
+"PFPaperInvoicePleaseAmend"                 = "注：开具纸质发票请修改";
+"PFNoSuningGoodsInvoiceBySupplier"          = "注：非苏宁自营商品的发票由供应商开具";
+"PFOrdinaryInvoiceBySuningEBuy"             = "注：发票为苏宁易购开具的普通发票";
+"PFSubmitOrderSuccessAndCanPayByCash"       = "注：订单提交成功，商品送达时，您可以通过现金支付";
+"PFSubmitOrderSuccessAndCanPayByCard"       = "注：订单提交成功，商品送达时，您可以通过刷卡支付";
+"PFPickUpAndPayInStore"                     = "注：商品送达后请您前往下单时选择的自提门店进行付款并提货，准确送达时间将短信通知您，商品送达门店7天后若仍未支付订单将自动取消";
+"PFSubmitOrderSuccessAndPayInAnyStore"      = "注：您的订单已提交成功，请24小时内前往附近任意门店收银台处支付，支付完成后将及时为您发货";
+"PFNoInvoice"                               = "不开发票";
+"PFOrdinaryInvoice"                         = "普通发票";
+"PFUseCouponOrRecommendationNumber"         = "使用优惠券/推荐号";
+"PFCanUse"                                  = "可用";
+"PFCloudDiamondFor"                         = "云钻抵用";
+"PFPleaseSelectAddressFirst"                = "请您先选择地址";
+"PFPleaseSetDeliveryAddress"                = "请设置配送地址";
+"PFSorrySubmitOrderFailAndTryAgainLater"    = "很抱歉，订单提交失败，请稍后再试！";
+"PFSorryGoodsPriceChange"                   = "很抱歉，您订单中存在的商品价格发送变动，请问您是否需要按原价购买？";
+"PFOnlySupportSuningDelivery"               = "本次购买只支持苏宁配送，不支持用户自提！";
+"PFDeliveryAddressContainIllegalCharacters" = "配送地址内容含有非法字符，请重新编辑地址！";
+"PFSwitchCityAndOrderPriceChange"           = "由于您切换城市，订单价格发生变化";
+"PFPanicBuyingQualificationHasExpired"      = "您的抢购资格已过期";
+"PFGroupPurchaseHasExpired"                 = "团购已过期";
+"PFPaymentWay"                              = "支付方式";
+"PFPleaseSelectPaymentWay"                  = "请选择支付方式";
+"PFSelectPaymentWay"                        = "选择支付方式";
+"PFObtainListFailedAndTryAgainLater"        = "获取区列表失败，请稍后再试";
+"PFPleasePayAsSoonAsPossible"               = "您的订单已提交，请尽快支付，以免商品卖光；如果您此时不便，您也可以稍后去我的易购订单中心选择支付此订单！";
+"PFTotalPrice"                              = "共计";
+"PFUseCashOnDeliveryAndPayByCash"           = "您确定使用“货到付款-现金支付”？";
+"PFUseCashOnDeliveryAndPayByPos"            = "您确定使用“货到付款-POS支付”？";
+"PFUseStorePayment"                         = "您确定使用“门店支付”？";
+"PFGetVerificationCodeFailed"               = "验证码获取失败";
+"PFNotSupportUnionPay1.0"                   = "抱歉，银联1.0的支付方式已经不支持了";
+"PFPayFailed"                               = "支付失败";
+"PFOrderPaySuccess"                         = "订单已支付成功，您可以";
+"PFPaidSuccess"                             = "支付成功";
+"PFAvailableTickets"                        = "可用券";
+"PFUnavailableTickets"                      = "不可用券";
+"PFOk"                                      = "确  定";
+"PFNoOrderCanUseCoupon"                     = "无此订单可用优惠券";
+"PFAddCoupon"                               = "添加优惠券";
+"PFYourAccountHasNoUnavailableTickets"      = "您的账号暂无不可用券";
+"PFTelePhoneNumberWrong"                    = "您输入的手机号码有误，请核对后重新输入";
+"PFRecommendedNumberCannotBeEmpty"          = "推荐号码不能为空，请核对后输入";
+"PFOneOrderOnlyUseOneRecommendedNumber"     = "提示推荐手机号码一笔订单仅能使用一个";
+"PFAddSuccess"                              = "添加成功";
+"PFAddFailed"                               = "添加失败";
+"PFStraightDownAmount"                      = "直降金额";
+"PFThisTicketCannot"                        = "该券不能和";
+"PFYouSelectTicketCannot"                   = "您选择的券不能和";
+"PFUseTogether"                             = "同时使用";
+"PFPleaseEnterCorrectVerificationCode"      = "请您输入正确的手机验证码";
+"PFPleaseInputCorrectVerificationCode"      = "请输入正确的手机验证码";
+"PFGetVerificationCodeFailedAndGetAgain"    = "获取验证码失败,请重新获取";
+"PFPleaseEnterCouponNumber"                 = "请输入优惠券/卡号码";
+"PFPleaseEnterCouponPassword"               = "如有密码，请输入优惠券/卡密码";
+"PFAdd"                                     = "添  加";
+"PFPleaseEnterCouponOrCardNumber"           = "请输入券/卡号";
+"PFPleaseEnterCorrectCouponOrCardNumber"    = "请输入正确的券/卡号";
+"PFPleaseEnterCorrectPassword"              = "请输入正确的密码";
+"PFAddCouponOrCardFailed"                   = "添加券/卡失败";
+"PFSubmitOrderSuccess"                      = "恭喜您提交订单成功~";
+"PFCouponPaymentInFull"                     = "券全额支付";
+
+
+///----------OrderCenter----------
+"NoOrderYouHave"="您还没有订单哦";
+"NoStoreOrderData"="您还没有门店订单数据哦";
+"GetOrderDataFail"="获取订单信息失败";
+
+//---More---
+"Installed"                           = "已安装";
+"Image quality"                       = "图片质量";
+"Intelligent model"                   = "智能模式";
+"High quality (for Wifi)"             = "高质量（适合Wifi环境）";
+"Ordinary (for 3G or 2G environment)" = "普通（适合3G或2G环境）";
+"Message settings"                    = "接收消息设置";
+"Share to friends"                    = "分享给好友";
+"SuningFamily·SuningEBuy"             = "苏宁家族·苏宁易购";
+"CommentEBuy"                         = "给易购评分";
+"Push message screening"              = "推送消息筛选";
+"Promotional messages"                = "促销消息";
+"Personalized recommendation"         = "个性推荐";
+"More_Share_Title"                    = "苏宁易购客户端很好用，快来试试哦";
+"More_Share_Content"                  = "苏宁易购客户端完美融合线上线下资源，界面清新，拇指杀、团购、抢购劲爆促销活动，易付宝安全支付方式，带给您最舒适的购物体验！@苏宁易购http://t.cn/zTdsooi";
+"Latest version"                      = "已是最新版本";
+
+
+///-------GroupBuy(new)-------
+"GBHotGroupBuyInThisWeek"                   = "本周热门团购";
+"GBNumberOfCertificate"                     = "券号码:";
+"GBNumberOfCertificate2"                    = "券号码 : ";
+"GBValidityPeriod"                          = "有效期:";
+"GBValidityPeriod2"                         = "有效期 : ";
+"GBUsed"                                    = "已使用:";
+"GBUsed2"                                   = "已使用";
+"GBUnused"                                  = "未使用:";
+"GBUnused2"                                 = "未使用";
+"GBOverdue"                                 = "已过期:";
+"GBOverdue2"                                = "已过期";
+"GBNullified"                               = "已作废:";
+"GBNullified2"                              = "已作废";
+"GBCodeOfCertificate"                       = "券密码:";
+"GBCodeOfCertificate2"                      = "券密码 : ";
+"GBStateOfCertificate"                      = "券状态 : ";
+"GBTo"                                      = "至";
+"GBWaitToTakeEffect"                        = "待生效";
+"GBAddress"                                 = "地址：";
+"GBAddress2"                                = "地址 : ";
+"GBAppointment"                             = "预约电话：";
+"GBDetailOfGroupCertification"              = "团购券详情";
+"GBDetailOfGroupCertification2"             = "团购券详情    ";
+"GBProjectOfGroupBuy"                       = "团购包含项目";
+"GBTheMost"                                 = "最多可以";
+"GBNumber"                                  = "个";
+"GBFundBackToOriginalAccount"               = "款项将退至原支付账户";
+"GBPleaseChooseReasonOfRefund"              = "请选择退款原因";
+"GBAllState"                                = "所有状态 ";
+"GBPleaseWaitCertificateToBeEffect"         = "团购券还未生效，请等待";
+"GBPleaseGiveOutYourSecretCode"             = "为了保证您的权益，请到店消费时提供密码，预约时无需提供。若您购买多个数量，密码可重复使用。";
+"GBPleaseNotGiveOutYourSecretCode"          = "为了保证您的权益，预约时无需提供券号和券密码，请到店消费时再提供。";
+"GBInternetError"                           = "网络好像不大给力哦，检查一下您的网络再试吧！";
+"GBApplyForRefund"                          = "退款申请";
+"GBAreYouSureRefund"                        = "您确认要退款吗?";
+"GBAreYouSureCancelGroupBuy"                = "您确认要取消这次团购吗?";
+"GBCancelSuccess"                           = "取消成功";
+"GBYourOrderCancelSuccess"                  = "您的订单取消成功";
+"GBPleaseChooseRightDevice"                 = "请选择支持拨号的设备，并手动输入号码！";
+"GBNoShopInfoNow"                           = "当前无商家信息";
+"GBReasonForRefund"                         = "退款原因 : ";
+"GBRefundSuccess"                           = "退款成功";
+"GBRefundInfo"                              = "退款申请成功，请等待退款：易付宝付款1个工作日到账，网银或信用卡3-15个工作日到账";
+"GBNoOrderRecode"                           = "没有订单记录！";
+"GBOriginalPrice"                           = "原价 ¥";
+"GBOriginalPrice2"                          = "原价¥";
+"GBPeople"                                  = "人";
+"GBOther"                                   = "其他";
+"GBGroupCity"                               = "团购城市";
+"GBChooseCity"                              = "选择城市";
+"GBAllCategories"                           = "全部分类";
+"GBGroupFilter"                             = "团购筛选";
+"GBTop"                                     = "热门";
+"GBPleaseInputSecretCode"                   = "请输入6~20位的非空格支付密码";
+"GBBuyInfoPartOne"                          = "购买信息(最多可购买";
+"GBBuyInfoPartTwo"                          = "件)";
+"GBAccountUnfilledVacanciesIsInsufficient"  = "账户余额不足，请选择其他支付方式";
+"GBAccountUnfilledVacanciesIsEnough"        = "账户余额充足，可以支付";
+"GBYourEBuyIsNotActivite"                   = "您的易付宝未激活，无法支付";
+"GBOrderSumOfMoney"                         = "订单金额: ¥";
+"GBOrderSubmitSuccess"                      = "您的订单已提交成功，如果暂不支付，可在等待支付订单中找到并支付!";
+"GBOrderSubmitSuccess2"                     = "订单提交成功，请尽快支付!";
+"GBOrderSubmitSuccess3"                     = "支付成功,请凭团购券至商家消费";
+"GBPaySuccess"                              = "成功支付";
+"GBShopContinue"                            = "继续购物";
+"GBLookForDetailsOfOrder"                   = "查看订单详情";
+"GBSecretCodeHasWrongForThreeTimes"         = "密码已错误三次，请24小时之后再试";
+"GBWrongPartOne"                            = "密码已错误";
+"GBWrongPartTwo"                            = "次，若达到3次账户将被冻结24小时";
+"GBTelephoeNumberOfGroupBuy"                = "团购服务热线:4006-766-766";
+"GBChooseOperation"                         = "选择操作";
+"GBCall 4006-766-766"                       = "呼叫 4006-766-766";
+"GBAgreeToRefund"                           = "承诺过期退款";
+"GBNotAgreeTorefund"                        = "不承诺过期退款";
+"GBGroupBuyIsOver"                          = "团购已经结束";
+"GBDay"                                     = "天";
+"GBHour"                                    = "时";
+"GBMinute"                                  = "分";
+"GBLeft"                                    = "剩余:";
+"GBBuy"                                     = "购  买";
+"GBTelephone"                               = "电话 : ";
+"GBTrafficRemind"                           = "交通提醒 : ";
+"GBCityIDCanNotBeEmpty"                     = "城市ID不能为空";
+"GBItemInEveryPageCanNotBeEmpty"            = "每页条数不能为空";
+"GBPresentPageIsIllegal"                    = "当前页数不合法";
+"GBWOWOProductIDCanNotBeEmpty"              = "窝窝商品ID不能为空";
+"GBWOWOProductIDIsNotExist"                 = "窝窝商品ID不存在";
+"GBProductIDIsIllegal"                      = "商品ID不合法";
+"GBHotelIDCanNotBeEmpty"                    = "酒店ID不能为空";
+"GBHotelProductIDIsNotExist"                = "酒店商品ID不存在";
+"GBKeyWrong"                                = "关键字输入有误";
+"GBKeyWordCanNotBeEmpty"                    = "关键字不能为空";
+"GBMemberNumberCanNotBeEmpty"               = "会员编号不能为空";
+"GBCheckTimeCanNotBeEmpty"                  = "查询时间段不能为空";
+"GBCheckTimeInputIsWrong"                   = "查询时间段输入有误";
+"GBOrderNumberCanNotBeEmpty"                = "订单编号不能为空";
+"GBOrderSourceCanNotBeEmpty"                = "订单来源不能为空";
+"GBOrderSourceInputError"                   = "订单来源输入有误";
+"GBWOWOOrderCancelFail"                     = "窝窝团购订单取消失败";
+"GBHotelOrderCancelFail"                    = "酒店团购订单取消失败";
+"GBWOWOOrderRefundFail"                     = "窝窝团购订单退款失败";
+"GBHotelOrderProhibitRefund"                = "酒店团购订单不允许退款";
+"GBOrderNotBelongToThisMember"              = "此订单不是该会员的订单";
+"GBBuyNumberCanNotBeEmpty"                  = "购买数量不能为空";
+"GBBuyNumberMustAllBeFigure"                = "购买数量必须是纯数字";
+"GBMobileNumberCanNotBeEmpty"               = "手机号码不能为空";
+"GBMobileNumberMustAllBeFigure"             = "手机号码必须是纯数字";
+"GBNumberInsideCanNotBeEmpty"               = "内卡号不能为空";
+"GBNumberOutsideCanNotBeEmpty"              = "外卡号不能为空";
+"GBOrderBringFail"                          = "订单生成失败，请重新提交";
+"GBProductCodeCanNotBeEmpty"                = "商品编号不能为空";
+"GBHotelCodeCanNotBeEmpty"                  = "酒店编号不能为空";
+"GBMemberOrderCodeCanNotBeEmpty"            = "会订单编号不能为空";
+"GBMemberCodeCanNotBeEmpty"                 = "会员编号不能为空";
+"GBOrderPayIsIllegal"                       = "订单支付金额不合法（不能为空，必须为纯数字）";
+"GBEBuyPayNumberCanNotBeEmpty"              = "易付宝支付金额不能为空";
+"GBOrderInfoGetFail"                        = "订单信息获取失败";
+"GBOrderIsNotExist"                         = "交易订单不存在";
+"GBOrderTotalNumberIsNotEqualToEBuyNumber"  = "订单总金额与易付宝支付金额不相等";
+"GBOrderIsNotWaitToBePaid"                  = "订单为非待支付状态";
+"GBVerifyCodeCanNotBeEmpty"                 = "验证码不能为空";
+"GBPaySecretCodeCanNotBeEmpty"              = "支付密码不能为空";
+"GBOrderInStorageFail"                      = "支付方式入库订单表失败";
+"GBPayMethodCanNotBeEmpty"                  = "支付方式不能为空";
+"GBCanNotPayForCancelProduct"               = "下架商品不可支付";
+"GBCheckForYUEBAOError"                     = "查询易付宝余额异常";
+"GBPaySuccessButGetError"                   = "支付成功！保存支付数据和同步订单时捕获异常";
+"GBOrderPayFail"                            = "订单支付失败，请稍后再试";
+"GBPayVerifyCodeCheckFail"                  = "易付宝支付密码校验失败";
+"GBProductIsNotEnoughForOrder"              = "商品库存不足，无法满足订单需求";
+"GBSorryForLater"                           = "对不起，您来晚了，团购已结束，请重新选择";
+
+
+//--------Sweepstakes---------
+"Sweepstakes_HangAround"     = "随便逛逛";
+"Sweepstakes_SystemBusy"     = "尊敬的用户您好，系统繁忙请稍后再试";
+"Sweepstakes_IncorrectTime"  = "尊敬的用户您好，现在不在活动时间段，谢谢您的关注";
+"Sweepstakes_LotteryNumsOut" = "今天您抽奖次数已用完啦，谢谢您的参与";
+"Sweepstakes_LotteryRule"    = "抽奖规则";
+
+
+//--------SecondKill----------
+"SecondKill_HowToRaiseSuccessRate" = "如何提高秒杀成功率：";
+"SecondKill_WhyKillNothing"        = "1、	为什么每次都秒不到？";
+"SecondKill_CanPayWhenReached"     = "2、	秒杀商品是否支持货到付款？";
+"SecondKill_WillNeedBill"          = "3、	秒杀商品是否开具发票？";
+"SecondKill_NextDay"               = "(次日)";
+
+
+//--------NearbySuning------------
+"NearbySuning_NoRecords"                    = "没有附近苏宁记录";
+"NearbySuning_NormalTime"                   = "周中营业时间: ";
+"NearbySuning_WeekendTime"                  = "周末营业时间: ";
+"NearbySuning_NormalTime1"                  = "周中营业时间:";
+"NearbySuning_WeekendTime1"                 = "周末营业时间:";
+"NearbySuning_TrafficLine"                  = "交通线路";
+"NearbySuning_Bus"                          = "公交:";
+"NearbySuning_UnderLine"                    = "地铁:";
+"NearbySuning_ParkingLot"                   = "停车场";
+"NearbySuning_BusinessHours"                = "营业时间";
+"NearbySuning_OneToFive"                    = "周一至周五:";
+"NearbySuning_SixToSeven"                   = "周六至周日:";
+"NearbySuning_BusLine"                      = "乘车路线";
+"NearbySuning_Address"                      = "地址";
+"NearbySuning_Position"                     = "位置";
+"NearbySuning_Description"                  = "说明";
+"NearbySuning_Welcome"                      = "欢迎您";
+"NearbySuning_SpecialStoreActivity"         = "精选门店活动";
+"NearbySuning_CheaperInStore"               = "这些门店，常去逛逛更实惠！";
+"NearbySuning_CityMap"                      = "全城地图";
+"NearbySuning_Sign"                         = "签到";
+"NearbySuning_TodaySigned"                  = "今日已签";
+"NearbySuning_NetworkError"                 = "网络异常";
+"NearbySuning_SignedSuccess"                = "签到成功";
+"NearbySuning_SignedAndGet"                 = "签到成功，并获得";
+"NearbySuning_LocationNotOpen"              = "定位服务未开启";
+"NearbySuning_OpenLocationService"          = "请在系统设置中开启定位服务（ 设置>隐私>定位服务>苏宁易购)";
+"NearbySuning_NoStoreInfo"                  = "对不起，该城市暂无门店信息。";
+"NearbySuning_GetStoreInfoFailed"           = "对不起，获取门店信息失败。";
+"NearbySuning_List"                         = "列表";
+"NearbySuning_LocateDataFailed"             = "无法获取定位数据，请稍后再试！";
+"NearbySuning_StoreInfo"                    = "门店信息";
+"NearbySuning_NearHome_HomePage"            = "身边苏宁-身边苏宁主页-首页";
+"NearbySuning_NeedMicrophone"               = "需要访问您的麦克风";
+"NearbySuning_SetYouMicrophone"             = "请在系统设置中允许访问您的麦克风（ 设置>隐私>麦克风>苏宁易购)";
+"NearbySuning_CannotGetYouPosition"         = "无法获取您当前位置!";
+"NearbySuning_RecommendStore"               = "推荐好店:";
+"NearbySuning_AroundCitySuning"             = "全城苏宁";
+"NearbySuning_StoreActivity"                = "门店活动";
+"NearbySuning_SunshineService"              = "阳光服务";
+"NearbySuning_MySuning"                     = "我的苏宁";
+"NearbySuning_ActivityWaiting"              = "本城活动正在筹备中～敬请期待！";
+"NearbySuning_NearGoodStore"                = "身边好店:";
+"NearbySuning_GoodActivityWaiting"          = "精彩活动正在加载中";
+"NearbySuning_NetworkNotStable"             = "网络不稳定，请重试";
+"NearbySuning_GoToNearCity"                 = "您所在的城市没有苏宁门店，请去附近城市看看吧。";
+"NearbySuning_NoServiceGoToNearCity"        = "您所在的城市没有门店服务，请去附近城市看看吧。";
+"NearbySuning_GoToLook"                     = "去看看";
+"NearbySuning_NowLocateTo"                  = "当前定位至";
+"NearbySuning_GetNearStoreFailed"           = "对不起，获取附近门店信息失败。";
+"NearbySuning_ShareContent"                 = "你造么？？逛苏宁，打开手机APP，竟然能“听”到隐藏的神秘好礼！小伙伴们都来门店玩一把啊！http://t.cn/8soFaZr";
+"NearbySuning_Rewardstring0"                = "苏宁——用心打造卓越的O2O购物体验！\n逛苏宁，打开手机APP，能“听”到隐藏的神秘好礼哦~";
+"NearbySuning_Rewardstring1"                = "苏宁——用心打造卓越的O2O购物体验！\n恭喜您中奖啦！获得会员专属云钻！越多越值钱哦！";
+"NearbySuning_Rewardstring2"                = "苏宁——用心打造卓越的O2O购物体验！\n恭喜您中奖啦！获得苏宁云券一张！";
+"NearbySuning_Rewardstring3"                = "苏宁——用心打造卓越的O2O购物体验！\n恭喜您中奖啦！凭借下面的兑换码，可在指定处获得门店好礼！";
+"NearbySuning_MoreActivity"                 = "更多精彩活动,正在筹备中~敬请期待！";
+"NearbySuning_SeeNearStores"                = "看看您附近的门店吧！";
+"NearbySuning_ThisLocateCity"               = "您本次定位城市为";
+"NearbySuning_WillSwitch"                   = ",是否切换?";
+"NearbySuning_Yes"                          = "是";
+"NearbySuning_No"                           = "否";
+"NearbySuning_Liked"                        = "已喜欢";
+"NearbySuning_Canceled"                     = "已取消";
+"NearbySuning_LikeFailed"                   = "喜欢失败";
+"NearbySuning_CancelFailed"                 = "取消失败";
+"NearbySuning_AllOverCitySuningMap"         = "全城苏宁地图";
+"NearbySuning_GetStoreActivityInfoFailed"   = "对不起，获取门店活动信息失败。";
+"NearbySuning_GetStoreServiceInfoFailed"    = "对不起，获取门店服务信息失败。";
+"NearbySuning_NoStoreCollectionInfo"        = "对不起，暂无收藏门店信息。";
+"NearbySuning_StoreDetailInformation"       = "门店详情";
+"NearbySuning_IThink"                       = "我觉得 [";
+"NearbySuning_HengLaFeng"                   = "] 很拉风哦！通过易购手机APP→身边苏宁，发现了苏宁门店好多好玩的事情，好多划算的到店活动！快到你身边的苏宁来吧！晚了可就被挤爆了！";
+"NearbySuning_ChuanSongMen"                 = "传送门～～http://t.cn/zTdsooi";
+"NearbySuning_ServiceAndActivity"           = "服务和活动";
+"NearbySuning_StoreService"                 = "门店服务";
+"NearbySuning_CityAndStoreService"          = "全城服务门店服务";
+"NearbySuning_GetServiceStoreInfoFailed"    = "对不起，获取服务门店信息失败。";
+"NearbySuning_GetActivityStoreInfoFailed"   = "对不起，获取活动门店信息失败。";
+"NearbySuning_GoodStoreRecommend"           = "好店推荐";
+"NearbySuning_AllCityStore"                 = "全城门店";
+"NearbySuning_HotService"                   = "热门服务";
+"NearbySuning_MoreServiceAndHeart"          = "更多服务，更多诚意";
+"NearbySuning_ServiceInfo"                  = "服务信息";
+"NearbySuning_YouCanEnjoyService"           = "您可以在以下门店享受本服务";
+"NearbySuning_OnOrOffLine"                  = "线上 or 线下，活动就在身边！";
+"NearbySuning_NoServiceActivityThisStore"   = "当前门店没有活动和服务，去其他门店看看吧。";
+"NearbySuning_SeeOtherStores"               = "去其他门店看看";
+"NearbySuning_SelectNearbyCity"             = "选择附近的城市";
+"NearbySuning_ActivityIng"                  = "本店活动进行，快来参加吧！";
+"NearbySuning_ThisStoreProvidesService"     = "本店提供以下服务，快来体验吧！";
+"NearbySuning_FloorInfo"                    = "楼层信息";
+"NearbySuning_NoRelatedInfo"                = "无相关信息";
+"NearbySuning_BusRoute"                     = "公交路线";
+"NearbySuning_UnderLineRoute"               = "地铁路线";
+"NearbySuning_Telphone"                     = "电话";
+"NearbySuning_ServiceTel"                   = "客服电话:";
+"NearbySuning_CollectStoreYouLike"          = "快收藏一些自己喜欢的门店吧！";
+"NearbySuning_ActivityStoreLookDown"        = "活动门店：见下";
+"NearbySuning_ActivityBeginTime"            = "活动开始时间";
+"NearbySuning_ActivityEndTime"              = "活动结束时间";
+"NearbySuning_YouCanParticipateActivity"    = "您可以在以下门店参加本活动";
+"NearbySuning_NoStoreInLocalArea"           = "抱歉，该地区暂无苏宁门店！";
+"NearbySuning_NoServiceInLocalArea"         = "抱歉，该地区暂无门店服务！";
+"NearnySuning_NoActivityInLocalArea"        = "抱歉，该地区暂无门店活动！";
+"NearbySuning_NoStoreInThisActivity"        = "抱歉，该活动暂无门店！";
+"NearbySuning_NoStoreInThisService"         = "抱歉，该服务暂无门店！";
+
+//-------MyEBuy------------
+"Electronic membership card"                       = "电子会员卡";
+"MyEBuy_BindSuccess"                               = "绑定成功";
+"MyEBuy_NotBindYet"                                = "尚未绑定";
+"Electronic membership card number"                = "电子会员卡号";
+"MyEBuy_NotBind"                                   = "未绑定";
+"MyEBuy_Integral"                                  = "云       钻";
+"Store membership card"                            = "门店会员卡";
+"Immediately binding"                              = "立即绑定";
+"MyEBuy_NotBind_PleaseBindFirst"                   = "您的账号尚未绑定手机，请先进行手机绑定";
+"MyEBuy_GoToBind"                                  = "去绑定";
+"MyEBuy_ShowElectronicCardOrReceiveStoreCard"      = "您可在苏宁门店出示电子会员卡下单购物，也可以领取门店实体会员卡";
+"Sorry, not yet detected out shop membership card" = "抱歉，尚未检测出门店会员卡";
+"MyEBuy_MoneyAmount"                               = "金额";
+"MyEBuy_OrderId"                                   = "订单号";
+"MyEBuy_SubmissionTime"                            = "提交时间";
+"MyEBuy_ProductName"                               = "商品名称";
+"MyEBuy_ServiceType"                               = "服务类型";
+"MyEBuy_SuningSelf"                                = "苏宁自营";
+"MyEBuy_ReturnGoodsReason"                         = "退货原因";
+"MyEBuy_ReturnInstructions"                        = "退货说明";
+"MyEBuy_RefundWay"                                 = "退款方式";
+"MyEBuy_RequestToReturn"                           = "申请退货";
+"MyEBuy_ReturnOrderQuery"                          = "退货查询";
+"MyEBuy_ExpressName"                               = "快递名称";
+"MyEBuy_ExpressNumber"                             = "快递单号";
+"MyEBuy_DetailDescription"                         = "详细说明";
+"MyEBuy_PleaseInputExpressNumber"                  = "请输入快递单号";
+"MyEBuy_PleaseInputDetailDescription_NotRequired"  = "请输入详细说明（非必填）";
+"MyEBuy_ReturnAddress"                             = "退货地址";
+"MyEBuy_ContactWay"                                = "联系方式";
+"MyEBuy_Consignee"                                 = "收货人";
+"MyEBuy_GoodsReturnMode"                           = "商品返回方式";
+"MyEBuy_PickUpPackages"                            = "上门取件";
+"MyEBuy_TakeCharge"                                = "取件费";
+"MyEBuy_DeliveryToOriginalStore"                   = "送货至原门店自提点";
+"MyEBuy_OriginalStoreAddress"                      = "原门店地址";
+"MyEBuy_TakeAddress"                               = "取件地址";
+"MyEBuy_City"                                      = "市";
+"MyEBuy_Area"                                      = "区";
+"MyEBuy_Province"                                  = "省";
+"MyEBuy_ReturnsNumber"                             = "退货数量";
+"MyEBuy_ReturnCredentials"                         = "退货凭据";
+"MyEBuy_Invoice"                                   = "发票";
+"MyEBuy_PrepareInvoiceAndSendBackGoodsTogether"    = "请准备好发票和商品一起寄回";
+"MyEBuy_Pick-upTime"                               = "上门取件时间";
+"MyEBuy_PhoneNumber"                               = "号码";
+"MyEBuy_Contact"                                   = "联系人";
+"MyEBuy_PleaseEnterTheContactName"                 = "请输入联系人姓名";
+"MyEBuy_ContactNameShouldBeTwo~SixChineseCharacter"= "联系人名称应为2~6个中文字符";
+"MyEBuy_PleaseEnterTheContactMobilePhone"          = "请输入联系人手机";
+"MyEBuy_PleaseSelectPick-upDate"                   = "请选择上门取件日期";
+"MyEBuy_NoReasonToReturn"                          = "无理由退换货";
+"MyEBuy_PaymentWay"                                = "支付方式";
+"MyEBuy_RefundToYourPayAccount"                    = "退款至付款帐号";
+"MyEBuy_ServiceReason_NoReasonToReturn"            = "服务原因>无理由退换货";
+"MyEBuy_Delivery"                                  = "配送";
+"MyEBuy_PickedUpInStores"                          = "自提";
+"MyEBuy_ReadErcodePickedUpInStores"                = "扫一扫上面的二维码图标，直接取货";
+"MyEBuy_DetailAddressCantContainIllegalCharacters" = "详细地址不能包含非法字符!";
+"MyEBuy_DetailAddressCantContainEmoticons"         = "详细地址不能包含表情符号!";
+"MyEBuy_DetailAddressLessThanThirtyWords"          = "详细地址请输入30个字以内!";
+"MyEBuy_PleaseEnterTheContactPhoneNumber"          = "请输入联系人号码";
+"MyEBuy_PleaseSelectDate"                          = "请选择日期";
+"MyEBuy_PleaseEnterTheDetailReturnInstructions"    = "＊请输入详细的退货说明";
+"MyEBuy_NoReturnsOrder"                            = "您目前没有退货中订单哟";
+"MyEBuy_SelectReturnGoods"                         = "选择退货商品";
+"MyEBuy_NextStep"                                  = "下一步";
+"MyEBuy_ReturnInstructions"                        = "退换货须知";
+"MyEBuy_PleaseEnterReturnInstructions"             = "请输入退货说明";
+"MyEBuy_ReturnInstructionsLessThanSixtyWords"      = "退货原因不能超过60个字";
+"MyEBuy_Note:BusinessStaffWillContactYouSoon"      = "注：商家工作人员会尽快与您联系,为您办理退货事宜";
+"MyEBuy_SubmitReturnApplication"                   = "提交退货申请";
+"MyEBuy_PleaseSelect"                              = "请选择";
+"MyEBuy_SelectExpress"                             = "选择快递";
+"MyEBuy_PleaseSelectOrFillInTheExpress"            = "请选择或填写快递公司";
+"MyEBuy_PleaseFillInTheExpressNumber"              = "请填写快递单号";
+"MyEBuy_ConfirmTheDeliveryInformation"             = "确认快递信息？";
+"MyEBuy_FillInSendBackGoodsInformationSuccess"     = "填写寄回商品信息成功";
+"MyEBuy_Remarks"                                   = "备注信息";
+"MyEBuy_Get"                                       = "获得";
+"MyEBuy_Expenditure"                               = "支出";
+"MyEBuy_CurrentIntegralBalance"                    = "当前云钻余额";
+"MyEBuy_GoToEarnIntegral"                          = "去赚云钻";
+"MyEBuy_YourIntegralActivateSuccess"               = "您的云钻已成功激活";
+"MyEBuy_Score"                                     = "分";
+"MyEBuy_IntegralRule"                              = "云钻规则";
+"MyEBuy_PleaseGoToWebsiteToActivateEmailAccount"   = "邮箱账号请至网站进行激活";
+"MyEBuy_Rules"                                     = "规则";
+"MyEBuy_YouHaveNoIntegralAndGoToEarn"              = "您现在还没有云钻哦，赶紧去赚云钻吧！";
+"MyEBuy_GoToDraw"                                  = "去抽奖";
+"MyEBuy_CanUseCoupons"                             = "可使用优惠券";
+"MyEBuy_SalesAmount"                               = "销售金额";
+"MyEBuy_ChangeAmount"                              = "变化金额";
+"MyEBuy_StartDate"                                 = "起始日期";
+"MyEBuy_Deadlines"                                 = "截至日期";
+"MyEBuy_OperationDate"                             = "操作日期";
+"MyEBuy_CouponDetails"                             = "优惠券明细";
+"MyEBuy_Coupons"                                   = "优惠券";
+"MyEBuy_IntegralCoupons"                           = "电子礼金券";
+"MyEBuy_UseOfRules"                                = "使用规则";
+"MyEBuy_SuningDelivery"                            = "苏宁配送";
+"MyEBuy_Completed"                                 = "已完成";
+"MyEBuy_WaitingForPay"                             = "待支付";
+"MyEBuy_WaitingForPay2"                            = "等待支付";
+"MyEBuy_WaitingForReceive"                         = "待收货";
+"MyEBuy_WaitingForEvaluate"                        = "待评价";
+"MyEBuy_Returning"                                 = "退货中";
+"MyEBuy_SomeGoodsDelivered"                        = "部分已发货";
+"MyEBuy_HaveBeenDelivered"                         = "已发货";
+"MyEBuy_HavePaid"                                  = "已支付";
+"MyEBuy_HaveReturned"                              = "已退货";
+"MyEBuy_HaveCanceled"                              = "已取消";
+"MyEBuy_OrderAbnormal"                             = "订单异常";
+"MyEBuy_OrderProcessing"                           = "订单处理中";
+"MyEBuy_WaitingDeliver"                            = "待发货";
+"MyEBuy_InShoppingCart"                            = "购物车中";
+"MyEBuy_Paying"                                    = "正在支付中";
+"MyEBuy_DeliverProcessing"                         = "发货处理中";
+"MyEBuy_OrderCanceled"                             = "订单已取消";
+"MyEBuy_ReturnSuccess"                             = "退货成功";
+"MyEBuy_PaidSuccess"                               = "支付成功";
+"MyEBuy_CashOnDelivery"                            = "货到付款";
+"MyEBuy_SellerDelivered"                           = "卖家已发货";
+"MyEBuy_ReceivingComplete"                         = "收货完成";
+"MyEBuy_Submitted"                                 = "已提交";
+"MyEBuy_ExceptionHandling"                         = "处理异常";
+"MyEBuy_Processed"                                 = "已处理";
+"MyEBuy_Effected"                                  = "已生效";
+"MyEBuy_Outbounded"                                = "已出库";
+"MyEBuy_CashOnDelivery_ReceivedAndPaid"            = "货到付款已收已付";
+"MyEBuy_ReturnsProcessing"                         = "退换货处理中";
+"MyEBuy_RedFinish"                                 = "冲红完成";
+"MyEBuy_RefundCompleted"                           = "退款完成";
+"MyEBuy_ConfirmReceipt"                            = "确认收货";
+"MyEBuy_CheckExpress"                              = "查看物流";
+"MyEBuy_Evaluate"                                  = "评价";
+"MyEBuy_AnonymousEvaluate"                         = "匿名评价";
+"MyEBuy_DisplayOrder"                              = "晒单";
+"MyEBuy_EvaluateOrDisplayOrder"                    = "评价/晒单";
+"MyEBuy_EvaluateDisplayOrder"                      = "评价晒单";
+"MyEBuy_Payment"                                   = "支付";
+"MyEBuy_CheckCode"                                 = "校验码";
+"MyEBuy_DeliveryWay"                               = "送货方式";
+"MyEBuy_HomeDelivery"                              = "送货上门";
+"MyEBuy_InvoiceType"                               = "发票类型";
+"MyEBuy_ElectronicInvoice"                         = "电子发票";
+"MyEBuy_InvoiceHeader"                             = "发票抬头";
+"MyEBuy_ElectronicInvoiceInformation"              = "电子发票信息";
+"MyEBuy_MoreElectronicInvoiceInformation"          = "更多电子发票信息";
+"MyEBuy_OrderTime"                                 = "下单时间";
+"MyEBuy_OrderStatus"                               = "订单状态";
+"MyEBuy_StorePayment"                              = "门店支付";
+"MyEBuy_OrdinaryInvoice"                           = "普通发票";
+"MyEBuy_VATinvoice"                                = "增值税发票";
+"MyEBuy_ContactInformation"                        = "联系人信息";
+"MyEBuy_RefundNumber"                              = "退款数量";
+"MyEBuy_LessThan"                                  = "最多可以";
+"MyEBuy_Nnit"                                      = "个";
+"MyEBuy_CancelOrder"                               = "取消订单";
+"MyEBuy_SubmitApplications"                        = "提交申请";
+"MyEBuy_ApplyForRefund"                            = "申请退款";
+"MyEBuy_PaymentCompleted"                          = "支付完成";
+"MyEBuy_BuyerLeaveWord"                            = "买家留言";
+"MyEBuy_LogisticsCompany"                          = "物流公司";
+"MyEBuy_DeliveryAddress"                           = "送货地址";
+"MyEBuy_InvoiceCode"                               = "发票代码";
+"MyEBuy_InvoiceNumber"                             = "发票号码";
+"MyEBuy_PrintPassword"                             = "打印密码";
+"MyEBuy_InvoiceContent"                            = "发票内容";
+"MyEBuy_OrderAmount"                               = "订单金额";
+"MyEBuy_AmountOfGoods"                             = "商品金额";
+"MyEBuy_CardDiscount"                              = "卡券优惠";
+"MyEBuy_FreightAmount"                             = "运费金额";
+"MyEBuy_PackageInformation"                        = "套餐信息";
+"MyEBuy_Contract"                                  = "合约期";
+"MyEBuy_Months"                                    = "个月";
+"MyEBuy_OrderCode"                                 = "订单编号";
+"MyEBuy_Package"                                   = "包裹";
+"MyEBuy_ExpectedArrival"                           = "预计到货";
+"MyEBuy_ExpectedArrivalTime"                       = "预计到货时间";
+"MyEBuy_ExpectedArrivalTime2"                      = "预计到达时间";
+"MyEBuy_CopyOrderNumber"                           = "复制订单号";
+"MyEBuy_AreYouSureToDeleteOrder"                   = "您确定删除此订单吗？";
+"MyEBuy_UnitPrice"                                 = "单价";
+"MyEBuy_Prompt"                                    = "温馨提示 : 此类商品支持无理由退换货,要求商品及包装保持苏宁易购出售时原装且配件,说明书保修卡,赠品,发票等齐全(注 : 未打开塑料包装和商品外包装或撕开开箱即损贴纸)";
+"MyEBuy_DeliveryInformation"                       = "送货详情";
+"MyEBuy_Total"                                     = "合计";
+"MyEBuy_Address"                                   = "地址";
+"MyEBuy_Telephone"                                 = "电话";
+"MyEBuy_TotalPayment"                              = "支付总额";
+"MyEBuy_SellersDelivery"                           = "您的商品由卖家自行配送";
+"MyEBuy_Operator"                                  = "操作人";
+"MyEBuy_DialTheNumber"                             = "拨打号码";
+"MyEBuy_CopyTheText"                               = "复制文本";
+"MyEBuy_SunshinePackage"                           = "阳光包";
+"MyEBuy_SetDate"                                   = "yyyy年MM月dd日 HH:mm:ss";
+"MyEBuy_AreYouSureToCancelOrder"                   = "确认取消订单吗？";
+"MyEBuy_OrderCanceling"                            = "订单取消中...";
+"MyEBuy_PaymentPreparing"                          = "支付准备中...";
+"MyEBuy_SecondPaymentPreparing"                    = "二次支付准备中...";
+"MyEBuy_SecondPreparing"                           = "二次准备中...";
+"MyEBuy_EfubaoAccountIsntActivatedAndGoToActivate" = "易付宝账户未激活，现在去激活";
+"MyEBuy_GoodsOrder"                                = "商品订单";
+"MyEBuy_StoreOrder"                                = "门店订单";
+"MyEBuy_Recharge"                                  = "话费充值";
+"MyEBuy_LotteryOrder"                              = "彩票订单";
+"MyEBuy_WaterFeePayment"                           = "水费缴纳";
+"MyEBuy_ElectricityFeePayment"                     = "电费缴纳";
+"MyEBuy_GasFeePayment"                             = "燃气费缴纳";
+"MyEBuy_ManzuoOrder"                               = "满座订单";
+"MyEBuy_GroupLife"                                 = "生活团购";
+"MyEBuy_NoWaitingForPayOrders"                     = "您当前还没有待支付订单哟";
+"MyEBuy_NoWaitingForReceiveOrders"                 = "您当前还没有待收货订单哟";
+"MyEBuy_NoGoodsOrders"                             = "您当前还没有商品订单哟";
+"MyEBuy_NoStoreOrders"                             = "您当前还没有门店订单哟";
+"MyEBuy_NoRechargeOrders"                          = "您当前还没有话费充值订单哟";
+"MyEBuy_NoLotteryOrders"                           = "您当前还没有彩票订单哟";
+"MyEBuy_NoWaterFeePaymentOrders"                   = "您当前还没有水费缴纳订单哟";
+"MyEBuy_NoElectricityFeePaymentOrders"             = "您当前还没有电费缴纳订单哟";
+"MyEBuy_NoGasFeePaymentOrders"                     = "您当前还没有燃气费缴纳订单哟";
+"MyEBuy_NoTicketOrders"                            = "您当前还没有机票订单哟";
+"MyEBuy_NoHotelOrders"                             = "您当前还没有酒店订单哟";
+"MyEBuy_NoDeliveredOrders"                         = "您当前还没有已发货订单哟";
+"MyEBuy_NoReceiptedOrders"                         = "您当前还没有收货完成订单哟";
+"MyEBuy_NoProcessingOrders"                        = "您当前还没有发货处理中订单哟";
+"MyEBuy_NoOrders"                                  = "您当前还没有订单哟";
+"MyEBuy_DeleteSuccess"                             = "删除成功";
+"MyEBuy_DisplayItem"                               = "晒出主题";
+"MyEBuy_DisplayTheseWords"                         = "这些话要晒出来~";
+"MyEBuy_DisplayOrderToGetIntegral"                 = "晒单争取云钻哦～";
+"MyEBuy_Grade"                                     = "打个分呗";
+"MyEBuy_IsSatisfied"                               = "这次购物还满意吗~";
+"MyEBuy_ServiceSatisfaction"                       = "服务满意度";
+"MyEBuy_ExpressSatisfaction"                       = "物流满意度";
+"MyEBuy_TellTheseWordsToFriends"                   = "这些话要告诉小伙伴们";
+"MyEBuy_UploadThreePhotosAndObtainIntegral"        = "请上传三张照片，三张有机会获得云钻哦~";
+"MyEBuy_EvaluateSuccess"                           = "评价成功";
+"MyEBuy_GoodsHasEvaluated"                         = "亲,商品已评价过了哦!";
+"MyEBuy_GoodsHasDisplayed"                         = "亲,商品已晒单过了哦!";
+"MyEBuy_NoGoodsLogisticsQueryInformation"          = "暂无该商品的物流查询信息!";
+"MyEBuy_StoreLogisticsQuery"                       = "门店物流查询";
+"MyEBuy_OrderDetails"                              = "订单详情";
+"MyEBuy_AllOrders"                                 = "全部订单";
+"MyEBuy_PaidOrders"                                = "已支付订单";
+"MyEBuy_WaitingForPayOrders"                       = "待支付订单";
+"MyEBuy_ProcessingOrders"                          = "发货处理中订单";
+"MyEBuy_CanceledOrders"                            = "已取消订单";
+"MyEBuy_ReturnSuccessOrders"                       = "退货成功订单";
+"MyEBuy_HaveBeenDeliveredOrders"                   = "已发货订单";
+"MyEBuy_ReceiptedOrders"                           = "收货完成订单";
+"MyEBuy_NearlyOneMonth"                            = "近一月";
+"MyEBuy_NearlySixMonths"                           = "近六月";
+"MyEBuy_SecondsAndSendAgain"                       = "秒后再发送";
+"MyEBuy_Account"                                   = "账   户:";
+"MyEBuy_Account2"                                  = "账    户";
+"MyEBuy_MobilePhoneNumber"                         = "手机号";
+"MyEBuy_PleaseEnterConfirmPassword"                = "请输入确认密码";
+"MyEBuy_Nickname"                                  = "昵    称";
+"MyEBuy_MyCoupon"                                  = "我的易购券";
+"MyEBuy_AddNickname"                               = "添加昵称";
+"MyEBuy_EnterNickname"                             = "请输入昵称";
+"MyEBuy_NicknameLessThanTwentyWords"               = "昵称不能超过20位";
+"MyEBuy_NicknameContainSpecialCharacterEnterAgain" = "用户昵称中包含特殊字符，请重新输入昵称";
+"MyEBuy_NicknameBanTwelveNumberAndEnterAgain"      = "用户昵称禁止使用12位数字，请重新输入昵称";
+"MyEBuy_NicknameBanElevenNumberBeginWithOne"       = "用户昵称禁止使用以1开头的11位数字，请重新输入昵称";
+"MyEBuy_NicknameCannotContainSpaces"               = "用户昵称不能含有空格";
+"MyEBuy_WelcomeToSuningEBuy"                       = "Hi,欢迎来到苏宁易购!";
+"MyEBuy_WelcomeToMyEBuy"                           = "***，您好！欢迎进入我的易购！";
+"MyEBuy_LoginOrRegistration"                       = "登录/注册";
+"MyEBuy_OrdinaryMember"                            = "普通会员";
+"MyEBuy_SilverMember"                              = "银卡会员";
+"MyEBuy_GoldMember"                                = "金卡会员";
+"MyEBuy_PlatinumMember"                            = "白金会员";
+"MyEBuy_Unactivated"                               = "未激活";
+"MyEBuy_SelectChangeIconWay"                       = "选择更改头像方式";
+"MyEBuy_CommodityReservation"                      = "商品预约";
+"MyEBuy_VgouReservation"                           = "V购预约";
+"MyEBuy_MyInternet"                                = "我的互联";
+"MyEBuy_MyCollection"                              = "我的收藏";
+"MyEBuy_MyReservation"                             = "我的预约";
+"MyEBuy_MySSize"                                   = "我的S码";
+"MyEBuy_AddressManagement"                         = "地址管理";
+"MyEBuy_MyConsultation"                            = "我的咨询";
+"MyEBuy_UserFeedBack"                              = "用户反馈";
+"MyEBuy_Efubao"                                    = "易付宝";
+"NoMoreCollection"                                 = "没有更多的收藏";
+"MyEBuy_BuyNow"                                    = "立即购买";
+"MyEBuy_SoldOut"                                   = "售罄";
+
+
+
+//---------UserFeedBack----------------
+"UserFeedBack_InputYourEmail"               = "请输入您的邮箱";
+"UserFeedBack_InputYourPhoneNum"            = "请输入您的手机号";
+"UserFeedBack_InputYourEmailCorrectly"      = "请正确输入您的邮箱";
+"UserFeedBack_InputYourPhoneNumCorrectly"   = "请正确输入您的手机号";
+"UserFeedBack_FuncOperationSug"             = "功能操作意见";
+"UserFeedBack_GUISug"                       = "界面意见";
+"UserFeedBack_YourNewNeeds"                 = "您的新需求";
+"UserFeedBack_OrderConsult"                 = "订单咨询";
+"UserFeedBack_RepairConsult"                = "送安维咨询";
+"UserFeedBack_ReturnAndChangeGoodsConsult"  = "退换货咨询";
+"UserFeedBack_FeedBackType"                 = "反馈类型";
+"UserFeedBack_Tips1"                        = "感谢您使用苏宁易购，您有任何问题，都可以咨询我们，如果与订单有关，可在下方输入订单号:";
+"UserFeedBack_Tips2"                        = "如果您对我们的软件还有更多的意见和建议，欢迎提出，您的意见将是我们前进的动力";
+"UserFeedBack_CanCopyInOrderCenter"         = "可在订单中心复制";
+"UserFeedBack_IsSatisfied"                  = "用的还满意吗？欢迎提出您宝贵的意见";
+"UserFeedBack_PhonenumAndEmail"             = "手机号/E-mail";
+"UserFeedBack_InputYourOpinion"             = "请输入您的意见(150字以内)";
+"UserFeedBack_MessageConstrained"           = "留言不能超过150个字";
+"UserFeedBack_InputYourContactWay"          = "请输入您的联系方式，方便我们及时与您取得联系";
+"UserFeedBack_InputPhoneAndEmailCorrectly"  = "请输入正确的邮箱或手机号";
+"UserFeedBack_Complain"                     = "吐槽";
+"UserFeedBack_Consult"                      = "咨询";
+
+
+
+///--------OnSale--------
+"OSHotTopic"                                = "促销专题";
+"OSSorryForEnd"                             = "抱歉，活动已结";
+"OSHotPage"                                 = "易周热销榜";
+"OSNoActivity"                              = "暂无相关活动，我们正在努力维护";
+
+///--------BusinessTravel-------
+"BTTotal"                                   = "合计:";
+"BTTotal2"                                  = "合计 : ";
+"BTOrderCode"                               = "订单编号:";
+"BTHotelPartOne"                            = "房间";
+"BTHotelPartTwo"                            = "客人姓名应该为2-6位中文字符";
+"BTMoveIntoTime"                            = "入住最早到店时间须大于当前时间";
+"BTPleaseAgreeNegotiate"                    = "请同意《苏宁酒店协议》";
+"BTPleaseWait"                              = "提交订单中,请稍后";
+"BTRoomOrderNumber"                         = "预订房间数:";
+"BTComeTime"                                = "入住日期:";
+"BTLeaveTime"                               = "离店日期:";
+"BTGuestName"                               = "客人名称";
+"BTEarlyArriveTime"                         = "最早到店时间:";
+"BTLaterArriveTime"                         = "最迟到店时间:";
+"BTPleaseInputName"                         = "请输入联系人姓名";
+"BTPleaseInputMobileNumber"                 = "请输入联系人手机号码";
+"BTOrderNumber"                             = "订单金额:";
+"BTSorryForSubmitOrder"                     = "非常抱歉，您的订单提交失败";
+"BTHotelQuery"                              = "酒店搜索";
+"BTBeijing"                                 = "北京";
+"BTIrrestriction"                           = "不限";
+"BTHotel"                                   = "公寓";
+"BTBenefitHotel"                            = "经济客栈";
+"BTThreeStar"                               = "三星舒适";
+"BTFourStar"                                = "四星高档";
+"BTFiveStar"                                = "五星豪华";
+"BTMoveIntoCity"                            = "入住城市";
+"BTHotelPosition"                           = "酒店位置";
+"BTLivingDays"                              = "入住天数";
+"BTPriceSection"                            = "价格区间";
+"BTPleaseChooseCityFirst"                   = "对不起，请先选择城市";
+"BTOk"                                      = "好";
+"BTChooseArriveTime"                        = "选择入住时间";
+"BTOnlyCanOrderWithinThreeMonth"            = "对不起，只能预定三个月之内的房间";
+"BTMustArriveWithin1-20Days"                = "对不起，入住天数应为1至20天";
+"BTTopCity"                                 = "热门城市";
+"BTCommerceCircle"                          = "商业圈";
+"BTAdministrativeRegion"                    = "行政区";
+"BTCommerceCircleChoosePartOne"             = "您是按照商圈选择的，你选择的商圈id是：";
+"BTCommerceCircleChoosePartTwo"             = "对应名称为:";
+"BTAdministrativeRegionChoosePartOne"       = "您是按照行政区选择的，你选择的行政区id是：";
+"BTAdministrativeRegionChoosePartTwo"       = "所属行政区为:";
+"BTCanNotSearchForThisKindOfHotel"          = "很抱歉，暂时搜不到该类酒店";
+"BTStart"                                   = "起";
+"BTHotelServe"                              = "酒店服务";
+"BTHotelRestaurantFacility"                 = "酒店餐厅设施";
+"BTHotelLeisureFacility"                    = "酒店休闲设施";
+"BTHotelMeetingFacility"                    = "酒店会议设施";
+"BTUnionPayBankCard"                        = "支持的银联卡";
+"BTSquareMetre"                             = "平米";
+"BTLayer"                                   = "层";
+"BTRoomHave"                                = "有房";
+"BTRoomFull"                                = "满房";
+"BTIdentityCard"                            = "身份证";
+"BTMilitaryCredentials"                     = "军官证";
+"BTGoBackHomeCredentials"                   = "回乡证";
+"BTHKMacaoPass"                             = "港澳通行证";
+"BTTaiwanCompatriotCredentials"             = "台胞证";
+"BTNewBordingManage"                        = "新增登机人";
+"BTModifyBordingManage"                     = "登机人修改";
+"BTChild"                                   = "小孩";
+"BTPleaseInputCredentialsNumber"            = "请输入证件号码";
+"BTNumberIsTooLong"                         = "对不起，证件号码长度不得输入超过40位。";
+"BTPassengerNameRule"                       = "登机人姓名规则";
+"BTMakeSureOneAdult"                        = "请确保登机人员中有一位为成人";
+"BTDeletePassengeSuccess"                   = "删除登机人成功";
+"BTPleaseInputName"                         = "请输入姓名";
+"BTCredentialsKind"                         = "证件类型：";
+"BTCredentialsNumber"                       = "证件号码：";
+"BTBirthdayDate"                            = "出生日期：";
+"BTPleaseInputBirthdayDate"                 = "请输入出生日期";
+"BTPleaseCheckPassengeName"                 = "请注意核对乘机人姓名，一旦出票姓名不能更改，只能按照自愿退票处理。";
+"BTPassengeCanNotBeEmpty"                   = "登机人不能为空";
+"BTNameContainIllegalCharacter"             = "姓名中包含非法字符，请重新输入";
+"BTNameContainBlankCharacter"               = "姓名中含有空白字符，请重新输入";
+"BTPleaseInputNameCorrect"                  = "中文姓名应介于2-10位之间，请正确输入您的姓名";
+"BTCanNotInputSyllableBehindCharacter"      = "您输入的格式不正确，拼音后面不能再输入汉字，请用拼音替代";
+"BTUseAndFollowOrder"                       = "填写英文姓名请在姓与名之间用\"/\"分隔，并按照证件上的姓名顺序填写";
+"BTFollowOrderToInputName"                  = "请参照“乘机人姓名填写规则”填写姓名";
+"BTIdentityCardNumberCanNotBeEmpty"         = "身份证号码不能为空";
+"BTIdentityCardLongError"                   = "身份证号码位数不对！";
+"BTIDContainIllegalCharacterOrError"        = "身份证号码含有非法字符或出生日期超出范围";
+"BTTianjin"                                 = "天津";
+"BTIDAreaIllegal"                           = "身份证地区非法！";
+"BTMakeSureToGoBackToOrderPage"             = "确定返回后将进入机票订单页面，您可查看订单信息并继续支付";
+"BTOrderPaySuccess"                         = "订单付款成功";
+"BTHaveCancelledPayForThisOrder"            = "您已取消了本次订单的支付";
+"BTEndorseRule"                             = "退改签规则";
+"BTMakeEndorseAsNorm"                       = "以实际退改签规则为准；";
+"BTEndorseRuleGetError"                     = "改签规则获取失败，请稍后再试";
+"BTPleaseChooseDistributionRegion"          = "请选择配送地址！";
+"BTTotal"                                   = "合计：";
+"BTOneWay"                                  = "单程";
+"BTGoWay"                                   = "去程";
+"BTGoBackWay"                               = "返程";
+"BTYourOrderHasCancelled"                   = "您的订单已经取消，请重新选择";
+"BTOrderCancelledError"                     = "订单取消失败，是否到我的商旅中手动取消订单。";
+"BTGetInsuranceTypeFail"                    = "获取险种失败";
+"BTFlightDate"                              = "航班日期: ";
+"BTFly"                                     = "起飞: ";
+"BTFly1"                                    = "起飞：";
+"BTFly2"                                    = "起飞";
+"BTLand"                                    = "降落: ";
+"BTLand1"                                   = "降落：";
+"BTLand2"                                   = "降落";
+"BTAirTicketPrice"                          = "机票单价：";
+"BTBunkerSurcharge"                         = "机建费/燃油税：";
+"BTEndorse"                                 = "退改签";
+"BTPassengerInfo"                           = "登机人信息";
+"BTPassengerManage"                         = "登机人管理";
+"BTNoPassengerInfo"                         = "暂无登机人信息，请点击按钮添加";
+"BTSchedulePeopleInfo"                      = "预定人信息";
+"BTName"                                    = "姓名:";
+"BTDoNotNeedReimburseProof"                 = "我不需要报销凭证";
+"BTFriendlyRemindOne"                       = "友情提醒，不要行程单，在机票退改时会更加方便，行程单仅作报销凭证，不是登机和理赔的必要证件。";
+"BTTakeSelfForFree"                         = "机场自取-免费";
+"BTFriendlyRemindTwo"                       = "友情提示:凭有效证件到机场航空公司柜台免费领行程单。(部分机场支持)";
+"BTSuningDistributionForFree"               = "苏宁免费配送";
+"BTMailTravelListForFree"                   = "免费邮寄行程单，我们会在飞机起飞后的次日寄出，一般7~15天到达";
+"BTAddress"                                 = "地址:";
+"BTChooseTravelList"                        = "行程单选择";
+"BTDistributionInfo"                        = "配送信息";
+"BTChangeDistributionAddress"               = "更改配送地址";
+"BTIDoNotNeedInsurance"                     = "我不需要保险";
+"BTInsuranceDetails"                        = "保险详情:";
+"BTYuanPerPortion"                          = "元/份";
+"BTPortion"                                 = "份数：";
+"BTPairOfInsurance"                         = "双保";
+"BTSunnyAccidentTrafficInsurance"           = "阳光意外交通险";
+"BTSuningPresent"                           = "苏宁赠送";
+"BTInsuranceChoose"                         = "保险选择";
+"BTChooseInsuranceKind"                     = "选择险种";
+"BTRescheduleRule"                          = "改期规则：";
+"BTUpdataRule"                              = "升舱规则：";
+"BTTransferRule"                            = "签转规则：";
+"BTRefundRule"                              = "退票规则：";
+"BTSorryForPayFail"                         = "很抱歉，订单支付失败";
+"BTErrorForCodeThreeTimes"                  = "密码错误超过3次，账号已被冻结，24小时后自动解锁!";
+"BTTicketsNotEnough"                        = "非常抱歉，机票库存不足，您可重新选择航班";
+"BTOrderHasOverrun1"                        = "订单已超时，并自动取消，或已经完成支付，您可查看最新状态";
+"BTOrderHasOverrun2"                        = "订单已超时，并自动取消，系统将在5分钟后办理退款";
+"BTSorryForSystermBusy"                     = "非常抱歉，系统繁忙，请稍后再试";
+"BTCodeErrorThirdTimes"                     = "密码错误，第3次";
+"BTGetOrderFail"                            = "非常抱歉，保险下单失败，是否选择支付无保险的订单";
+"BTPriceHasChanged"                         = "该订单价格已变为%@,易购券%@,是否选择继续支付";
+"BTPriceHasChanged1"                        = "该订单价格已变化是否选择继续支付";
+"BTPriceHasChanged2"                        = "非常抱歉，该订单价格已变为%@,,易购券%@,并且保险下单失败，是否选择支付无保险订单";
+"BTPriceHasChanged3"                        = "该订单价格已变化并且保险下单失败，是否选择支付无保险订单";
+"BTCommunicationError"                      = "通信异常，请稍后再试";
+"BTAirTicketIsOver"                         = "该机票已经售罄，请重新选购";
+"BTOrderSubmitFail"                         = "订单提交失败，请重新选购";
+"BTAskForYourChoice"                        = "该订单中有顾客已经选择了此航班，是否到订单中心，选择付款或取消订单";
+"BTOther"                                   = "其它";
+"BTNotNeedReimburseProof"                   = "不需要报销凭证";
+"BTOnlineBankPay"                           = "网银支付";
+"BTEbuy--OnlineBankPay"                     = "易付宝支付--网银支付";
+"BTEbuy--NimblePay"                         = "易付宝支付--快捷支付";
+"BTRemitPay"                                = "汇付天下";
+"BTOrderId"                                 = "订单号：";
+"BTNumber"                                  = "数量：";
+"BTInsurance"                               = "保险：";
+"BTInsurance1"                              = "保险";
+"BTPayNow"                                  = "立即付款";
+"BTAboutHourMinute"                         = "约%d小时%d分";
+"BTBorderManager"                           = "登机人";
+"BTElectronOrderId"                         = "电子客单号";
+"BTInsuranceId"                             = "保险单号";
+"BTAirTicketPrice"                          = "机票价格";
+"BTBunker"                                  = "机建费";
+"BTFuelCost"                                = "燃油费";
+"BTCost"                                    = "小计";
+"BTReserveMan"                              = "预订人";
+"BTVoyageListDistribution"                  = "航程单配送";
+"BTPayment"                                 = "支付方式";
+"BTCallCustomerService"                     = "呼叫客服";
+"BTReturnedTicket"                          = "退票：";
+"BTTransfer"                                = "签转：";
+"BTReschedule"                              = "改期：";
+"BTIssuingTicket"                           = "正在出票";
+"BTHaveREfunded"                            = "已退票";
+"BTIssueTicketSuccess"                      = "出票成功";
+"BTChanging"                                = "变更中";
+"BTCancel_Order_Success"                    = "订单取消成功";
+"BTRefundAndChangeService"                  = "退改签服务";
+"BTWeProvideServiceOfRefundAndChangeBunk"   = "我们为您提供退票、免费同等舱位更改的服务：";
+"BTCall4008_766_766"                        = "呼叫 4008-766-766";
+"BTYearAndMonth"                            = "%li年%d月";
+"BTOriginalCity"                            = "出发城市：";
+"BTArriveCity"                              = "到达城市：";
+"BTOriginalDate"                            = "出发日期：";
+"BTBackDate"                                = "返回日期：";
+"BTSingleTicket"                            = "单程机票";
+"BTRoundTripTicket"                         = "往返机票";
+"BTFlight"                                  = "航班";
+"BTStartAndArriveCanNotBeSameCity"          = "出发和抵达城市不能相同!";
+"BTFlightList--GoBack"                      = "航班列表--返程";
+"BTFlightList--Go"                          = "航班列表--去程";
+"BTFlightList--SingleWay"                   = "航班列表--单程";
+"BTFirstClassCabin"                         = "头等舱";
+"BTOfficalCabin"                            = "公务舱";
+"BTEconomyClass"                            = "经济舱";
+"BTSorryForNoFlight"                        = "对不起，暂无航班";
+"BTAirlineCompany"                          = "航空公司";
+"BTSale"                                    = "折";
+"BTEbuyPriceReduction"                      = "易购直降";
+"BTReturnTicket"                            = "返券--";
+"BTReturnTicket1"                           = "返券";
+"OSNoActivity"                              = "暂无相关活动，我们正在努力维护";
+
+
+
+//----------Purchase------------------------
+"Purchase_OriginalPrice"                    = "原价";
+"Purchase_LimitedAmount"                    = "限量";
+"Purchase_Jian"                             = "件";
+"Purchase_PurchaseOut"                      = "抢光了";
+"Purchase_OnlyRemain"                       = "仅剩";
+"Purchase_LeftToBegin"                      = "距开始";
+"Purchase_LeftToEnd"                        = "距结束";
+"Purchase_Rule"                             = "规则";
+"Purchase_LimitedTimePurchase"              = "限时抢购";
+
+
+
+//-----------DJGroup------------------------------
+"DJGroup_Zhe"                               = "折";
+"DJGroup_OriginalPrice"                     = "原  价:";
+"DJGroup_CurrentPrice"                      = "现  价:";
+"DJGroup_Save"                              = "节  省:";
+"DJGroup_FaHuoHou"                          = "预计发货后";
+"DJGroup_NeiDaoDa"                          = "内送达";
+"DJGroup_NotOnSale"                         = "此地暂不销售";
+"DJGroup_AlreadyGroupBuy"                   = "已团购";
+"DJGroup_QuickOrder"                        = "件，数量有限，下单要快哟！";
+"DJGroup_SendTo"                            = "送至";
+"DJGroup_NowOrder"                          = "现在下单";
+"DJGroup_Cu"                                = "促";
+"DJGroup_GroupBuyPrice"                     = "团购价";
+"DJGroup_SaveMoney"                         = "节省";
+
+
+
+//-----------Imformation----------------------
+"Imformation_CheckAll"                      = "查看全部";
+"Imformation_Month"                         = "月";
+"Imformation_Day"                           = "日";
+"Imformation_NewsDetail"                    = "资讯详情";
+"Imformation_NetworlLinkFailed"             = "网络连接失败";
+"Imformation_NewsCenter"                    = "消息中心";
+
+
+
+//----------SNRouter&SNSwitch---------------------
+"SNRouteSwitch_QRCode"                      = "二维码";
+"SNRouteSwitch_Tips"                        = "您的订单已经提交，请尽快支付，如果您此时不便，您可以稍后去我的易购订单中心选择支付此订单！";
+"SNRouteSwitch_IncorrectNetwork"            = "不正确的网络链接";
+"SNRouteSwitch_SorryActivityEnd"            = "对不起，活动已结束";
+"SNRouteSwitch_NotSupportScanPay"           = "抱歉，易购客户端暂不支持扫码支付";
+"SNRouteSwitch_PurchaseEndOrNoInfo"         = "抢购活动已结束或无此抢购信息";
+"SNRouteSwitch_CannotIndentfyLink"          = "很抱歉，不能识别的跳转链接";
+"SNRouteSwitch_CannotFindThisCategory"      = "很抱歉，未能找到该类目";
+"SNRouteSwitch_StoreVisitedNotExist"        = "很抱歉，你要访问的店铺不存在！";
+"SNRouteSwitch_WaitingForPay"               = "待支付";
+"SNRouteSwitch_WaitingForReceive"           = "待收货";
+"SNRouteSwitch_WrongQRCode"                 = "很抱歉，错误的支付二维码";
+
+
+
+//---------Commands--------------------
+"Commands_AutoLogin"                        = "正在自动登录。。。";
+"Commands_PositionServiceNotWork"           = "位置服务不可用，您可以进入设置开启位置服务";
+
+
+///--------MyBusinessTravel----------
+"MBTAirTicket"                              = "我的机票";
+"MBTDoNotBuyTicket"                         = "您尚未购买过机票！";
+"MBTNoTicketForThisState"                   = "该状态机票尚无";
+
+
+///--------VirtualProduct--------
+"VPNotInAddressBook"                        = "不在通讯录中";
+"VPEbuyWantToVisitYourAddressBook"          = "“苏宁易购”想访问您的通讯录";
+"VPNoPermission"                            = "不允许";
+"VPPleaseOpenThePermissionOfAddressBook"    = "请开启访问通讯录的授权";
+"VPInputMobileNumber"                       = "请输入充值手机号码";
+"VPSale"                                    = "售价";
+"VPPayNow"                                  = "立即充值";
+"VPPayImmediately"                          = "立即缴费";
+"VPAskForPayHistory"                        = "查询缴费历史";
+"VPAlreadyReadAndAgree"                     = "我已阅读并同意";
+"VPSelfServicePayNegotiate"                 = "《自助缴费协议》";
+"VPSelfServicePayNegotiate1"                = "自助缴费协议";
+"VPWaterElectricityCoalPayNegotiate"        = "水电煤缴费协议";
+"VPFuelCost"                                = "燃气费";
+"VPDoYouWantToActivateEbuy"                 = "您尚未激活易付宝，是否去激活？";
+"VPBarCodeScan"                             = "条码扫描";
+"VPOwnership"                               = "归属地：--";
+"VPOwnership1"                              = "归属地：";
+"VPyigouPrice"                              = "易购价：";
+"VPTotal"                                   = "合计 ：";
+"VPNimblePay"                               = "安全快捷，支持易付宝、零钱宝以及各大银行快捷支付";
+"VPSafeConvenientHighEfficiency"            = "安全，便捷，高效";
+"VPBalanceOfEfubao"                         = " 易付宝余额：";
+"VPPaySecretCode"                           = " 支付密码";
+"VPChooseOtherPayment"                      = "请选择其它支付方式";
+"VPPaySuccess"                              = "缴费成功";
+"VPxmlIsEmpty"                              = "xml为空";
+"VPHaveNoWaterPayList"                      = "您当前还没有水费缴纳订单哟";
+"VPHaveNoElectricityPayList"                = "您当前还没有电费缴纳订单哟";
+"VPHaveNoGasPayList"                        = "您当前还没有燃气费缴纳订单哟";
+"VPSorryForUnknownError"                    = "对不起，发生未知错误";
+"VPGetVerfyCodeSuccess"                     = "验证码获取成功";
+"VPEfubaoPay"                               = "   易付宝支付";
+"VPNeedToPay"                               = "需要支付：";
+"VPNeedToPay1"                              = " 需要支付：";
+"VPMobileVerifyCode"                        = "手机验证码";
+"VPInputPaymentCode"                        = "请输入易付宝支付密码";
+"VPHaveNoTelephoneBillPayList"              = "您当前还没有话费充值订单哟";
+"VPSafeNimbleHighEfficiency"                = "安全，快捷，高效";
+"VPVacanciesNotEnough"                      = "易付宝余额：%@元（余额不足）";
+"VPVacancies"                               = "易付宝余额：%@元";
+"VPDoNotPay"                                = "未付款";
+"VPBeIngTopUp"                              = "充值中";
+"VPTopUpFailAndRefundSuccess"               = "充值失败,退款成功";
+"VPTopUpFailAndRefundFail"                  = "充值失败,退款失败";
+"VPTopUpSuccessPartlyAndRefundSuccess"      = "部分充值成功,退款成功";
+"VPTopUpSuccessPartlyAndRefundFail"         = "部分充值成功,退款失败";
+"VPOrderListClosed"                         = "订单关闭";
+"HotCity"                                   = "热门城市";
+"Hot"                                       = "热门";
+"SelectChargeCity"                          = "请选择缴费城市";
+
+
+
+///-------ServiceStack--------
+"SSChangeState"                             = "换货状态";
+"SSPortAbandon"                             = "接口废弃";
+"SSCall"                                    = "拨打号码";
+"SSCopyText"                                = "复制文本";
+"SSNoInfoOfLogisticsNow"                    = "暂无物流信息!";
+"SSNoInfoOfThisProduct"                     = "暂无该商品的物流查询信息!";
+"SSSorryForNotFound"                        = "抱歉，未找到相关销售单号或您的登录状态失效!";
+
+
+///------Promotions--------
+"PREbuyPrice"                               = "易购价 : ";
+"PREbuyPrice1"                              = "易购价";
+"PRReadyToStart"                            = "距离开始";
+"PRReadyToEnd"                              = "距离结束";
+"PRHaveGroup"                               = "已团";
+"PRNoProductInfo"                           = "暂无商品数据，努力维护中...";
+"SSSorryForNotFound"                        = "抱歉，未找到相关销售单号或您的登录状态失效!";
+
+
+
+//----------Product----------------------
+"Product_ShareToWeiXinFriends"              = "分享给微信好友";
+"Product_ShareToFriends"                    = "分享到朋友圈";
+"Product_FriendTips"                        = "友情提示 ";
+"Product_SuccessParticipate"                = "成功参与活动，大奖快到碗里来！";
+"Product_SinaWeiBo"                         = "新浪微博";
+"Product_Message"                           = "短信";
+"Product_TencentWeiBo"                      = "腾讯微博";
+"Product_WeiXinFriends"                     = "微信好友";
+"Product_WeiXinFriendsCircle"               = "微信朋友圈";
+"Product_YunXinSquare"                      = "云信广场";
+"Product_YunXinFriends"                     = "云信好友";
+"Product_ConfirmClearScanHistory"           = "确认清空浏览历史？";
+"Product_ProductImage"                      = "商品图片";
+"Product_BuyReturn"                         = "购买返";
+"Product_ProductNotOnSaleOrNetworkError"    = "很抱歉，商品暂停销售或网络异常";
+"Product_ProductNotSaleBuyOther"            = "很抱歉，商品暂停销售，您可以购买其他同类商品";
+"Product_ServerBusyTryLater"                = "服务器繁忙，请稍后再试";
+"Product_SorryNetworkError"                 = "很抱歉，网络异常";
+"Product_NoPreorderNoQualified"             = "非常抱歉，您之前未进行该商品的预约，暂无抢购资格";
+"Product_CheckPCFullVersion"                = "查看电脑完整版";
+"Product_BuyNow"                            = "立即购买";
+"Product_Over"                              = "已结束";
+"Product_LeftToBegin"                       = "距离开始";
+"Product_WaitForPreOrder"                   = "等待预约";
+"Product_PreOrderNow"                       = "立即预约";
+"Product_WaitForPurchase"                   = "等待抢购";
+"Product_PurchaseNow"                       = "立即抢购";
+"Product_AddToCartSuccess"                  = "加入购物车成功";
+"Product_GoToShopCart"                      = "去购物车";
+"Product_ProductNotEnough"                  = "商品库存不足";
+"Product_BindMobilePhoneAndBuy"             = "您还没有进行绑定手机，请绑定后购买团购商品";
+"Product_PurchaseTimeNotDecided"            = "抢购时间未定，敬请关注!";
+"Product_PurchasePayInThirtyMinute"         = "抢购成功，请在30分钟内支付";
+"Product_NotLogin"                          = "未登录";
+"Product_NotFoundActivity"                  = "未找到活动";
+"Product_GroupNotEffective"                 = "团购已过期";
+"Product_BeyondTheLimit"                    = "超过每人限购";
+"Product_GroupNumNotEnough"                 = "团购余量不足";
+"Product_GroupFailed"                       = "对不起，团购失败";
+"Product_AlreadyAddedToShopCart"            = "商品已加入购物车";
+"Product_Suning"                            = "苏宁";
+"Product_ProductNotSaleBuyOther"            = "此商品已下架,请选购其他商品";
+"Product_BigGatherSale"                     = "大聚惠";
+"Product_CuxiaoPrice"                       = "促销价";
+"Product_Activity"                          = "活 动";
+"Product_DeliveryMoney"                     = "运费";
+"Product_NoDeliveryMoney"                   = "免运费";
+"Product_Service"                           = "服 务";
+"Product_You"                               = "由";
+"Product_Message1"                          = "销售并提供售后服务，厂家直接发货";
+"Product_Message2"                          = "直接销售和发货，并提供售后服务";
+"Product_SupportStorePick"                  = "支持门店自提";
+"Product_SellerSatisfaction"                = "商家满意度";
+"Product_DeliverySatisfaction"              = "物流满意度";
+"Product_ServiceSatisfaction"               = "服务满意度";
+"Product_TextImageDetail"                   = "图文详情";
+"Product_Comment"                           = "评价(0)";
+"Product_Consult"                           = "咨询(0)";
+"Product_AllGoodSeller"                     = "全部优质商家";
+"Product_AddConfirm"                        = "确认添加";
+"Product_Fitting"                           = "配件 ";
+"Product_Selected"                          = "已选";
+"Product_Taocan"                            = "套餐明细 ";
+"Product_TaocanDiscount"                    = "套餐优惠价:  ";
+"Product_TaocanPrice"                       = "套餐价";
+"Product_BuySCode"                          = "S码购买";
+"product_AmountOverFlow"                    = "数量超出范围！";
+"Product_CountingDown"                      = "倒计时";
+"Product_PreorderStart"                     = "预约开始";
+"Product_PreorderEnd"                       = "预约结束";
+"Product_PurchaseStart"                     = "抢购开始";
+"Product_PurchaseEnd"                       = "抢购结束";
+"Product_ColorCategory"                     = "颜色分类";
+"Product_TC"                                = "套餐";
+"Product_RecommendSuit"                     = "推荐搭配";
+"Product_SelectedFits"                      = "已选配件";
+"Product_CankaoPrice"                       = "参考价:";
+"Product_SuningLuandou"                     = "苏宁大乱斗";
+"Product_LimitAmount"                       = "每个人限购";
+"Product_GoodSeller"                        = "优质商家";
+"Product_SellerAmount"                      = "家";
+"Product_SelectPickYourself"                = "选择自提";
+"Product_PriceReduction"                    = "直降价:";
+"Product_NotSaleNow"                        = "暂不销售";
+"Product_Cuxiao_Tuan"                       = "促销-团购";
+"Product_Cuxiao_Qiang"                      = "促销-抢购";
+"Product_Display_CShop"                     = "展示-C店商品详情";
+"Product_Push"                              = "推送";
+"Product_FromSuning"                        = " （来自苏宁易购客户端http://t.cn/zTdsooi ）";
+"Product_SuningSell"                        = "苏宁易购卖的";
+"Product_Bucuo"                             = "不错哦，";
+"Product_SuccessAddToCart"                  = "加入购物车成功";
+"Product_SCodeOnlyOne"                      = "S码为尊享的稀缺资源，一个S码仅能买一件商品哦！";
+"Prodcut_ConsultToSuning"                   = "向苏宁咨询";
+"Product_Xiang"                             = "向";
+"Product_Today"                             = "当日";
+"Product_NextDay"                           = "次日";
+"Product_SelectedAlready"                   = "已 选";
+"Product_CancelMarkSuccess"                 = "取消收藏成功";
+"Product_CancelMarkFailed"                  = "取消收藏失败";
+"Product_RecommendForYou"                   = "为你推荐";
+"Product_AmoUnts"                           = "数 量";
+"Product_CheckNearShop"                     = "查看附近现货门店";
+"Product_GoodCommentsRate"                  = "好评率";
+"Product_CheckSCodeTime"                    = "抱歉S码购买时间未到，请去我的S码查看购买时间!";
+"Product_SCodeIsEnd"                        = "S码活动已经结束了哦，下次请早点参与哦!";
+"Product_NoRepeatBindSCode"                 = "您已经绑定过S码，无需再次绑定！";
+"Product_GoodComment"                       = "好评";
+"Product_MiddleComment"                     = "中评";
+"Product_BadComment"                        = "差评";
+"Product_NearbyNowGoodsHome"                = "展示-商品详情-附近现货门店列表";
+"Product_Buy_Confirm"                       = "购物流程-购物-确定购买";
+"Product_TaocanYouhui"                      = "套餐优惠价";
+"Product_EvaluateAndDisOrder"               = "评价晒单";
+"Product_Star"                              = "星星";
+"Product_InputIdea"                         = "请输入心得（5-500个字以内）";
+"Product_RemainAmount"                      = "剩余件数";
+"Product_NoProductPara"                     = "抱歉，暂无商品参数";
+"Product_Append"                            = "追加";
+"Product_NoBuyOrNoPay"                      = "抱歉,您没有购买过该商品或订单状态未完成";
+"Product_NoCommentNow"                      = "暂无商品评价";
+"Product_Year"                              = "年";
+"Product_Month"                             = "月";
+"Product_Day"                               = "日";
+"Product_Satisfaction"                      = "满意度";
+"Product_Seller"                            = "卖家";
+"Product_Public"                            = "发表";
+"Product_InputConsultContent"               = "请输入咨询内容";
+"Product_ContentLimitedIn150"               = "咨询内容不能多于150个字符";
+"Product_Content"                           = "内容";
+"Product_InputConsultContent150"            = "请输入咨询内容(150字以内)";
+"Product_CommitSuccess"                     = "提交成功，请等待审核！";
+"Product_ConsultFailedTryLater"             = "您的咨询提交失败，请稍后重试";
+"Product_DisplayTheme"                      = " 晒出主题";
+"Product_TheseWordsDisplay"                 = "这些话要晒出来~";
+"Product_DisplayAndGetCloudDiamond"         = "晒单争取云钻哦～";
+"Product_Submit3Pic"                        = "请上传三张照片，三张有机会获得云钻哦~";
+"Product_SubmittIng"                        = "发布中...";
+"Product_ProductLink"                       = "商品链接";
+"Product_DisOrderMainContent"               = "晒单正文";
+"Product_DisOrderReply"                     = "晒单回复";
+"Product_SystemDefaultGoodComment"          = "系统自动默认好评！";
+"Product_RemindTips"                        = "商品链接：http://www.suning.cn/webapp/wcs/stores/servlet/prd_10052_10051_-7__160627_1.html\n订单号：4716628<br />\n\n1958203812/25晚下单，直到1/9才短信通知可以取手机，1/10晚自己门店自提取货，终于拿到手。再说下用了2天的感觉，由于以前也是用的诺基亚塞班的系统，用起来上手还是比较快。500万的摄像头，加4倍自动变焦，再加LED闪光没得话说。但是处理器就略显不足，反应速度和1GHZ的比起来是有差距，但是还是够用。2G的标配卡在删除一些不必要的软件再自己装了些飞信、qq、MSN、UC、大智慧等等软件的情况下只剩400M左右的空间。建议打算买的人再另外买张8G的卡。3.2的电阻屏还不错，虽然不能和电容屏相比，够用就行。最后，C6拿在手上的感觉很好，够分量，这点对男士来说比较重要，总不希望拿在手上像没东西一样吧。最后总评，总的来说还算比较实惠，特别是在2000左右的价格。一句话:2000左右的价格值得出手。\n发票为C6拍的<br />\n<br />\n手机实物图为诺基亚老手机200W拍的（颜色有失真）：<br />\n<br />\n<br />\n<br />\n<br />\n<br />";
+"Product_NoDisOrderThisProduct"             = "该商品暂无晒单";
+"Product_BuyAgain"                          = "重拍";
+"Product_NoShopCanBuySelfNearby"            = "附近没有可以自提的门店";
+"Product_BuySelfNow"                        = "立即自提";
+
+///--------Lottery---------
+"LODeadLine"                                = "%@期 截止时间: %@";
+"LODeadLine1"                               = "%@期   截止时间: %@";
+"LODrawLotteryNumber"                       = "%@期 开奖号码: %@|%@";
+"LODrawLotteryNumber1"                      = "%@期   开奖号码: %@|%@";
+"LOLessChoose"                              = "请至少选择%d个号码，已选%d个";
+"LOCalculateFormula"                        = "0注 x %d倍 x %d期 = 0元";
+"LOCalculateFormula1"                       = "0注 x %d倍 x %d期= 0元";
+"LOCalculateFormula2"                       = "%d注 x %d倍 x %d期 = %d元";
+"LOCalculateFormula3"                       = "%d注 x %d倍 x %d期= %d元";
+"LOCalculateFormula4"                       = "0注 x %@倍 x %@期 = 0元";
+"LOCalculateFormula5"                       = "%d注 x %@倍 x %@期 = %d元";
+"LOPluralLottery"                           = "复式投注  %0.f注";
+"LOSingleLottery"                           = "单式投注  %0.f注";
+"LOSingleDirectly"                          = "直选单式";
+"LOPluralDirectly"                          = "直选复式";
+"LOThreeSingle"                             = "组三单式";
+"LOThreePlural"                             = "组三复式";
+"LOSixSingle"                               = "组六单式";
+"LOSixPlural"                               = "组六复式";
+"LOSingle"                                  = "单式";
+"LOPlural"                                  = "复式";
+"LOOne"                                     = "壹";
+"LOTwo"                                     = "贰";
+"LOThree"                                   = "叁";
+"LOFour"                                    = "肆";
+"LOFive"                                    = "伍";
+"LOSix"                                     = "陆";
+"LOSeven"                                   = "柒";
+"LOAddNumberOfContestent"                   = "添加手选号码";
+"LOAddOneMachineLottery"                    = "添加一注机选";
+"LOzhuiqi"                                  = "追                  期";
+"LOtoubei"                                  = "投                  倍";
+"LOStopAfterWin"                            = "中奖后停止追号";
+"LOLotteryHistory"                          = "开奖历史";
+"LOSuspentSale"                             = "暂停销售，请继续关注";
+"LOPleaseRefreshPage"                       = "请您刷新彩票大厅页面获取数据";
+"LOStopBetting"                             = "停止投注";
+"LOGoToPay"                                 = "去支付";
+"LOContinueToBuy"                           = "继续购买";
+"LOSystermError"                            = "系统异常";
+"LOGetLotteryBatchFail"                     = "获取彩票批次失败，请稍后再试";
+"LOLotteryOrderList"                        = "彩票订单";
+"LOListOnOtherBehalf"                       = "代购订单";
+"LOAdditionalNumberList"                    = "追号订单";
+"LONoListOnOtherBehalf"                     = "您目前没有代购订单";
+"LONoAdditionalNumberList"                  = "您目前没有追号订单";
+"LOAdditionalSaleList"                      = "追购订单";
+"LODoNotUseCertification"                   = "取消用券";
+"LOIssue"                                   = "%@-第%@期-%@\n";
+"LOIssue2"                                  = "%0.2f元(税前) %0.2f元(税后)\n";
+"LOIssue3"                                  = "--元(税前) --元(税后)\n";
+"LOIssue4"                                  = "完成%d期/共%@期\n";
+"LOIssue5"                                  = "应付金额:<font color=red>%@</font>元 总额:￥%@ -劵:￥%@";
+"LOIssue6"                                  = "<font color=blue>%@</font>          第<font color=red>%@</font>期          代购          %d注%@倍";
+"LOIssue7"                                  = "<span>真实姓名: %@</span><br><hr><span>身份证号: %@</span><br><span>大奖通知: %@</span>";
+"LOIssue8"                                  = "原始金额:%@ － 优惠:%@ + 运费:%@";
+"LOAdditionalNumberRate"                    = "追号进度：";
+"LOMagnify"                                 = "倍";
+"LOAdditionalNumberForm"                    = "追号列表";
+"LOIssueFrequency"                          = "期次";
+"LOMultiple"                                = "倍数";
+"LOWinInfo"                                 = "中奖信息";
+"LOFrequency"                               = "%@期";
+"LOLotteryNumber"                           = "开奖号码 : ";
+"LOWinNumber"                               = "中奖%@元";
+"LOWaitForAdditionalNumber"                 = "等待追号";
+"LOTicketed"                                = "已出票";
+"LOSystemRevoke"                            = "系统撤销";
+"LOAdditioned"                              = "追号完成";
+"LOAdditioning"                             = "追号中";
+"LOPleaseInputSecretCode"                   = "请输入6~20位的支付密码";
+"LONoLotteryInfo"                           = "暂无开奖信息";
+"LONoteNumber"                              = "注数：";
+"LOCount"                                   = "金额：";
+"LONegotiate"                               = "《用户代购协议》《用户信息安全协议》";
+
+///-----ShopCartV2----------
+"SCCommodityAmount"                         = "商品总额";
+"SCNotIncludingFreight"                     = "未含运费";
+"SCMovingToFavorites"                       = "移入收藏夹中...";
+"SCMoveToFavoritesSuccess"                  = "移入收藏夹成功";
+"SCMoveToFavoritesFailed"                   = "移入收藏夹失败";
+"SCDeleteAllGoods"                          = "确认删除所选商品?";
+"SCMoveTheGoodToFavorites"                  = "确定将该商品移入收藏夹?";
+"SCPleaseClickUpperRightCornerCompleted"    = "请先点击右上角完成哦~";
+"SCLoginCanSynchronizeShoppingCart"         = "登入后可同步您购物车中的商品";
+"SCSendTo"                                  = "送至";
+"SCInShoppingCart"                          = "购物车中有";
+"SCTemporarilyUnableToBuy"                  = "件暂无法购买";
+"SCYouHaveLogined"                          = "您已经登录";
+"SCNotSupportTheProvince"                   = "暂不支持该省份";
+"SCHaveNoGoodsInShoppingCartAndLogin"       = "您的购物车内还没有任何商品，是否立即登录?";
+"SCPleaseSelectDeliveryCity"                = "请选择商品的送货城市";
+"SCPanicBuyingQualificationHasExpired"      = "您的抢购资格已过期";
+"SCGroupPurchaseHasExpired"                 = "团购已过期";
+"SCOver"                                    = "已结束";
+"SCFailureGoods"                            = "失效商品";
+"SCFollowingGoodsTemporarilyUnableToBuy"    = "以下商品暂无法购买";
+"SCHaveNotCheckedDeleteGoods"               = "您还未勾选删除商品";
+"SCDeleteTheGood"                           = "确认删除该商品?";
+"SCGoodsNotSell"                            = "商品暂不销售";
+"SCToBuyUp"                                 = "最多可购买";
+"SCBigGatherSaleLeft"                       = "大聚惠仅剩";
+"SCBigGatherSaleOver"                       = "大聚惠已结束，价格已变为原价";
+"SCTheGoodBigGatherSaleOver"                = "该商品大聚惠活动已结束，请重新选购！";
+"SCStopSales"                               = "暂停销售";
+"SCNotSales"                                = "暂不销售";
+"SCNoGoods"                                 = "无货";
+"SCUnderCarriage"                           = "下架";
+"SCInPackage"                               = "套餐中";
+"SCGoodsAndSoOn"                            = "等商品";
+"SCHasParticipatedInPreferential"           = "已参加优惠";
+"SCPlatinumMember"                          = "白金会员";
+"SCPlatinumMemberEnjoyDeliveryFree"         = "白金会员,享受自营免运费";
+"SCNoFreight"                               = "免运费";
+"SCBeyond"                                  = "满";
+"SCIncludingFreight"                        = "(含运费)";
+"SCPreferential"                            = "已优惠";
+"SCSettleAccounts"                          = "去结算";
+"SCSelectAll"                               = "全选";
+
+///-------Search---------
+"Search_BarPay"                             = "条码购";
+"Search_PleaseEnterTheCorrectCode"          = "请输入正确的条形码";
+"Search_PleaseEnterGoodCode"                = "请输入商品条码";
+"Search_PleaseOpenCamera"                   = "您已关闭相机使用权限，请至手机“设置->隐私->相机”中打开";
+"Search_ScanRecord"                         = "扫描记录";
+"Search_SimulatorCanNotSupportScan"         = "模拟器不支持扫描，请使用真机测试！";
+"Search_NoScanHistory"                      = "还没有扫描历史记录";
+"Search_FailedToFindCameraDevice"           = "未能找到相机设备";
+"Search_SearchGoodAndStore"                 = "搜索商品、店铺";
+"Search_Goods"                              = "商品";
+"Search_Store"                              = "店铺";
+"Search_CleanSearchRecord"                  = "清空搜索记录";
+"Search_Confidence"                         = "置信度";
+"Search_KeywordSearch"                      = "关键词搜索";
+"Search_CategorySearch"                     = "类目搜索";
+"Search_Seller"                             = "商家";
+"Search_FromSale"                           = "起售";
+"Search_SearchTotal"                        = "共搜到";
+"Search_SellerSatisfaction"                 = "商家满意度";
+"Search_MainCategory"                       = "主营品类";
+"Search_Location"                           = "所在地";
+"Search_NotFound"                           = "没有找到";
+"Search_RelevantShop"                       = "相关店铺";
+"Search_RelevantGoods"                      = "相关商品";
+"Search_MatchConditionGoods"                = "符合条件的商品";
+"Search_Search"                             = "搜索到";
+"Search_DeliveryCity"                       = "送达城市";
+"Search_JustLookInStockGoods"               = "只看有货商品";
+"Search_JustSearchInStockGoods"             = "只搜有货";
+"Search_JustLookSuningSelf"                 = "只看苏宁自营";
+"Search_PromotionGoods"                     = "促销商品";
+"Search_PleaseSelect"                       = "请选择";
+"Search_Reduce"                             = "直降";
+"Search_GroupPurchase"                      = "团购";
+"Search_ReturnTicket"                       = "返券";
+"Search_PanicBuying"                        = "抢购";
+"Search_LowestPrice"                        = "最低价";
+"Search_HighestPrice"                       = "最高价";
+"Search_PartOfTheSearchWords"               = "以下是部分搜索词";
+"Search_MatchingResults"                    = "的匹配结果";
+"Search_TryToRemoveTheWordSearch"           = "您还可以尝试拆词进行搜索";
+"Search_SearchHistory"                      = "搜索历史";
+"Search_SearchInCategory"                   = "分类中搜索";
+"Search_CleanSearchHistory"                 = "清空搜索历史";
+"Search_AllGoods"                           = "全部商品";
+"Search_AllPromotion"                       = "全部促销";
+"Search_PromotionType"                      = "促销种类";
+"Search_AllMerchandise"                     = "所有商品";
+"Search_SpeakGoodsOrStore"                  = "请说出您想要的商品或店铺名称!";
+"Search_TheCoreTechnologyProvidedByiFLYTEK" = "核心技术由科大讯飞提供";
+"Search_Recognising"                        = "亲,正在识别中...";
+"Search_Searching"                          = "正在为您搜索";
+"Search_NotRecogniseYourVoice"              = "亲，未识别出您的语音，请点击话筒重新开始!";
+"Search_NotRecogniseYourVoice2"             = "亲,未识别出您的语音,请点击话筒重新开始!";
+"Search_ClickTooMuch"                       = "亲，您点击太频繁了，请稍后重试!";
+"Search_RecogniseCancel"                    = "识别取消";
+"Search_NoRecogniseResult"                  = "无识别结果";
+"Search_RecogniseSuccess"                   = "识别成功";
+"Search_ServerIsBusy"                       = "亲，服务器正忙，请您稍后重试!";
+"Search_ResetFilterConditions"              = "重置筛选条件";
+
+
+///--------Category-----------
+"CTClassificationOfGoods"                   = "商品分类";
+"CTMobileChargeOrFeePay"                    = "手机充值/水.电.煤气费缴查";
+"CTBook"                                    = "图书";
+"CTSelectClassification"                    = "精选分类";
+"CTBestSellingBook/ChildBook/SpecialBook"   = "最新畅销书/少儿书/特价书";
+"CTNoDataAndTryingToMaintain"               = "暂无数据，正在努力维护";
+
+
+///---------Home--------------
+"HDisplayOrder"                             = "晒单";
+"HGrade"                                    = "打个分呗";
+"HIsSatisfied"                              = "这次购物还满意吗~";
+"HServiceSatisfaction"                      = "服务满意度";
+"HExpressSatisfaction"                      = "物流满意度";
+"HAnonymousEvaluate"                        = "匿名评价";
+"HTellTheseWordsToFriends"                  = "这些话要告诉小伙伴们";
+"HEvaluateDisplayOrder"                     = "评价晒单";
+"HNoGoodsForEvaluateOrDisplay"              = "暂无可评价/晒单的商品,快去逛逛吧";
+"HCurrentNoGoodsForEvaluateOrDisplay"       = "您当前还没有可评价/晒单的商品哦";
+"HGoodsHasDisplayed"                        = "商品已晒单";
+"HSearchHistory"                            = "搜索历史";
+"HHotSearch"                                = "热门搜索";
+"HSearchInCategory"                         = "分类中搜索";
+"HCleanSearchHistory"                       = "清空搜索历史";
+"HSwitch"                                   = "换一换";
+"HCommentRepeat"                            = "重复评价";
+"HNotStoreOrder"                            = "非门店订单";
+"HCantFindOrderState"                       = "查询不到订单状态";
+
+
+
+//-----------APPDelegate-----------------
+"APPDelegate_ChangedToWifi"                 = "已切换至高质量模式（WIFI环境）";
+"APPDelegate_ChangedToNormal"               = "已切换至普通模式（2G或3G环境）";
+"APPDelegate_Activity"                      = "活动";
+
+
+
+//-------------Common--------------------
+"Common_3PicGetDiamond"                     = "3张以上图片有机会获得云钻哦";
+"Common_CurrentClientNotSupport"            = "当前客户端版本不支持该活动";
+"Common_ClickToRetry"                       = "点击重试";
+
+
+
+///---------Address--------
+"ADDefaultAddress"                          = "[默认地址]";
+"ADSorryGoodsPriceChange"                   = "很抱歉，您订单中存在的商品价格发送变动，请问您是否需要按原价购买？";
+"ADAddressManagement"                       = "地址管理";
+"ADAdd"                                     = "新增";
+"ADIsDeleteTheAddress"                      = "是否确定删除该地址";
+"ADDetailAddressCantContainIllegalCharacters"= "详细地址不能包含非法字符!";
+"ADDetailAddressCantContainEmoticons"       = "详细地址不能包含表情符号!";
+"ADDetailAddressLessThanThirtyWords"        = "详细地址请输入30个字以内!";
+"ADSetAsDefaultAddress"                     = "设置为默认地址";
+"ADDeleteTheAddress"                        = "删除该条地址";
+"ADDeleteAddressSuccess"                    = "删除地址成功";
+
+
+//----------CheckIn-------
+"CheckIn_Seven"                             = "日";
+"CheckIn_One"                               = "一";
+"CheckIn_Two"                               = "二";
+"CheckIn_Three"                             = "三";
+"CheckIn_Four"                              = "四";
+"CheckIn_Five"                              = "五";
+"CheckIn_Six"                               = "六";
+"CheckIn_RegisterSuccessAndGet"             = "恭喜您今日签到成功\n获得";
+"CheckIn_CheckNetworkOrRetry"               = "请检查您的网络或者重试";
+"CheckIn_SomethingGoWrong"                  = "出现错误了哦！";
+"CheckIn_RegisterAlreadyToday"              = "您今日已经签到";
+
+
+
+//----------CPACPS----------
+"CPACPS_CommissionDetail"                   = "佣金明细";
+"CPACPS_XuanFu"                             = "炫富";
+"CPACPS_XinrenHongBao"                      = "领取新人红包";
+"CPACPS_InputFriendAnHao"                   = "请输入您好友的暗号";
+"CPACPS_InputContent"                       = "请输入内容";
+"CPACPS_OperationIllustration"              = "操作说明";
+"CPACPS_LoadIng"                            = "加载中...";
+"CPACPS_AnHaoNotExistReinput"               = "您输入暗号不存在，请重新输入";
+"CPACPS_LingquSuccess"                      = "领取成功";
+"CPACPS_AnHaoWrong"                         = "你的暗号输入有误请重新输入";
+"CPACPS_NetworkErrorRetryLater"             = "服务器好像出错了，正在玩命处理中···";
+"CPACPS_AnHaoLengthTooLong"                 = "暗号长度超出限定，请您确认后重新输入！";
+"CPACPS_InviteFriendEarnMoney"              = "邀请好友赚现金";
+"CPACPS_DeviceNotInstallWeixin"             = "您的设备还没有安装微信。";
+"CPACPS_OpenAuthority"                      = "您可以在iPhone的设置->隐私->通讯录中开启授权";
+"CPACPS_DeviceNotInstallSina"               = "您的设备没有安装新浪微博客户端";
+"CPACPS_3MonthCommission"                   = "三个月佣金总计：";
+"CPACPS_YueFen"                             = "月份";
+"CPACPS_RecommendNewGetHongbao"             = "推荐好友领取新人红包 总计：";
+"CPACPS_FriendFanxian"                      = "好友在客户端购物返现 总计：";
+"CPACPS_DuanxinInvite"                      = "短信邀请";
+"CPACPS_DangmianInvite"                     = "当面邀请";
+"CPACPS_CopyContent"                        = "复制内容";
+"CPACPS_NoCommissionNow"                    = "暂无佣金";
+"CPACPS_ActivateYFBGetCommission"           = "点击激活易付宝，即可查看佣金！";
+"CPACPS_SinaWeiboInvite"                    = "新浪微博邀请";
+"CPACPS_WeixinInvite"                       = "微信邀请";
+"CPACPS_3MonthMoney"                        = "3个月内金额总计";
+"CPACPS_AwardCount"                         = "奖励金额总计";
+"CPACPS_Tips1"                              = "推荐朋友领取新人红包3个月内获得金额总计:";
+"CPACPS_Tips2"                              = "推荐朋友在易购客户端下单3个月内返现金额总计:";
+"CPACPS_ActivityRule"                       = "活动规则 >";
+"CPACPS_CongratulationGet"                  = "恭喜您获得：";
+"CPACPS_NewHongbaoQuan"                     = "新人红包券";
+"CPACPS_InviteEarnMoney"                    = "邀请赚佣金";
+"CPACPS_CheckYouhuiQuan"                    = "查看优惠券";
+"CPACPS_DuiAnHaoGetHongbao"                 = "对暗号领取新人红包";
+"CPACPS_InputNum"                           = "请输入数字";
+"CPACPS_LingquFailed"                       = "领取失败";
+"CPACPS_InputAnhao"                         = "请输入您的好友暗号";
+"CPACPS_Step1"                              = "1,请朋友扫描下方二维码，下载并注册苏宁易购客户端";
+"CPACPS_Step2"                              = "2,请朋友登录苏宁易购客户端，在我的易购-新人领取红包输入你的暗号";
+"CPACPS_YouAndFriendGetAward"               = "你和朋友即可获得奖励";
+"CPACPS_MyAnHao"                            = "我的暗号";
+"CPACPS_CheckAward"                         = "查看奖励";
+"CPACPS_ActivateYFBSendAward"               = "请先激活易付宝，相关的奖励会发放到您的易付宝账户";
+"CPACPS_ActivateYFB"                        = "激活易付宝";
+"CPACPS_Tips3"                              = "请先到苏宁易购网站(www.suning.com),激活易付宝，相关的奖励会发放到您的易付宝帐户";
+"CPACPS_HaiKeYi"                            = "您还可以";
+"CPACPS_CopyInvatationContent"              = "复制邀请内容";
+"CPACPS_ShareToRRQQ"                        = ",分享至人人/QQ等";
+"CPACPS_InviteRegister"                     = "第一步 邀请朋友下载苏宁易购客户端并注册";
+"CPACPS_DuiAnHaoGetAward"                   = "第二步 对暗号，拿奖励";
+
+//评价晒单
+"CommentShare_InputTextPlaceHolder"         = "输入您的商品购买、体验心得";
+"CommentShare_AddPhotoHint"                 = "添加5张以上照片，有机会被评为精华晒单";
+"CommentShare_PhotoCountHint"               = "还可以上传%d张照片";
+"CommentShare_AddPhoto"                     = "添加照片";
+"CommentShare_ProdcutPoints"                = "商品满意度";
+"CommentShare_LogisticsPoints"              = "物流满意度";
+"CommentShare_ServicePoints"                = "服务满意度";
+"CommentShare_Public"                       = "公开";
+"CommentShare_Private"                      = "匿名";
+"CommentShare_YunZuanRule"                  = "云钻奖励规则";
+"CommentShare_YunZuanRuleOne"               = "1.只要提交评论成功，即可获得积分;";
+"CommentShare_YunZuanRuleTwo"               = "2.每件商品的前十位评价用户，将获得双倍积分;";

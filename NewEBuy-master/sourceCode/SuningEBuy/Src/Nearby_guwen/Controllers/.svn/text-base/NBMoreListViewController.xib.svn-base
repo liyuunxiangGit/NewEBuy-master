@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6245" systemVersion="13E28" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment defaultVersion="1280" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6238"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="NBMoreListViewController">
+            <connections>
+                <outlet property="commonView" destination="oX4-5O-iu0" id="6wU-zM-eSt"/>
+                <outlet property="refreshTableView" destination="04c-KZ-mtz" id="veo-WS-CDG"/>
+                <outlet property="rightBarButtonView" destination="OpH-5h-zfE" id="yLG-8s-kKt"/>
+                <outlet property="rightBarItemView" destination="L0g-gy-k3E" id="bYH-vA-xPR"/>
+                <outlet property="tabButton0" destination="re9-gE-D6j" id="eOC-qX-ymX"/>
+                <outlet property="tabButton1" destination="zBn-pR-K1q" id="lEf-cs-sOo"/>
+                <outlet property="titleButton" destination="nxf-AZ-8yq" id="KfA-1X-yS9"/>
+                <outlet property="titleTextView" destination="Rq0-jJ-U0U" id="OAU-V4-0A7"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" id="oX4-5O-iu0">
+                    <rect key="frame" x="0.0" y="64" width="320" height="416"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    <subviews>
+                        <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="none" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="04c-KZ-mtz" customClass="UICCRefreshCommonTableView">
+                            <rect key="frame" x="0.0" y="0.0" width="320" height="416"/>
+                            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        </tableView>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <inset key="insetFor6xAndEarlier" minX="0.0" minY="64" maxX="0.0" maxY="0.0"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" prompted="NO"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="217" y="325"/>
+        </view>
+        <view contentMode="scaleToFill" id="L0g-gy-k3E">
+            <rect key="frame" x="0.0" y="0.0" width="120" height="38"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" id="OpH-5h-zfE">
+                    <rect key="frame" x="0.0" y="8" width="120" height="30"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="re9-gE-D6j">
+                            <rect key="frame" x="0.0" y="0.0" width="60" height="30"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                            <inset key="imageEdgeInsets" minX="-6" minY="-2" maxX="0.0" maxY="0.0"/>
+                            <state key="normal" title="最热" image="nby_hot_n.png">
+                                <color key="titleColor" red="0.027450980390000001" green="0.73333333329999995" blue="0.64313725489999995" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <state key="selected" image="nby_hot_s.png" backgroundImage="nby_bkColor0.png">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="on_barItemTabButton_clicked:" destination="-1" eventType="touchUpInside" id="eWA-w6-rBX"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" tag="2" contentMode="scaleToFill" selected="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="zBn-pR-K1q">
+                            <rect key="frame" x="60" y="0.0" width="60" height="30"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMinY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                            <inset key="imageEdgeInsets" minX="-6" minY="-2" maxX="0.0" maxY="0.0"/>
+                            <state key="normal" title="最新" image="nby_new_n.png">
+                                <color key="titleColor" red="0.027450980390000001" green="0.73333333329999995" blue="0.64313725489999995" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <state key="selected" image="nby_new_s.png" backgroundImage="nby_bkColor0.png">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="on_barItemTabButton_clicked:" destination="-1" eventType="touchUpInside" id="Haf-xP-vxn"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="182" y="338"/>
+        </view>
+        <view contentMode="scaleToFill" id="Rq0-jJ-U0U">
+            <rect key="frame" x="0.0" y="0.0" width="100" height="44"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="nxf-AZ-8yq">
+                    <rect key="frame" x="0.0" y="0.0" width="100" height="44"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                    <inset key="titleEdgeInsets" minX="9" minY="2" maxX="0.0" maxY="0.0"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="5" maxX="0.0" maxY="5"/>
+                    <state key="normal" image="nav_back_normal.png">
+                        <color key="titleColor" red="0.027450980390000001" green="0.73333333329999995" blue="0.64313725489999995" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="goBack" destination="-1" eventType="touchUpInside" id="wYm-aL-7yy"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <nil key="simulatedTopBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="30" y="162"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="nav_back_normal.png" width="11" height="20"/>
+        <image name="nby_bkColor0.png" width="1" height="1"/>
+        <image name="nby_hot_n.png" width="10" height="14"/>
+        <image name="nby_hot_s.png" width="10" height="14"/>
+        <image name="nby_new_n.png" width="13" height="12"/>
+        <image name="nby_new_s.png" width="13" height="12"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

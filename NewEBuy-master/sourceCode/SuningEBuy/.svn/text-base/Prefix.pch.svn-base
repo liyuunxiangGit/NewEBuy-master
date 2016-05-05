@@ -1,0 +1,63 @@
+//
+// Prefix header for all source files of the 'Test' target in the 'Test' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <QuartzCore/QuartzCore.h>
+#import <SNFoundation.h>
+#import <extobjc.h>
+
+#pragma mark ----------------------------- Config
+#import "Constant.h"
+
+#pragma mark - Common
+#import "SNLogger.h"
+
+#import "Config.h"
+
+#pragma mark ----------------------------- UI
+
+#import "SNUITableView.h"
+#import "SNUITableViewCell.h"
+#import "SNUIBarButtonItem.h"
+#import "SNUIAlertView.h"
+#import "SNUIActionSheet.h"
+#import "SNUILabel.h"
+#import "SNUITextField.h"
+#import "SNUIWebView.h"
+#import "SNUIButton.h"
+#import "SNUITextView.h"
+#import "SNUIView.h"
+#import "SNUIImageView.h"
+#import "SNUIScrollView.h"
+#import "SNUISearchBar.h"
+#import "SNUIPageControl.h"
+#import "BBAlertView.h"
+#import "SNBarButtonItem.h"
+
+#pragma mark ----------------------------- others
+
+#import "ASIHTTPRequest.h"
+#import "ASIFormDataRequest.h"
+#import "NSObject+JSON.h"
+#import "Http.h"
+#import "Additions.h"
+#import "SystemInfo.h"
+#import "CommonViewController.h"
+#import "AuthManagerNavViewController.h"
+#import "UserCenter.h"
+#import "GlobalDataCenter.h"
+#import "NSObject+BoardManage.h"
+#import "CommandManage.h"
+#import "DefaultKeyWordManager.h"
+#import "NSDictionary+Additions.h"
+
+#endif

@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers
+END
+BizcardResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/BizcardResultParser.h
+END
+ResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/ResultParser.h
+END
+GeoResultParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/GeoResultParser.m
+END
+ProductResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/ProductResultParser.h
+END
+PlainEmailResultParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/PlainEmailResultParser.m
+END
+BizcardResultParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/BizcardResultParser.m
+END
+TelResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/TelResultParser.h
+END
+ResultParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/ResultParser.m
+END
+AddressBookAUResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/AddressBookAUResultParser.h
+END
+EmailDoCoMoResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/EmailDoCoMoResultParser.h
+END
+TelResultParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/TelResultParser.m
+END
+AddressBookAUResultParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/AddressBookAUResultParser.m
+END
+ISBNResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/ISBNResultParser.h
+END
+MeCardParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/MeCardParser.h
+END
+EmailAddressResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/EmailAddressResultParser.h
+END
+EmailDoCoMoResultParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/EmailDoCoMoResultParser.m
+END
+ISBNResultParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/ISBNResultParser.m
+END
+MeCardParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/MeCardParser.m
+END
+SMSResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/SMSResultParser.h
+END
+EmailAddressResultParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/EmailAddressResultParser.m
+END
+URLTOResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/URLTOResultParser.h
+END
+BookmarkDoCoMoResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/BookmarkDoCoMoResultParser.h
+END
+SMSResultParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/SMSResultParser.m
+END
+UniversalResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/UniversalResultParser.h
+END
+URLTOResultParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/URLTOResultParser.m
+END
+BookmarkDoCoMoResultParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/BookmarkDoCoMoResultParser.m
+END
+UniversalResultParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/UniversalResultParser.m
+END
+SMTPResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/SMTPResultParser.h
+END
+TextResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/TextResultParser.h
+END
+SMTPResultParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/SMTPResultParser.m
+END
+TextResultParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/TextResultParser.m
+END
+VCardResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/VCardResultParser.h
+END
+ProductResultParser.mm
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/ProductResultParser.mm
+END
+URLResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/URLResultParser.h
+END
+VCardResultParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/VCardResultParser.m
+END
+SMSTOResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/SMSTOResultParser.h
+END
+URLResultParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/URLResultParser.m
+END
+SMSTOResultParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/SMSTOResultParser.m
+END
+GeoResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/GeoResultParser.h
+END
+PlainEmailResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/2012_Terminal_code/!svn/ver/101081/Ebuy/iphone/branches/SUNINGEBUY_V2.3.7/SuningEBuy/trunk/sourceCode/zxing/iphone/ZXingWidget/Classes/resultParsers/PlainEmailResultParser.h
+END
